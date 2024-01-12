@@ -1,5 +1,7 @@
 
 ## **Setting up worm crosses**
+Date: 10-28-2022
+Author: Jessica Hill
 
 ### **MATERIALS**
 - L4 stage to very young adult N2 worms 
