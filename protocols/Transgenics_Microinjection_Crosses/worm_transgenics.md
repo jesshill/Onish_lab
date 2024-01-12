@@ -1,6 +1,11 @@
-﻿**Integration of worm transgenes**
+## ﻿**Integration of worm transgenes**
+Date: 12-17-2014
+
+Author: Erin Nishimura
 
 *This protocol illustrates how to transform worms and select for stable integrants in the MOSSCI sites.*
+
+---
 
 **Plasmids:** 
 
