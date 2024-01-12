@@ -1,49 +1,38 @@
-﻿**Onish Lab: *C. elegans* Microinjection Protocol**
+## ﻿***C. elegans* Microinjection Protocol**
 
-**EQUIPMENT**
+Date: 08-03-2023
 
-Microinjection needles
+Author: Jessica Hill (adapted from literature and the Hoerndli lab)
 
-- Pull needles fresh or keep from accumulating dust.
+---
 
-Injection pads
+### **EQUIPMENT**
 
-- Make 2% w/v agar pads with Nanopore water. 
-  - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top. Then let cool ~5 min and uncover. Dry pads overnight. 
-  - Alternatively, can make same day and dry in 37C incubator. 
-- Use the 22x50 glass coverslips (Fisher, cat: 12-548-5E) to mount the agar pad on and to flatten the agar drop. 
+- Microinjection needles
+  - Pull needles fresh or keep from accumulating dust.
+- Injection pads
+  - Make 2% w/v agar pads with Nanopore water. 
+    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top. Then let cool ~5 min and uncover. Dry pads overnight. 
+    - Alternatively, can make same day and dry in 37C incubator. 
+  - Use the 22x50 glass coverslips (Fisher, cat: 12-548-5E) to mount the agar pad on and to flatten the agar drop. 
+- Injection oil
+  - Use Halocarbon oil. 
+- Worm pick
+- M9 buffer for recovery
+- Worms
+  - Want worms to be late L4 to YA stage. Want about 1 – 3 or 1 – 5 embryos present in the worm. 
+  - Wormbook: Well fed, young to middle aged (> 1 day old) gravid hermaphrodites with a full but single row of eggs. 
+- NGM/OP50 plates
+  - Want 1 per injected worm. 
+- Microinjection needle loading pipettes 
+  - Use a P2 pipette to load the microinjection needle. 
+- DNA for injection (either plasmid or linear fragments)
+  - For isolation of plasmids, use the PureLink HQ Mini Plasmid DNA Purification Kit (Invitrogen; K2100-01). The optional wash step in this protocol is NOT optional.
+    - Isolated plasmids should be kept/used for about 1 month in -20C. Then need to be renewed. 
 
-Injection oil
+### **PROTOCOL**
 
-- Use Halocarbon oil. 
-
-Worm pick
-
-Paint brush
-
-M9 buffer for recovery
-
-Worms
-
-- Want worms to be late L4 to YA stage. Want about 1 – 3 or 1 – 5 embryos present in the worm. 
-- Wormbook: Well fed, young to middle aged (> 1 day old) gravid hermaphrodites with a full but single row of eggs. 
-
-NGM/OP50 plates
-
-- Want 1 per injected worm. 
-
-Microinjection needle loading pipettes 
-
-- Use a P2 pipette to load the microinjection needle. 
-
-DNA for injection (either plasmid or linear fragments)
-
-- For isolation of plasmids, use the PureLink HQ Mini Plasmid DNA Purification Kit (Invitrogen; K2100-01). The optional wash step in this protocol is NOT optional.
-  - Isolated plasmids should be kept/used for about 1 month in -20C. Then need to be renewed. 
-
-**PROTOCOL**
-
-Injection
+**Injection**
 
 1. Prepare DNA mix for injection (20 uL). Once prepared, centrifuge (30 min, 12,000g, 4C) and remove 10 – 15 uL off the top and transfer to a clean tube. Use this for injecting. Store on ice. 
    1. Keep DNA mix in the fridge for further use, but don’t keep/use for more than 1 week. 
@@ -74,7 +63,7 @@ Injection
 1. Now pick the injected worm into the M9 spot on the plate. 
 1. Check for transgenic worms over the next few days. 
 
-Integration 
+**Integration**
 
 *Adapted for dTomato containing extrachromosomal arrays into mtl-2::GFP(Is) background. Adapted from Hoerndli Lab Transgene Integration protocol, which was adapted from Adapted from Mariol et al., 2013*
 
@@ -102,9 +91,9 @@ Integration
    1. Keep these F1 plates at 20 °C until the progeny reaches adulthood
    1. Discard all F1 plates exhibiting either i) no progeny, indicating that the F1 animal was sterile or died, or ii) no or only few dTomato+ F2 animals, indicating that the F1 animal did not transmit the transgene at the expected rate. 
 1. Selection of F2 animals:
-   1. Pick dTomato+ F2 animals from each selected F1 plate. If a fluorescent transgene is being integrated (ex. mCherry or gfp), you should pick F2 worms with a high level of fluorescence as this could indicate that these animals are homozygous for the integrated array. 
+   1. Pick dTomato+ F2 animals from each selected F1 plate. If a fluorescent transgene is being integrated (ex. mCherry or gfp), you should pick F2 worms with a high level of fluorescence as this could indicate that these animals are homozygous for the integrated array.
 
-*\*Note: when picking F2 animals it is critical not to carry along eggs or larvae in order to avoid false negatives in the next step.*
+      *Note: when picking F2 animals it is critical not to carry along eggs or larvae in order to avoid false negatives in the next step.*
 
 1. Grow F2 animals at 20 °C.
 1. Isolation and validation of integrated transgenic strains:
@@ -117,12 +106,9 @@ Integration
    1. Repeat steps 10.1 and 10.2 two more times 
 
 
-
-**NOTES**
+## **NOTES**
 
 Hoerndli Lab Transilluminator info:
-
-
 
 BioDoc-It 210 Imaging System
 
@@ -133,7 +119,7 @@ P/N 97-0166-01
 100-115V~60Hz
 
 
-Pointers from Rachel Doser
+**Pointers from Rachel Doser**
 
 - Start with new DNA (purified within last 6 months old if kept at 4 degrees)
 - Adjust DNA concentrations based on desired expression levels (i.e. if I want high expression of a tool, then the construct for that tool is at ~30ng/uL in my DNA mix. For low expression, I decrease the concentration to ~10-15ng/uL)
@@ -142,7 +128,7 @@ Pointers from Rachel Doser
 - Get comfortable with adjusting needle pulling protocols on the pipette puller for your specific injection - injections go much more smoothly and are more efficient if your needles are optimized. This means I wouldn't rely on breaking needle tips since this leads to a jagged needle tips which I've noticed cause more death of injected worms than a smooth tip. Additionally, you can't control the opening size of the needle you break so then you must guess what pressure and duration to set the picospritzer to. 
 - When starting out, inject a lot. Like two or three days in a row for a couple of weeks. I have seen that it will take people 6 months or longer (sometimes even never) to get the hang of injecting if they only attempt it once every couple of weeks. 
 
-Pointers from Kaz Knight
+**Pointers from Kaz Knight**
 
 - Place all injected worms onto the same plate. 
 - For new plasmids, start at a known [] and go up or down from there (i.e., 5 – 30 ng)
