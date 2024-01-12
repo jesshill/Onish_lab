@@ -57,7 +57,7 @@ Plasmids to inject are:
 - ***Distribute worms.*** At the end of the day, distribute the worms so that there are 3 worms per small OP50-seeded plate. Also grow a plate of 3 uninjected worms to serve as a positive control.
 - Grow worms at 25 C (benchtop).
 
-**2-days later:**
+**2-days later**
 
 - Two days later, dilute hygromycin to 10 mg/ml.
 - Pipet 500 ul of hygromycin onto each 6cm plate (1ml if using 10 cm plates).
