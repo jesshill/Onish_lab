@@ -1,34 +1,21 @@
 
 ## **Setting up worm crosses**
 
-
 ### **MATERIALS**
-
-L4 stage to very young adult N2 worms 
-
-Worm strains to be crossed
-
-Water bath 
-
-Small NGM OP50 plates
-
-Mating plates (Want a small OP50 lawn to get the hermaphrodites and males into close proximity!): 
-
-> Small NGM plates spotted with 10 – 15 uL of OP50
-
-> Actual mating plates spotted with 5 uL of OP50
-
+- L4 stage to very young adult N2 worms 
+- Worm strains to be crossed
+- Water bath 
+- Small NGM OP50 plates
+- Mating plates (Want a small OP50 lawn to get the hermaphrodites and males into close proximity!): 
+   - Small NGM plates spotted with 10 – 15 uL of OP50
+   - Actual mating plates spotted with 5 uL of OP50
 
 ### **PROTOCOL**
+- *C. elegans* has six chromosomes: five autosomes (I – V) and an X chromosome. Hermaphrodites are diploid for all six, whereas males are diploid for the autosomes but are haploid for the sex chromosome—designated XO.  
+- Males (XO) naturally occur at only a low frequency (~0.02%) in wild-type populations. As such, we need to make and maintain our own stocks of males. 
+- Need to become familiar with the *C. elegans* genetics nomenclature. 
 
-*C. elegans* has six chromosomes: five autosomes (I – V) and an X chromosome. Hermaphrodites are diploid for all six, whereas males are diploid for the autosomes but are haploid for the sex chromosome—designated XO.  
-
-Males (XO) naturally occur at only a low frequency (~0.02%) in wild-type populations. As such, we need to make and maintain our own stocks of males. 
-
-Need to become familiar with the *C. elegans* genetics nomenclature. 
-
-
-**Make males**
+#### **Make males**
 
 1. Turn on water bath to 33°C.
 2. Pick 3 to 4 L4 stage N2 hermaphrodites (XX) onto 1 small NGM/OP50 plate. 
@@ -41,7 +28,7 @@ Need to become familiar with the *C. elegans* genetics nomenclature.
    1. Male progeny will occur at a much greater frequency (~50%) now because their sperm is preferred over self-fertilization. 
 8. It is advisable to make worm stocks of males once you get a few plates going. 
 
-**Setting up a cross**
+#### **Setting up a cross**
 
 1. Develop the mating scheme. 
    1. Need to know what strains you are crossing and how you will select for the cross progeny of interest. Will you rely on a fluorescent marker or visible phenotype for selection?  
