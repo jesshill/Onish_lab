@@ -16,7 +16,7 @@ Plasmids to inject are:
 
 `	`(5) pCFJ104 (*pmyo-3::mCherry*) Addgene #19328 -- saved as pEO96
 
-(6) pCFJ90 (*pmyo-2::mCherry*) Addgene #19327 -- saved as pEO97
+`	`(6) pCFJ90 (*pmyo-2::mCherry*) Addgene #19327 -- saved as pEO97
 
 **Reagents:**
 
