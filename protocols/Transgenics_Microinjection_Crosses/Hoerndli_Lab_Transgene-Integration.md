@@ -1,6 +1,8 @@
-﻿Integration protocol for <i>lin-15<sup>+</sup></i> containing arrays into a <i>lin-15(lf)</i> background
+##  ﻿Integration protocol for <i>lin-15<sup>+</sup></i> containing arrays into a <i>lin-15(lf)</i> background
 
 *Adapted from Mariol et al., 2013*
+
+---
 
 1. Prepare culture plates:
    1. Prepare about 500 small NGM plates
