@@ -35,9 +35,9 @@
    1. Discard all F1 plates exhibiting either i) no progeny, indicating that the F1 animal was sterile or died, or ii) no or only few non-muv F2 animals, indicating that the F1 animal did not transmit the transgene at the expected rate. 
 
 1. Selection of F2 animals:
-   1. Pick non-muv F2 animals from each selected F1 plate. If a fluorescent transgene is being integrated (ex. mCherry or gfp), you should pick F2 worms with a high level of fluorescence as this could indicate that these animals are homozygous for the integrated array. 
-
-*\*Note: when picking F2 animals it is critical not to carry along eggs or larvae in order to avoid false negatives in the next step.*
+   1. Pick non-muv F2 animals from each selected F1 plate. If a fluorescent transgene is being integrated (ex. mCherry or gfp), you should pick F2 worms with a high level of fluorescence as this could indicate that these animals are homozygous for the integrated array.
+   
+   *Note: when picking F2 animals it is critical not to carry along eggs or larvae in order to avoid false negatives in the next step.*
 
 1. Grow F2 animals at 20 °C.
 
