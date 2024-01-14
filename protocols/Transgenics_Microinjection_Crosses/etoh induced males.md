@@ -1,6 +1,12 @@
-﻿10/30/2023Protocol to induce males with ethanol
+﻿## Protocol to induce males with ethanol
 
-This protocol serves as a more efficient alternative to making males than heat treatment in a water bath. 
+Date: 10-30-2023
+
+Author: Jessica Hill (adapted from ...)
+
+---
+
+**This protocol serves as a more efficient alternative to making males than heat treatment in a water bath.** 
 
 
 1) Make fresh a solution of 7% ethanol in M9 (700 uL of 100% ethanol in 9.3 mL of M9).
