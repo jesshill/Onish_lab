@@ -2,6 +2,8 @@
 
 Note: this protocol is adapted from Schwartz and Jorgensen 2016, transformation protocol adapted from Alisa Shaw
 
+---
+
 REAGENTS/MATERIALS: 
 
 Day 1:
