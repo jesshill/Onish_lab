@@ -2,7 +2,7 @@
 
 Date: 10-30-2023
 
-Author: Jessica Hill (adapted from ...)
+Author: Jessica Hill (adapted from Porfirio Fernandez at NYU)
 
 ---
 
