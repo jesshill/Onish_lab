@@ -1,6 +1,12 @@
 ﻿
 **Live Bacterial Imaging Slide Prep**
 
+Date: 03-31-2023
+
+Author: Andrew Moore
+
+--- 
+
 1. Collect worms from plates into a 15 mL conical tube using M9.
 1. Spin down @2000g for 1 min, remove supernatant and wash in M9 a total of 3 times. On the last wash, resuspend in 5mL of M9. 
 1. Move 1mL into an eppi and spin down @2500g for 1 min.
