@@ -14,9 +14,19 @@ Day 1:
 - 50nM IDT-synthesized oligonucleotide (gRNA donor or HR template donor)
   - Resuspended with DEPC H20
 - 50nM Target plasmid (for gRNA – pMLS134; for HR template – pMLS257)
-- SapTrap Enzyme Mix:
+- SapTrap Enzyme Mix Recipe:
 
-(need to add the table here)
+|Component  |20 rxns |50 rxns |100 rxns |
+| :- | :- | :- | :- |
+|10x Cutsmart Buffer:|5 uL|12.5 uL|25 uL |
+|H20:|22.5 uL|56.3 uL|112.5 uL |
+|10 mM ATP:|5 uL|12.5 uL|25 uL |
+|1 M DTT:|0.25 uL|0.63 uL|1.25 uL |
+|400 U/uL T4 DNA ligase:|1.25 uL|3.1 uL|6.25 uL |
+|10 U/uL T4 polynucleotide kinase:|1 uL|2.5 uL|5 uL |
+|10 U/uL SapI*:|5 uL|12.5 uL|25 uL |
+
+*Thoroughly resuspend SapI before withdrawing from stock tube. SapI settles from solution during storage.
 
 Day 2:
 - Restriction enzyme for counter-selection of vector
