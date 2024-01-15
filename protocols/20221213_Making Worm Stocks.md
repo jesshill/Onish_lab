@@ -1,9 +1,10 @@
-﻿**Making Worm Stocks**
+﻿## **Making Worm Stocks**
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Date:**
 
-Strain(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Strain(s):** 
 
+---
 
 **SOLUTIONS**
 
@@ -35,5 +36,4 @@ Strain(s): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 1. The next day transfer the vials to their permanent freezer locations. Thaw one vial as a tester to check how well the worms survived the freezing process. 
 
 
-**NOTES**
-
+**NOTES:**
