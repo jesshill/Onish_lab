@@ -1,6 +1,8 @@
 ## ﻿**SapTrap Assembly for CRISPR vectors (modified from the paper)**
 
-Note: this protocol is adapted from Schwartz and Jorgensen 2016, transformation protocol adapted from Alisa Shaw
+CRISPR protocol is adapted from Schwartz and Jorgensen 2016 
+
+transformation protocol adapted from Alisa Shaw
 
 **Reference the paper for full protocol:** Schwartz ML, Jorgensen EM. SapTrap, a Toolkit for High-Throughput CRISPR/Cas9 Gene Modification in Caenorhabditis elegans. Genetics. 2016 Apr;202(4):1277-88. doi: 10.1534/genetics.115.184275. Epub 2016 Feb 2. PMID: 26837755; PMCID: PMC4905529.
 
