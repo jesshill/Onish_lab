@@ -2,57 +2,62 @@
 
 **COLORADO STATE UNIVERSITY**
 
-**Title: The title should be descriptive of the procedure’s content.**
+**Title:** The title should be descriptive of the procedure’s content.
 
-**Version:** **1.0** (Unique identification number/letter code)			**Effective Date:** **YYYYMMDD**
+**Version:** 1.0 (Unique identification number/letter code)			
 
+**Effective Date:** YYYYMMDD
 
-**Approval:** NAME								**Date: YYYYMMDD** 
+**Approval:** NAME								
 
-**Biosafety Approval:** NAME							**Date: YYYYMMDD**	 
+**Approval Date:** YYYYMMDD
 
-**Final Approval:** NAME**								**Date: YYYYMMDD**
+**Biosafety Approval:** NAME							
 
-**Applicable To** (List of all people the SOP is applicable to)
+**Biosafety Approval Date:** YYYYMMDD
 
-… … 
+**Final Approval:** NAME								
 
-**Purpose** (State the objective of a procedure including additional background information and limitations)
+**Final Approval Date:** YYYYMMDD
 
-… … 
+---
 
-**Safety Considerations (Risks)** (Identify unique risks and mitigation steps specific to the procedure)
+**Applicable To:** (List of all people the SOP is applicable to)
 
-… … 
+(add here)
 
-**Equipment** (List equipment to be used in the procedure, include any special instructions about its use)
+**Purpose:** (State the objective of a procedure including additional background information and limitations)
 
-… … 
+(add here)
 
-**Materials** (List materials to be used in the procedure)
+**Safety Considerations (Risks):** (Identify unique risks and mitigation steps specific to the procedure)
 
-… … 
+(add here)
 
-**Procedure** (Describe the procedure in a step-by-step, chronological manner)
+**Equipment:** (List equipment to be used in the procedure, include any special instructions about its use)
 
-… … 
+(add here)
 
-**Definitions** (As needed)
+**Materials:** (List materials to be used in the procedure)
 
-… … 
+(add here)
 
-**References** (Traditional references as needed. SOPs necessary to fulfill the requirements for this SOP.)
+**Procedure:** (Describe the procedure in a step-by-step, chronological manner)
 
-… … 
+(add here)
 
-**Appendix** (As needed)
+**Definitions:** (As needed)
 
-… …
+(add here)
 
-**Revisions** (Newly added material or material that has been edited in the SOP)
+**References:** (Traditional references as needed. SOPs necessary to fulfill the requirements for this SOP.)
 
-… … 
+(add here)
 
+**Appendix:** (As needed)
 
-Page 1** of 1**
+(add here)
 
+**Revisions:** (Newly added material or material that has been edited in the SOP)
+
+(add here)
