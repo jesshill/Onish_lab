@@ -1,12 +1,18 @@
 ﻿## **Making Worm Stocks**
 
-**Date:**
+**Date:** 12-13-2022
+
+**Author:** Erin Nishimura
+
+--- 
+
+**Prep Date:**
 
 **Strain(s):** 
 
 ---
 
-**SOLUTIONS**
+### **SOLUTIONS**
 
 - S Buffer (autoclave or sterile filter): 
   - 1 L
@@ -21,7 +27,7 @@
 - S Buffer + 30% glycerin (v/v) (autoclave or sterile filter)
 
 
-**PROCEDURE**
+### **PROCEDURE**
 
 1. Use 1 large, 2-3 medium, or 5-6 small NGM plates that have lots of freshly starved L1-L2 animals. 
 1. Wash the plate(s) with 0.6 mL S Buffer for each vial you will freeze. 
@@ -36,4 +42,7 @@
 1. The next day transfer the vials to their permanent freezer locations. Thaw one vial as a tester to check how well the worms survived the freezing process. 
 
 
-**NOTES:**
+### **NOTES:**
+
+
+
