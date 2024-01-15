@@ -60,27 +60,27 @@ Day 3/4:
 
 Centrifuge tube with dried gBlock at 3000xg to settle, resuspend in TE buffer or nuclease-free H2O (pH 7.5-8) to reach 50nM. Use the equation below for the calculation. The molecular weight of the oligo should be reported on the specification sheet (I assumed they followed the convention of reporting molecular weight in g/mol because IDT doesn’t directly report units). Note that the amount delivered is typically in ng, so we need to input that unit conversion (1ng = 1\*10^-9g)
 
-Resuspension volumeuLfor 50nM = amount g-block delivered (g)\*106uL50\*10-9M\*oligo MWg/mol
+Resuspension volume (uL)for 50nM = (amount gblock delivered (g) * 10^6 uL)/(50 * 10^-9 M * oligo MW (g/mol))
 
-calculation example – for a g-block with a molecular weight of 137020.9 that I received 250ng of, I find that I need to resuspend in 36.49uL for 50nM
+calculation example: for a gblock with a MW of 137020.9 (g/mol) that I received 250 ng of, I find that I need to resuspend in 36.49 uL for 50 nM.
 
 IF they give you a delivery amount in mol:
 
-Resuspension volumeuLfor 50nM= amount g-block delivered mol\*10650\*10-9
+Resuspension volume (uL)for 50 nM = (amount gblock delivered (mol) * 10^6)/(50 * 10^-9)
 
-calculation example – for a g-block that I received 1824fmol of, I find that I need to resuspend in 36.49uL for 50nM
+calculation example: for a gblock that I received 1824 fmol of, I find that I need to resuspend in 36.49 uL for 50 nM. 
 
 >> For dsDNA oligos:
  
 Have to do serial dilutions since we get so much of each duplex.
 
-Start by making a 100uM dilution of the duplex stock: (note that typically IDT reports delivery in nmol, and 1 nmol = 1\*10^-9mol
+Start by making a 100 uM dilution of the duplex stock: (note that typically IDT reports delivery in nmol, and 1 nmol = 1 * 10^-9 mol
 
-Resuspension volumeuLfor 100uM= amount duplex delivered mol\*106100\*10-6
+Resuspension volume (uL) for 100 uM = (amount duplex delivered (mol) * 10^6)/(100 * 10^-6)
 
-calculation example – for a duplex that I received 250ng of, I find that I need to resuspend in 890uL for 100uM
+calculation example: for a duplex that I received 250 ng of, I find that I need to resuspend in 890 uL for 100 uM.
 
-We’ll then take 0.5uL of the 100uM duplex solution, and dilute it with 999.5uL ddH2O (yes) to reach a final [] of 50nM
+We’ll then take 0.5 uL of the 100 uM duplex solution, and dilute it with 999.5 uL ddH2O to reach a final [] of 50 nM.
 
 > SapTrap Assembly:
   
@@ -124,7 +124,7 @@ We’ll then take 0.5uL of the 100uM duplex solution, and dilute it with 999.5uL
 - Take 7uL of each culture and inoculate overnight cultures with 4mL LB and 4uL 1000X antibiotic. Ensure that you also grow a positive (pUC19 transformed) and negative (OP50) control
 - For your remaining 3uL of bacteria, boil PCR tubes to lyse bacterial cells with this program: 
   - 2uL Volume
-  - 95C – 5:00min
+  - 95C – 5:00 min
   - 12C – hold (infinite)
 
 > Colony PCR
@@ -158,6 +158,7 @@ Mixes: 
 |100uM Primer 1 |0\.25 ||
 |Q5 Taq polymerase (add last)|0\.5 ||
 |Total |45 ||
+
 Once the mixes are made and added to the DNA, I use the following thermocycler protocol (listed as (Q5) in thermocycler).
 
 - 98C 30sec  
