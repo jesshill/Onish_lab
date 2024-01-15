@@ -3,6 +3,10 @@
 
 Adapted from Wormbook <http://www.wormbook.org/chapters/www_strainmaintain/strainmaintain.html>
 
+**Date:** 
+
+**Author:** Erin Nishimura
+
 --- 
 
 ### **Methods**
