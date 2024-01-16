@@ -1,18 +1,19 @@
-﻿
-**1 Liter of LB Abx Plates**
+﻿## **1 Liter of LB Abx (any kind) Plates**
 
+**Date:** 09-26-2022
 
-Date of preparation: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+**Author:** Nishimura lab, adapted by Jessica Hill
 
-Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+--- 
+
+**Date of preparation:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+
+**Prepared by:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 To an Erlenmeyer flask add:	
-
-`	`25 g LB powder  	
-
-`	`15 g agar		
-
-`	`1 liter ddH<sub>2</sub>O		
+- 25 g LB powder  	
+- 15 g agar		
+- 1 liter ddH<sub>2</sub>O		
 
 Cover the flask with foil, add a strip of autoclave tape, and autoclave for 40 min on liquid cycle.
 
