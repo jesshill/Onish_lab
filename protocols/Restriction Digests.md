@@ -1,5 +1,11 @@
 ﻿## Restriction Digests
 
+**Date:** 04-13-2021
+
+**Author:** Nishimura lab
+
+--- 
+
 Digests are highly variable in terms of reaction setup. However, there are a few key questions to answer when setting up a reaction:
 
 - What is the final product that you will be making?
