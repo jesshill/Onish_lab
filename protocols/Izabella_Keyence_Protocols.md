@@ -1,8 +1,14 @@
-﻿201110\_Izabella Keyence Protocols for Jess
+# Keyence protocols for Jess 
 
-**Making Glass Needles for Dissections and Mouth Pipette**
+**Date:** 11-10-2020
 
-**Pulling glass needles**
+**Author:** Izabella M. 
+
+--- 
+
+## Making Glass Needles for Dissections and Mouth Pipette
+
+### Pulling glass needles
 
 - on switch of micropipette pliers = left side
 - capillary tubes in bottle by machine
@@ -17,7 +23,7 @@
 - open shield, loosen screws, and take out needles by pulling straight up
 - after making needle, cut it
 
-**Cutting the glass needle to desired size**
+### Cutting the glass needle to desired size
 
 - power switch on front of cutter
 - slide needle into holder until it doesn't come out when you pull it because rubber gasket then tighten front
@@ -37,9 +43,9 @@
 - unscrew top securing part and take out needle 
 - turn heat all the way up to melt into broken needle
 
-**Making Slides for Imaging Gravid Worms**
+## Making Slides for Imaging Gravid Worms
 
-Start an hour before imaging
+### Start an hour before imaging
 
 - TURN ON HIGH HEAT SETTING (right switch) ON WAX MELTER AND GET THAT HEATING
 - get gravid ELT-2 and L4440 RNAi plates from incubator
@@ -60,11 +66,11 @@ Start an hour before imaging
 - repeat process for other RNAi strain
 - clean mouth pipette into liquid waste with EtOH and water if liquid got into lower area of it, otherwise just clean mouth part with kimtech wipe and EtOH
 
-\*keep M9/NaN<sub>3</sub> for about 6 months or less. Will notice when going bad because worms will become less affected/paralyzed. 
+keep M9/NaN<sub>3</sub> for about 6 months or less. Will notice when going bad because worms will become less affected/paralyzed. 
 
-\*Make up 15 mL of 25 mM NaN<sub>3</sub> (FW: 65.01 g/mol; S2271-25; Fisher Chem.) in M9 
+Make up 15 mL of 25 mM NaN<sub>3</sub> (FW: 65.01 g/mol; S2271-25; Fisher Chem.) in M9 
 
-**Imaging Gravid Worms on Keyence Microscope**
+## Imaging Gravid Worms on Keyence Microscope
 
 - get key to Keyence room from Bamburg lab; in top drawer directly to the right of the door on wooden block
 - turn on light box, then microscope, then computer
@@ -95,11 +101,11 @@ Start an hour before imaging
   - Turn off microscope
   - Turn off lightbox 
 
-\*can set as many edge points as you want
+can set as many edge points as you want
 
-**Keyence Image Stitching with Z-Stacks**
+## Keyence Image Stitching with Z-Stacks
 
-**For larger worms (L3, L4, gravid) that had multiple panels of images taken initially:** 
+### For larger worms (L3, L4, gravid) that had multiple panels of images taken initially:
 
 - open BZ-X file (the first one in the folder with the Keyence icon on it)
 - this will open the file in the analyzer
@@ -108,7 +114,7 @@ Start an hour before imaging
 - select **full focus** at bottom
 - select **sectioning images**\*
 
-\*using sectioning images and not normal because gets rid of haze and seems artificial and bad, want the haze because reflects full intensity at all z-stacks layers
+using sectioning images and not normal because gets rid of haze and seems artificial and bad, want the haze because reflects full intensity at all z-stacks layers
 
 - this loads z-stacks and displays preview from multiple images it took to capture worm
 - correct shading, auto, UNCOMPRESSED (have to click this), and adjust image positions
@@ -117,7 +123,7 @@ Start an hour before imaging
 - change file path to correct worm
 - rename JM149\_stage\_RNAi\_worm\_#\_fullfocussectioning\_GFP\*
 
-\*a shortcut for this is once you're in the right image folder, click on another image in the folder that will have the correct first part of the naming prefix, delete the random numbers and such at the end after the worm number, and paste in "fullfocussectioning\_GFP"
+a shortcut for this is once you're in the right image folder, click on another image in the folder that will have the correct first part of the naming prefix, delete the random numbers and such at the end after the worm number, and paste in "fullfocussectioning\_GFP"
 
 - exit -> don't save -> close
 - open same worm's BZ-X file
@@ -131,16 +137,14 @@ Start an hour before imaging
 - double check pathway (it should be correct)
 - rename: JM149\_stage\_RNAi\_worm\_#\_stitch\_brightfield\*
 
-\*can use same renaming trick as described above for this one, execpt I just typed out "stitch\_brightfield" since the other one is more annoying to type and I liked that one being the one I copied and pasted
+can use same renaming trick as described above for this one, execpt I just typed out "stitch\_brightfield" since the other one is more annoying to type and I liked that one being the one I copied and pasted
 
 - exit -> no -> close
 - repeat for all worms
 - When done:
   - Close out of software and say ‘No to all’
 
-
-
-**For smaller worms (L1, L2) that only had one image panel taken:**
+### For smaller worms (L1, L2) that only had one image panel taken:
 
 - open BZ-X file (the first one in the folder with the Keyence icon on it)
 - this will open the file in the analyzer
@@ -155,12 +159,9 @@ Start an hour before imaging
 - go to correct file folder for the worm you're stitching images of
 - rename JM149\_stage\_RNAi\_worm\_#\_fullfocussectioning\_GFP and click save\*
 
-\*a shortcut for this is once you're in the right image folder, click on another image in the folder that will have the correct first part of the naming prefix, delete the random numbers and such at the end after the worm number, and paste in "fullfocussectioning\_GFP"
+a shortcut for this is once you're in the right image folder, click on another image in the folder that will have the correct first part of the naming prefix, delete the random numbers and such at the end after the worm number, and paste in "fullfocussectioning\_GFP"
 
 - don't need to do brightfield because only 1 image panel
 - repeat for all worms
 - When done:
   - Close out of software and say ‘No to all’
-
-
-
