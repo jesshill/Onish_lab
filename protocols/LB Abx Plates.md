@@ -1,4 +1,4 @@
-﻿## **1 Liter of LB Abx (any kind) Plates**
+﻿## **1 Liter of LB Abx Plates (any kind)**
 
 **Date:** 09-26-2022
 
