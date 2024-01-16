@@ -1,5 +1,4 @@
-﻿
-**Restriction Digests**
+﻿## Restriction Digests
 
 Digests are highly variable in terms of reaction setup. However, there are a few key questions to answer when setting up a reaction:
 
@@ -30,4 +29,3 @@ Digests are highly variable in terms of reaction setup. However, there are a few
   - Run the gel until the visible dye is about 75% of the way down. 
   - Usually takes around 1-1.5 hours, depending on the size of your gel and the percentage of agarose used. 
   - Typical: load around 100 – 150 ng of DNA/well and run at 100V for 1.5 hrs 
-
