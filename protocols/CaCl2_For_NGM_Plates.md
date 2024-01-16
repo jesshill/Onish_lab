@@ -1,11 +1,17 @@
-﻿<b>1 M CaCl<sub>2</sub> for NGM Plates</b>
+﻿## 1 M CaCl<sub>2</sub> for NGM Plates</b>
 
-Date of preparation: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 
+**Date:** 09-26-2022
 
-Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Author:** Nishimura lab
+
+---
+
+**Date of preparation:** 
+
+**Name:** 
 
 
-To a 1 L flask add:            Actual amt added:      Bottle Lot #: 	             Cat#:               Date received:
+To a 1 L flask add:
 
 110\.98 g CaCl<sub>2</sub>  	    \_\_\_\_\_\_\_\_\_\_\_\_\_\_	 \_\_\_\_\_\_\_\_\_\_\_\_\_    \_\_\_\_\_\_\_\_\_\_\_     \_\_\_\_\_\_\_\_\_\_\_\_\_
 
