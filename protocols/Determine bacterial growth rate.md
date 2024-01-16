@@ -1,4 +1,10 @@
-﻿**Determine bacterial growth rate**
+## Determine bacterial growth rate
+
+**Date:** 07-07-2021
+
+**Author:** Jessica Hill, adapted from Friedrich Widdel
+
+--- 
 
 **Protocol**
 
@@ -22,9 +28,7 @@
   - There is a zero-point on the time scale (T<sub>0</sub>).
 - Bacterial generation time can be determined by extrapolation from the growth curve. 
 
-
-
-
+(add images here)
 
 **References:**
 
