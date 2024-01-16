@@ -8,7 +8,7 @@
 
 **Date of preparation:** 
 
-**Name:** 
+**Prepared by:** 
 
 
 To a 1 L flask add:
