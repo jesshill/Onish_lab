@@ -61,16 +61,16 @@ Adapted by: Jessica Hill on 12-26-2023
 - When medium turns yellow and begins crystalizing make fresh
 
 **smiFISH Probe Preparation**
-- Primary Probes
+1. Primary Probes
   - Oligos are delivered in 96-well plates diluted in TE buffer to 100 uM
   - Prepare equimolar mixture of primary probes and dilute in 10 mM Tris (pH 8.0) made with DEPC water until you reach a concentration of 0.833 uM per probe.  
     - Use the smiFISH dilution calculator to make the equimolar mix. 
 
-- FLAP Preparation
+2. FLAP Preparation
   - FLAPS are delivered lyophilized. Resuspend FLAP probes in 10 mM Tris (pH 8.0) to a final concentration of 50 uM. 
   - Make 3 uL aliquots and store at -20C in the dark.
 
-- Pre anneal smiFISH and FLAP probes
+3. Pre anneal smiFISH and FLAP probes
   - In a PCR tube, prepare solution of:
     - 2 uL of primary probe set (Oligo mixture prepared in “Primary Probe Preparation”)
     - 1 uL 50 uM FLAP 
