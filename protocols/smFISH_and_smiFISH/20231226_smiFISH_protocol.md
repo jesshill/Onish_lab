@@ -57,7 +57,6 @@ Updated Mounting Medium (3 mL)
 - 100 mg of N-propyl gallate\*
 - 400 uL of 1M Tris (pH 8.0)
 
-
 *\*Add N-propyl gallate last*
 
 - Vortex until completely dissolved.
@@ -75,7 +74,7 @@ smiFISH Probe Preparation
 
 1. FLAP Preparation
 - FLAPS are delivered lyophilized. Resuspend FLAP probes in 10 mM Tris (pH 8.0) to a final concentration of 50 uM. 
-- Make 5 uL aliquots and store at -20C in the dark.
+- Make 3 uL aliquots and store at -20C in the dark.
 
 1. Pre anneal smiFISH and FLAP probes
 - In a PCR tube, prepare solution of:

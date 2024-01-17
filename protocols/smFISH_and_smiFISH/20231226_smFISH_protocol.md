@@ -57,7 +57,6 @@ Updated Mounting Medium (3 mL)
 - 100 mg of N-propyl gallate\*
 - 400 uL of 1M Tris (pH 8.0)
 
-
 *\*Add N-propyl gallate last*
 
 - Vortex until completely dissolved.
