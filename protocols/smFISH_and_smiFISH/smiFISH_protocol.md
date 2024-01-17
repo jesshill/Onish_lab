@@ -1,10 +1,12 @@
-﻿Prepared by: Dylan Parker and Samuel Boyson on 20210302
+# smiFISH Protocol
 
-Adapted by: Jessica Hill on 20231121
+Prepared by: Dylan Parker and Samuel Boyson on 20210302
 
-**smiFISH Protocol**
+Adapted by: Jessica Hill on 12-26-2023
 
-**NEEDED REAGENTS AND SOLUTIONS**
+---
+
+## NEEDED REAGENTS AND SOLUTIONS**
 
 0\.44% Bleaching Solution** \*only need if embryo prepping sample and trying to image embryos.
 
