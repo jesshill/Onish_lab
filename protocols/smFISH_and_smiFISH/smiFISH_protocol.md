@@ -1,4 +1,4 @@
-# smiFISH Protocol
+## smiFISH Protocol
 
 Prepared by: Dylan Parker and Samuel Boyson on 20210302
 
@@ -6,9 +6,9 @@ Adapted by: Jessica Hill on 12-26-2023
 
 ---
 
-## NEEDED REAGENTS AND SOLUTIONS**
+### NEEDED REAGENTS AND SOLUTIONS
 
-0\.44% Bleaching Solution** \*only need if embryo prepping sample and trying to image embryos.
+0.44% Bleaching Solution \*only need if embryo prepping sample and trying to image embryos.
 
 - 40 mL sterile water
 - 7.2 mL 5 N NaOH
