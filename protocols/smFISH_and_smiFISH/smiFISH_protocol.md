@@ -175,3 +175,5 @@ Dustin Updike
 Arjun Raj
 
 Nikolay Tsanov, Aubin Samacoits, Racha Chouaib, Abdel-Meneem Traboulsi, Thierry Gostan, Christian Weber, Christophe Zimmer, Kazem Zibara, Thomas Walter, Marion Peter, Edouard Bertrand, Florian Mueller; smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability, *Nucleic Acids Research*, Volume 44, Issue 22, 15 December 2016, Pages e165, <https://doi.org/10.1093/nar/gkw784>
+
+Oligostan: Nikolay Tsanov N, Samacoits A, Chouaib R, Traboulsi AM, Gostan T, Weber C, Zimmer C, Zibara K, Walter T, Marion P, Bertrand E, Mueller F. smiFISH and FISH-quant - a flexible single RNA detection approach with super-resolution capability. Nucleic Acids Research.![image](https://github.com/jesshill/Onish_lab/assets/41451575/1160f999-933b-47a4-b04b-7d3ae2d6c7fa)
