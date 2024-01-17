@@ -102,18 +102,13 @@ OPTIONAL: Add 1 mL of Wash Buffer A plus DAPI (5 mg/mL) to the sample. Incubate 
   - Working at a dissecting scope, drop 2 – 6 uL of sample in mounting medium onto a single 8 mm 1.5 thickness round cover glass (Electron Microscopy Sciences, Cat#: 72296-08).
   - Add the same volume of VectaShield Diamond anti-fade solution and pipette up and down to mix thoroughly. 
   - After pipette mixing, draw off the same volume of VectaShield/sample that was just added. 
-  - Place a 1.5 thickness 22 mm x 22 mm square coverglass on top trying to avoid bubbles. 
-
-*I do all of this atop a slide so that I can flip the coverglass sandwich over without getting it stuck to the microscope stage.
-
-- Remove as much liquid as possible from between the two cover glasses using a kimwipe placed up against the round one. The aim is to flatten the sample as much as possible without damaging the embryos/worms. 
-
-*I will often press lightly with a pipette tip at the end to squeeze out that last little bit.
-
+  - Place a 1.5 thickness 22 mm x 22 mm square coverglass on top trying to avoid bubbles.
+    - I do all of this atop a slide so that I can flip the coverglass sandwich over without getting it stuck to the microscope stage.
+  - Remove as much liquid as possible from between the two cover glasses using a kimwipe placed up against the round one. The aim is to flatten the sample as much as possible without damaging the embryos/worms.
+    - I will often press lightly with a pipette tip at the end to squeeze out that last little bit.
   - Affix the coverglass sandwich to a microscope slide using a Grace Bio-Lab Press-To-Seal silicon isolator (Sigma Aldrich; cat#: GBL664504-25ea) such that the sample will be imaged through the square coverglass.
   - Head off to the microscope! 
   - Store any un-imaged samples in the dark. Image same day.
-
 - Version B
   - Add 5 uL of VectaShield Diamond anti-fade solution to the center of a microscope slide. 
   - Then add 5 uL of sample to the VectaShield.
