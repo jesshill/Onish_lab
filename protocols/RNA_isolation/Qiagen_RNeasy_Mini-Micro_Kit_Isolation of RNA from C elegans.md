@@ -1,7 +1,6 @@
-﻿**RNA ISOLATION FROM *C. ELEGANS***
+## RNA ISOLATION FROM *C. ELEGANS*
 
-**Qiagen RNeasy Mini/Micro Kit**
-
+## Qiagen RNeasy Mini/Micro Kit
 
 **ADAPTED FROM**
 
@@ -16,8 +15,11 @@ Qiagen RNeasy Mini Kit – Quick Start Protocol (part 1 and 2)
 
 Qiagen RNeasy Micro Kit – Quick Start Protocol
 
+**Date:** 07-08-2022
 
-**REAGENTS** 
+---
+
+### REAGENTS
 
 RNeasy Mini Kit (Qiagen; cat: 74104)
 
@@ -37,14 +39,15 @@ RNeasy Micro Kit (Qiagen; cat: 74004)
 
 `	`Sample amount: <5 mg of tissue 
 
-RNeasy MinElute Spin Column (stored at 4C, elution volume: 10 – 14 uL)
+`	`RNeasy MinElute Spin Column (stored at 4C, elution volume: 10 – 14 uL)
 
 TRIzol (Invitrogen; cat: 15596-026) or QIAzol (Qiagen; cat: 79306)
 
 RNase-Free DNase Set (Qiagen; cat: 79254) – DNase I for on-column digestion 
 
+---
 
-**PROTOCOL**
+### PROTOCOL
 
 1. Wipe down the bench, centrifuge, and pipettes with an RNase inhibitor (i.e., RNase Away).
 1. Cool microcentrifuge to 4C. 
@@ -85,9 +88,9 @@ RNase-Free DNase Set (Qiagen; cat: 79254) – DNase I for on-column digestion
 1. Quantify RNA on the Qubit, and then check RNA quality by running 1 – 2 ug on a prepared gel or by running on the TapeStation. 
    1. Removal of residual quinidine, phenol, and alcohol from samples is important, as they can reduce cDNA synthesis efficiency. 
 
+---
 
-
-**QUBIT FLUOROMETER**
+### QUBIT FLUOROMETER
 
 The Qubit protocol can be found under the Qubit machine. Qubit assay tubes, Qubit Reagent, and Qubit Buffer are stored at RT above the machine. Qubit Standards are kept in the door of Robs fridge. Allow Qubit standards to equilibrate at room temp for 30 minutes prior to use. 
 
@@ -127,8 +130,9 @@ Standard 2 (cat #: Q32852 D)
 1. Incubate tubes for 2 min at RT. 
 1. Now read standards then samples on Qubit. 
 
+---
 
-**TAPESTATION**
+### TAPESTATION
 
 Is an automated electrophoresis solution for the sample quality control of DNA and RNA samples. It is suitable to analyze size, quantity, and integrity of the samples. 
 
@@ -171,32 +175,9 @@ HS RNA ScreenTape Sample Buffer (Agilent; cat: 5067-5580)
    1. Always use a full strip of tubes in the machine, even if don’t need all the tubes. This will prevent single tubes or short strips from being sucked up by the machine. 
 1. Make software selections (Eukaryotic RNA protocol) and start run. 
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**SAMPLE TABLE**
+### SAMPLE TABLE
 
 |Tube ID|Date|<p>Sample</p><p>(uL)</p>|TRIzol (uL)|Chloroform (uL)|Aqueous Sup. (uL) |EtOH (uL) |<p>Elution</p><p>vol (uL)</p>|Qubit ng/uL|Tapestation ng/uL|RIN|
 | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- | :- |
