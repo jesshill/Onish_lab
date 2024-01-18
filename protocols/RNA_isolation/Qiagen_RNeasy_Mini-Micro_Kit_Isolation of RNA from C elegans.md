@@ -25,21 +25,21 @@ RNeasy Mini Kit (Qiagen; cat: 74104)
 
 `	`Specifications:
 
-`	`Purification of total RNA, miRNA, poly A+ mRNA, DNA, or protein
+`	   `Purification of total RNA, miRNA, poly A+ mRNA, DNA, or protein
 
-`	`Sample amount: 0.5 – 30 mg tissue 
+`	   `Sample amount: 0.5 – 30 mg tissue 
 
-`	`RNeasy Mini Spin Column (stored at RT, elution volume: 30 – 100 uL)
+`	   `RNeasy Mini Spin Column (stored at RT, elution volume: 30 – 100 uL)
 
 RNeasy Micro Kit (Qiagen; cat: 74004)
 
 `	`Specifications:
 
-`	`Purification of total RNA, miRNA, poly A+ mRNA, DNA, or protein
+`	   `Purification of total RNA, miRNA, poly A+ mRNA, DNA, or protein
 
-`	`Sample amount: <5 mg of tissue 
+`   	`Sample amount: <5 mg of tissue 
 
-`	`RNeasy MinElute Spin Column (stored at 4C, elution volume: 10 – 14 uL)
+`   	`RNeasy MinElute Spin Column (stored at 4C, elution volume: 10 – 14 uL)
 
 TRIzol (Invitrogen; cat: 15596-026) or QIAzol (Qiagen; cat: 79306)
 
@@ -98,37 +98,37 @@ The Qubit light path is horizontal, so only label the tops of Qubit Assay Tubes.
 
 1. Make Qubit working solution out of Qubit Reagent and Qubit Buffer (need to choose between RNA BR or HS). 
 
-Qubit RNA BR (broad range) Reagent
+   Qubit RNA BR (broad range) Reagent
 
-Qubit RNA HS (high sensitivity) Reagent
+   Qubit RNA HS (high sensitivity) Reagent
 
-\# = number of samples + 2 standards
+   \# = number of samples + 2 standards
 
-vol. Qubit Reagent = # \* 1 uL
+   vol. Qubit Reagent = # \* 1 uL
 
-vol. Qubit Buffer = # \* 199 uL 
+   vol. Qubit Buffer = # \* 199 uL 
 
-1. Make standard solutions in Qubit Assay Tubes (need to choose between RNA BR or HS standards). 
+2. Make standard solutions in Qubit Assay Tubes (need to choose between RNA BR or HS standards). 
    1. Label tubes for standard 1 and standard 2. Combine 190 uL of Qubit working solution with 10 uL of standard 1. Repeat for standard 2. 
 
-Qubit RNA BR Standards (10 – 1,200 ng)
+   Qubit RNA BR Standards (10 – 1,200 ng)
 
-Standard 1 (cat #: Q10210 C)
+   Standard 1 (cat #: Q10210 C)
 
-Standard 2 (cat #: Q10210 D)
+   Standard 2 (cat #: Q10210 D)
 
-Qubit RNA HS Standards (4 – 200 ng)
+   Qubit RNA HS Standards (4 – 200 ng)
 
-Standard 1 (cat #: Q32852 C)
+   Standard 1 (cat #: Q32852 C)
 
-Standard 2 (cat #: Q32852 D)
+   Standard 2 (cat #: Q32852 D)
 
-1. Prepare samples in Qubit Assay Tubes. 
+3. Prepare samples in Qubit Assay Tubes. 
    1. Combine 198 uL of Qubit working solution with 2 uL of sample.
-1. Vortex all tubes (standards and samples) for about 3 sec. 
-1. Lightly microfuge to bring contents down to the bottom of assay tubes.   
-1. Incubate tubes for 2 min at RT. 
-1. Now read standards then samples on Qubit. 
+4. Vortex all tubes (standards and samples) for about 3 sec. 
+5. Lightly microfuge to bring contents down to the bottom of assay tubes.   
+6. Incubate tubes for 2 min at RT. 
+7. Now read standards then samples on Qubit. 
 
 ---
 
@@ -149,31 +149,31 @@ HS RNA ScreenTape Ladder (Agilent; cat: 5067-5581)
 HS RNA ScreenTape Sample Buffer (Agilent; cat: 5067-5580)
 
 1. Reagents need to equilibrate at room temp for 30 minutes prior to use.
-1. Thaw HS RNA Ladder and total RNA samples on ice. 
-1. Vortex reagents and samples. Spin down before use. 
-1. Dilute samples if needed.
+2. Thaw HS RNA Ladder and total RNA samples on ice. 
+3. Vortex reagents and samples. Spin down before use. 
+4. Dilute samples if needed.
    1. Dilute samples to 5 ng/uL, for a total of 10 ng. 
 
 *(1 uL sample)(# ng/uL from Qubit) = (5 ng/uL)(x)*
 
-1. If using a new RNA Ladder, need to dilute it first and prior to use. Dilute by adding 10 uL of RNase free water and mixing. 
-1. Prepare samples and ladder in assay tubes.
+5. If using a new RNA Ladder, need to dilute it first and prior to use. Dilute by adding 10 uL of RNase free water and mixing. 
+6. Prepare samples and ladder in assay tubes.
    1. Add 1 uL of Sample Buffer to 2 uL of sample
    1. Add 1 uL of Sample Buffer to 2 uL of RNA Ladder  
-1. Cap assay tubes
-1. Vortex tubes using IKA vortexer at 2000 rpm for 1 min. 
-1. Spin down samples and ladder for 1 min.
-1. Denature samples and ladder.
-   1. Heat to 72C for 3 min
-1. Place samples and ladder on ice for 2 min. 
-1. Spin down samples and ladder for 1 min. 
-1. Walk to 4150 TapeStation in MQC (4<sup>th</sup> floor of MRB, room 406)
-   1. Need to bring tips, ScreenTape, and samples
-1. Carefully remove assay tube caps without disturbing samples. 
-1. Place tube strip, tips, and ScreenTape into TapeStation.
-   1. Flick ScreenTape prior to inserting into machine! 
-   1. Always use a full strip of tubes in the machine, even if don’t need all the tubes. This will prevent single tubes or short strips from being sucked up by the machine. 
-1. Make software selections (Eukaryotic RNA protocol) and start run. 
+7. Cap assay tubes
+8. Vortex tubes using IKA vortexer at 2000 rpm for 1 min. 
+9. Spin down samples and ladder for 1 min.
+10. Denature samples and ladder.
+      1. Heat to 72C for 3 min
+11. Place samples and ladder on ice for 2 min. 
+12. Spin down samples and ladder for 1 min. 
+13. Walk to 4150 TapeStation in MQC (4<sup>th</sup> floor of MRB, room 406)
+      1. Need to bring tips, ScreenTape, and samples
+14. Carefully remove assay tube caps without disturbing samples. 
+15. Place tube strip, tips, and ScreenTape into TapeStation.
+      1. Flick ScreenTape prior to inserting into machine! 
+      1. Always use a full strip of tubes in the machine, even if don’t need all the tubes. This will prevent single tubes or short strips from being sucked up by the machine. 
+16. Make software selections (Eukaryotic RNA protocol) and start run. 
 
 ---
 
