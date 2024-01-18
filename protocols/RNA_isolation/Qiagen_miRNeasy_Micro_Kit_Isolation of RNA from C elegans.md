@@ -18,13 +18,13 @@ Qiagen miRNeasy Micro Kit – Quick start protocol
 
 miRNeasy Micro Kit (Qiagen; 217084)
 
-`	`Specifications:
+`   `Specifications:
 
-`   	`Purification of total RNA, including miRNA, from animal and human cells and tissues
+`      `Purification of total RNA, including miRNA, from animal and human cells and tissues
 
-`	   `Sample amount: < 5 mg of animal tissue
+`      `Sample amount: < 5 mg of animal tissue
 
-`	   `RNeasy MinElute Spin Column (stored at 4C, elution volume: 10 – 14 uL, max binding capacity: 45 µg, max loading vol: 700 µL, min elution vol: 10 µL)
+`      `RNeasy MinElute Spin Column (stored at 4C, elution volume: 10 – 14 uL, max binding capacity: 45 µg, max loading vol: 700 µL, min elution vol: 10 µL)
 
 TRIzol (Invitrogen; cat: 15596-026) or QIAzol (Qiagen; cat: 79306)
 
@@ -143,21 +143,21 @@ HS RNA ScreenTape Sample Buffer (Agilent; cat: 5067-5580)
 
 5. If using a new RNA Ladder, need to dilute it first and prior to use. Dilute by adding 10 uL of RNase free water and mixing. 
 6. Prepare samples and ladder in assay tubes.
-   1. Add 1 uL of Sample Buffer to 2 uL of sample
-   1. Add 1 uL of Sample Buffer to 2 uL of RNA Ladder  
+      1. Add 1 uL of Sample Buffer to 2 uL of sample
+      1. Add 1 uL of Sample Buffer to 2 uL of RNA Ladder  
 7. Cap assay tubes
 8. Vortex tubes using IKA vortexer at 2000 rpm for 1 min. 
 9. Spin down samples and ladder for 1 min.
 10. Denature samples and ladder.
-   1. Heat to 72C for 3 min
+      1. Heat to 72C for 3 min
 11. Place samples and ladder on ice for 2 min. 
 12. Spin down samples and ladder for 1 min. 
 13. Walk to 4150 TapeStation in MQC (4<sup>th</sup> floor of MRB, room 406)
-   1. Need to bring tips, ScreenTape, and samples
+      1. Need to bring tips, ScreenTape, and samples
 14. Carefully remove assay tube caps without disturbing samples. 
 15. Place tube strip, tips, and ScreenTape into TapeStation.
-   1. Flick ScreenTape prior to inserting into machine! 
-   1. Always use a full strip of tubes in the machine, even if don’t need all the tubes. This will prevent single tubes or short strips from being sucked up by the machine. 
+      1. Flick ScreenTape prior to inserting into machine! 
+      1. Always use a full strip of tubes in the machine, even if don’t need all the tubes. This will prevent single tubes or short strips from being sucked up by the machine. 
 16. Make software selections (Eukaryotic RNA protocol) and start run.
 
 ---
