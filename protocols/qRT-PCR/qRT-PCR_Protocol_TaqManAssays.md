@@ -1,6 +1,12 @@
-﻿**cDNA synthesis and qRT-PCR with TaqMan Gene Expression Assays**
+## cDNA synthesis and qRT-PCR with TaqMan Gene Expression Assays
 
-**Invitrogen SuperScript™ IV First-Strand Synthesis System**
+**Date:**
+
+**Author:**
+
+---
+
+### Invitrogen SuperScript™ IV First-Strand Synthesis System
 
 Add max amount of RNA the kit takes if we get it. Try to add same amounts of RNA for each/normalize input amount of RNA. **Aim for 500 ng.**
 
@@ -8,13 +14,13 @@ Example:
 
 PA14: 500 ng×uL297 ng=1.68 uL 
 
-SuperScript™ IV First-Strand cDNA Synthesis Reaction
+**SuperScript™ IV First-Strand cDNA Synthesis Reaction**
 
 The example procedure below shows appropriate volumes for a single 20-μL reverse transcription reaction. For multiple reactions, prepare a master mix of components common to all reactions to minimize pipetting error, then dispense appropriate volumes into each reaction tube prior to adding annealed template RNA and primers.
 
 1. Anneal primer to template RNA
-   1. Combine the following components in a PCR reaction tube.
-      1. Note: Consider the volumes for all components listed in steps 1 and 2 to determine the correct amount of water required to reach your final reaction volume.
+- Combine the following components in a PCR reaction tube.
+   - Note: Consider the volumes for all components listed in steps 1 and 2 to determine the correct amount of water required to reach your final reaction volume.
 
 |Component|Volume|
 | :- | :- |
@@ -23,11 +29,11 @@ The example procedure below shows appropriate volumes for a single 20-μL revers
 |Template RNA (10 pg–5 μg total RNA or 10 pg–**500 ng** mRNA) |Up to 11 μL|
 |DEPC-treated water |Up to 13 μL|
 
-1. Mix and briefly centrifuge the components.
-1. Heat the RNA-primer mix at 65°C for 5 minutes, and then incubate on ice for at least 1 minute.
-1. Prepare RT reaction mix
-   1. Vortex and briefly centrifuge the 5× SSIV Buffer.
-   1. Combine the following components in a reaction tube.
+- Mix and briefly centrifuge the components.
+- Heat the RNA-primer mix at 65°C for 5 minutes, and then incubate on ice for at least 1 minute.
+2. Prepare RT reaction mix
+- Vortex and briefly centrifuge the 5× SSIV Buffer.
+- Combine the following components in a reaction tube.
 
 |Component|Volume|
 | :- | :- |
@@ -36,16 +42,16 @@ The example procedure below shows appropriate volumes for a single 20-μL revers
 |Ribonuclease Inhibitor |1 μL|
 |SuperScript™ IV Reverse Transcriptase (200 U/μL|1 μL|
 
-1. Cap the tube, mix, and then briefly centrifuge the contents.
-1. Combine annealed RNA and RT reaction mix
-   1. Add RT reaction mix to the annealed RNA. 
-1. Incubate reactions
-   1. Incubate the combined reaction mixture at 50–55°C for 10 minutes.
-      1. We did 52C. 
-   1. Inactivate the reaction by incubating it at 80°C for 10 minutes.
-1. PCR amplification 
-   1. Use your RT reaction immediately for PCR amplification or store it at –20°C.
-      1. Note: As a recommended starting point for PCR, reverse transcription reaction (cDNA) should compose 10% of the total reaction volume
+- Cap the tube, mix, and then briefly centrifuge the contents.
+3. Combine annealed RNA and RT reaction mix
+- Add RT reaction mix to the annealed RNA. 
+4. Incubate reactions
+- Incubate the combined reaction mixture at 50–55°C for 10 minutes.
+   - We did 52C. 
+- Inactivate the reaction by incubating it at 80°C for 10 minutes.
+5. PCR amplification 
+- Use your RT reaction immediately for PCR amplification or store it at –20°C.
+   - Note: As a recommended starting point for PCR, reverse transcription reaction (cDNA) should compose 10% of the total reaction volume
 
 **PCR Amplification and Detection: TaqMan® Gene Expression Assays—single–tube assays, Pub. No. 4401212 Rev. D**
 
