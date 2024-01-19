@@ -4,7 +4,7 @@
 
 **Date:** 04-13-2021
 
-**Author:** Nishimural lab
+**Author:** Nishimura lab
 
 ---
 
