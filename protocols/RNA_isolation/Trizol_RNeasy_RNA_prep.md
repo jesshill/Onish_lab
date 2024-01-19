@@ -1,10 +1,15 @@
-﻿**Erin’s Trizol/RNeasy total RNA Prep Protocol**
+## Erin’s Trizol/RNeasy total RNA Prep Protocol
 
+**Date:** 06-16-2014
 
-**PURPOSE:** This protocol produces 30 μg total of 1 μg/μl total RNA when embryos are harvested from 50 ml equivalent of worm culture. This total RNA can be used in cDNA synthesis for RNA-seq and qRT-PCR.  I compared this protocol to RNeasy columns alone and Trizol prep alone, all of which yielded similar quantities and quality of RNA.  However, this is the easiest of the three.  On column digestion is used to ensure that no DNA remains in the sample.
+**Author:** Erin Nishimura
 
-**STARTING MATERIAL:**  
+--- 
 
+### PURPOSE: 
+This protocol produces 30 μg total of 1 μg/μl total RNA when embryos are harvested from 50 ml equivalent of worm culture. This total RNA can be used in cDNA synthesis for RNA-seq and qRT-PCR.  I compared this protocol to RNeasy columns alone and Trizol prep alone, all of which yielded similar quantities and quality of RNA.  However, this is the easiest of the three.  On column digestion is used to ensure that no DNA remains in the sample.
+
+### STARTING MATERIAL:
 *Nothing succeeds like excess: 250* ml liquid culture of gravid worms should yield 5 ml of re-suspended embryos.  Spin down 1 ml aliquots (x 5).  Resuspend tissue in 500 μl Trizol, flash freeze in liquid nitrogen, and store at -80 C until ready to use. 
 
 *Less is more:* 20 – 100 hand picked adults can also be used with yields around 100 ng – 1 ug depending on size.
@@ -12,11 +17,12 @@
 *Lowest input –* for lowest input versions, see the Low Input version of this protocol. I have used that version with as few as 10 blastomeres with good success.
 **
 
+### CAUTION:  
+Use gloves.  Phenol & chloroform require hazardous disposal.
 
-**CAUTION:**  Use gloves.  Phenol & chloroform require hazardous disposal.
+---
 
-**PROTOCOL**
-
+### PROTOCOL
 - Wipe down the bench, centrifuge and pipets with an RNase inhibitor.
 - Wipe down a gel box and 50 ml gel caster with RNase inhibitor solution.  Pour a 1 % Agarose/EtBr gel and set aside.
 - To homogenize tissue, perform three thaw/vortex/freeze cycles in 700 uL – 1 mL.  To do so, place tubes at 37 C for 30 sec or until thawed, then vortex, then place in -80 C liquid nitrogen for 30 sec or until frozen.  Repeat 2 more times. 
@@ -39,32 +45,19 @@
 - Place column in a fresh centrifuge collection tube.  Add 30 – 50 μl RNase-free water.  Incubate 1 – 2 min, RT.  Spin > 8,000 x g, 1 min.
 - Quantify RNA on Qubit, Nanodrop, and check quality by running 1 – 2 μg on the prepared gel.
 
-
-
-**QUALITY CONTROL**
-
+### QUALITY CONTROL
 - This protocol typically yields RNA at 1 μg/μl when 1 ml of embryos are used as starting material and final elution is 30 μl.  The RNeasy Mini Spin columns have a maximum capacity of 100 μg.
 - When analyzing RNA using the nanodrop, 260/280 absorbance ratios should be 2.0 when samples are eluted in a neutral-buffered solution and up to 2.2 when eluted in RNase-free water.  Lower 260/280 readings indicate protein or phenol contamination.  260/230 ratios should be 2.0 – 2.2.  Lower readings may indicate phenol, EDTA, or clean-up solution contaminants.  Note that guanidine isothiocyanate absorbs at 260 nm so large deviations between nano-drop and qubit readings may be due to this contaminant.  Should low readings occur, clean up samples by running through a quick Qiagen PCR Purification column.
 - Qubit readings should be used as the end-all/be-all measurement for calculating input into downstream protocols.
 - 1 – 2 μg of total RNA should be run on the prepared 1 % agarose gel.  Use either a DNA or RNA standard ladder for comparison.  For  *C. elegans,*  the 28S rRNA bands should be at roughly 1200 bp and the 16S rRNA band should be at 800 bp when run against a DNA ladder.
 
-
-**REAGENTS:**
-
+### REAGENTS:
 - Qiagen RNeasy Mini Columns, Qiagen, Cat#:74104, 74106
 - TRIzol, Invitrogen, Cat#:  15596-026
 - Qiagen DNaseI On-Column Digestion, Qiagen, Cat#:79254
 
-
-
-**REFERENCES:**
-
+### REFERENCES:
 - “Trizol/RNeasy RNA extraction protcol” by Mauricio Rodriguez-Lanetty
 - Qiagen:  RNase-free DNase Set Handbook
 - Qiagen:  RNeasy Mini Handbook, 4<sup>th</sup> ed.
 - ThermoScientific Technical Bulletin:  NanoDrop1000 & 8000.
-2
-
-140616_Trizol_RNeasy_RNA_prep.docx			
-
-
