@@ -53,6 +53,8 @@ The example procedure below shows appropriate volumes for a single 20-μL revers
 - Use your RT reaction immediately for PCR amplification or store it at –20°C.
    - Note: As a recommended starting point for PCR, reverse transcription reaction (cDNA) should compose 10% of the total reaction volume
 
+--
+
 **PCR Amplification and Detection: TaqMan® Gene Expression Assays—single–tube assays, Pub. No. 4401212 Rev. D**
 
 1. Before you begin (60X assays ONLY): Dilute 60X assays to 20X working stocks with TE, pH 8.0, then divide the solutions into smaller aliquots to minimize freeze-thaw cycles. The size of the aliquots depends upon the number of PCR reactions you typically run. An example dilution is shown in the following table.
