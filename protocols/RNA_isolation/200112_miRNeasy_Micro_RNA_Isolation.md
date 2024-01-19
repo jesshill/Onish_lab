@@ -1,6 +1,10 @@
-﻿200112\_miRNeasy\_Micro\_RNA\_Isolation.docx
+﻿## miRNeasy Micro RNA Isolation Protocol
 
-` `**miRNeasy Micro RNA Isolation Protocol**
+**Date:** 01-12-2020
+
+**Author:** Nishimura lab
+
+--- 
 
 **PURPOSE:** For purification of total RNA, including miRNA, from animal and human cells and tissues
 
