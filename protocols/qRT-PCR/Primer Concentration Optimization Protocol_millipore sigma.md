@@ -1,17 +1,17 @@
-﻿**Primer Concentration Optimization Protocol**
+## Primer Concentration Optimization Protocol
 
-**OPTIMIZATION OF QPCR CONDITIONS**
+### OPTIMIZATION OF QPCR CONDITIONS
 
 Optimization of qPCR conditions is important for the development of a robust assay. Indications of poor optimization are a lack of reproducibility between replicates as well as inefficient and insensitive assays. The two main approaches are optimization of primer concentration and/or annealing temperatures.
 
 One approach to optimizing primer concentrations is to create a matrix of reactions. This is used to test a range of concentrations for each primer against different concentrations of the partner primer. In the example provided in this protocol, a 6×6 matrix testing six concentrations (e.g., 50 nM to 800 nM) is demonstrated. The quantities stated in this protocol will allow each condition to be run in duplicate.
 
-**EQUIPMENT USED IN PRIMER CONCENTRATION OPTIMIZATION PROTOCOL**
+### EQUIPMENT USED IN PRIMER CONCENTRATION OPTIMIZATION PROTOCOL
 
 - Quantitative PCR instrument
 - Laminar flow hood for PCR set up (optional)
 
-**REAGENTS**
+### REAGENTS
 
 - Suitable assay template, e.g., cDNA diluted 1:10, gDNA, or synthetic oligo template.
 - KiCqStart<sup>®</sup> SYBR<sup>®</sup> Green ReadyMix™ (KCQS00/KCQS01/KCQS02/KCQS03—depending on instrument, see **Table P4-6** for instrument compatibility).
@@ -41,9 +41,9 @@ One approach to optimizing primer concentrations is to create a matrix of reacti
 <tr><td>Qiagen/Corbett Rotor-Gene<sup>®</sup> Q</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Roche LightCycler<sup>®</sup> 480</td><td></td><td></td><td></td><td></td></tr>
 </table>
-**Table P13-31.**SYBR Green PCR Mix Selection Guide.
+**Table P13-31.** SYBR Green PCR Mix Selection Guide.
 
-**SUPPLIES**
+### SUPPLIES
 
 - Sterile filter pipette tips
 - Sterile 1.5 mL screw-top microcentrifuge tubes (CLS430909)
@@ -61,9 +61,11 @@ One approach to optimizing primer concentrations is to create a matrix of reacti
 - cDNA is generated using a random primer or oligo-dT priming method and diluted 1:10 for use, but any suitable, alternative template may be used.
 - All samples are run in duplicate according to the plate layout (**Figure P13-18**).
 
-**Figure P13-18.**Schematic Representation of the Primer Optimization Plate Layout.
+(insert figure here)
 
-**METHOD**
+**Figure P13-18.** Schematic Representation of the Primer Optimization Plate Layout.
+
+### METHOD
 
 ***Note:*** 2.0 μL of each primer will be added to the reaction of 20 μL total volume. For this reason, primer stocks are 10 times the required concentration to achieve the desired final concentration.
 
@@ -80,9 +82,10 @@ One approach to optimizing primer concentrations is to create a matrix of reacti
 |6|20|30|50|
 |8|20|80|100|
 
-**Table P13-32.**Primer Dilution Scheme for Primer Concentration Optimization.
+**Table P13-32.** Primer Dilution Scheme for Primer Concentration Optimization.
 
 2\. Prepare a qPCR master mix according to **Table P13-33**
+
 (***Note:*** Template and cDNA are added separately in step 5). Mix well.
 
 |<p></p><p></p>|||
@@ -100,16 +103,14 @@ One approach to optimizing primer concentrations is to create a matrix of reacti
 
 ***\*Note:*** Do **not** add cDNA and primers until step 5.
 
-3\. Remove 184.8 μL (for 12× NTC) of master mix from step 2 into a separate tube to use for setting up the
-No Template Control (NTC).
+3\. Remove 184.8 μL (for 12× NTC) of master mix from step 2 into a separate tube to use for setting up the No Template Control (NTC).
 
 4\. Add 26.4 μL of dH2O to the NTC mix in step 3 (to replace template).
 *Note:* Set NTC mix on ice for later use.
 
 5\. Add 158.4 μL of cDNA template to the remaining master mix from step 2. Set master mix on ice.
 
-6\. Add 2.0 μL of appropriate reverse primer dilutions into the PCR plate according to **Figure P13-18**; also adding
-800 nM concentration to the NTC row.
+6\. Add 2.0 μL of appropriate reverse primer dilutions into the PCR plate according to **Figure P13-18**; also adding 800 nM concentration to the NTC row.
 
 7\. Add 2.0 μL of appropriate forward primer dilutions into the PCR plate according to **Figure P13-18**.
 
