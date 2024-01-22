@@ -12,7 +12,7 @@ Add max amount of RNA the kit takes if we get it. Try to add same amounts of RNA
 
 Example:
 
-PA14: 500 ng×uL297 ng=1.68 uL 
+PA14: (500 ng) × (1 uL/297 ng) = 1.68 uL 
 
 **SuperScript™ IV First-Strand cDNA Synthesis Reaction**
 
