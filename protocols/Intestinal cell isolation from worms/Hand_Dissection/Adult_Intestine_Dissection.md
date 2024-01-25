@@ -8,7 +8,7 @@
 
 1. Pick ~25 adults and drop them into a heat-sealed and DEPC water filled Pasteur pipette
 2. Let them settle down slowly to wash off bacteria/agar/etc (it takes about 12 min. if using 5 3/4inch Pasteur pipette)
-3. Add 500 uL of **Dissection Buffer** into a small** petri** dish
+3. Add 500 uL of **Dissection Buffer** into a small petri dish
 4. Add worms into dish by breaking sealed end pasture pipette
    1. From McGhee: “I do this once per hour so the worms will never be out of food for longer than that”
 5. Prepare dissection dish by treating wells with 20 ng/ul **Acetylated BSA** 
@@ -25,22 +25,22 @@
 ### Reagents
 
 **1x Egg Salts (1L)**
-- 118 mM  NaC			6.9g
-- 48 mM  KCl			3.6g
-- 2 mM CaCl<sub>2</sub><sup>.</sup>2H<sub>2</sub>0		0.29g
-- 2 mM MgCl<sub>2</sub><sup>.</sup>6H<sub>2</sub>0		0.4g
+- 118 mM  NaC --> 6.9g
+- 48 mM  KCl --> 3.6g
+- 2 mM CaCl<sub>2</sub><sup>.</sup>2H<sub>2</sub>0	--> 0.29g
+- 2 mM MgCl<sub>2</sub><sup>.</sup>6H<sub>2</sub>0	--> 0.4g
 - Dissolve in 1 L DEPC-treated water 
 
 **Dissection Buffer**
-- 1x Egg Salts			39 ml
-- 1M HEPES pH 7.4		1 mL
+- 1x Egg Salts	--> 39 ml
+- 1M HEPES pH 7.4 --> 1 mL
 - Make fresh on day of dissection
 
 **Stopping Mix**
-- 100 mM EGTA			6.25 ul
-- 100 mM MgCl<sub>2</sub>			6.8 ul
-- RNasein			0.5 ul
-- Dissection Buffer		36.5 ul  
+- 100 mM EGTA --> 6.25 ul
+- 100 mM MgCl<sub>2</sub> --> 6.8 ul
+- RNasein --> 0.5 ul
+- Dissection Buffer --> 36.5 ul  
 - Make fresh on day of dissection
 
 **Shelton’s medium** (stays good for 1 – 2 months with high variability. Store at 4 C)
