@@ -81,7 +81,6 @@
 |**Total**|**50 ul**||
 
 Other required items:
-
 - Concavity slides
 - Mouth pipet
 - Microdissection needles
@@ -95,14 +94,11 @@ Other required items:
 
 
 **Acetylated BSA**
-
 - Dissolve 10 mg acetylated BSA in 500 ul sterile ddH2O.
 - Aliquot into 50 ul batches into epi tubes and freeze at -20 C to store.
 
 
-
-**Equipment**
-
+### Equipment
 - Worm pick
 - Small petri dish
 - 9-well dissection plate
@@ -110,4 +106,3 @@ Other required items:
 - Microcapillary needle
 - Mouth pipette
 - Fluorescent dissecting scope
-`	`- 3 -
