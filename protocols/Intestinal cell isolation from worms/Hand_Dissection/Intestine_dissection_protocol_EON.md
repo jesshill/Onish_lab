@@ -1,7 +1,12 @@
-﻿**Intestine Dissection**
+## Intestine Dissection
 
-**Protocol**
+**Date:** 02-19-2022
 
+**Author:** Erin Nishimura
+
+--- 
+
+### Protocol
 1. Prepare the following buffers on the day of the dissection:
    1. 50 ul acetylated BSA in ddH2O diluted in 1000 ul H2O
    1. Dissection Buffer: 
@@ -15,25 +20,26 @@
       6.2 ul 100 mM EGTA
       5.8 ul 100 mM MgCl2
       4 ul RNAsin (this should probably be changed to 4 ul to account for 200 ul total volume)
-1. Prepare the following
+2. Prepare the following
    1. **M9 bath.** 2 ml of M9 in a X cm petri dish.
    1. **Dissection bath.** 2 ml of Dissection Buffer in an X cm petri dish
    1. **Dissection array.** Treat each well of a glass, 9-well dissection dish with acetylated BSA by pipetting in 100 ul of 20 ng/ul Acetylated BSA, and then discarding it. This will keep the glass from becoming too sticky. In Well 1, add levamisole soln. In Wells 2 - 4, add 150 ul of Dissection buffer as these will be washing wells.
    1. **Dissection needles.** Ensure you have enough dissection needles and a mouth pipet
-1. Using a worm pick, pick ~20 young adult stage worms off a plate and liberate them into the M9 bath. This will remove some *E. coli* bacteria.
-1. To further rinse worms, transfer them from the M9 bath to the Dissection bath using a worm picker.
-1. Transfer the worms from the Dissection bath to Well 1 of the glass, arrayed dissecting dish. This will incubate the worms in Levamisole, temporarily paralyzing them.
-1. Once worms stop moving, dissect them by cutting the worms open using a 26G 5/8” needle. Make the first cut just in front of the rectum and the second cut just behind the pharynx. In some worms, the intestine will spill out of the worm.
-1. Incubate 5 – 10 minutes to let the intestines spill out.
-1. Add 50 ul of Chelation Buffer to float the carcasses off the glass.
-1. Using a micro-capillary needle and a mouth pipet, work to move the worms in and out of the needle to further liberate the intestine from the carcass.
-1. Once the intestine has been extruded, pull the intestine into the needle but leave the carcass behind. Use the 26G hypodermic needle to slide the carcass away from the intestine.
-1. Transfer the intestine to Well 2, a washing well. 
-1. Before the intestine sinks to the bottom of the well, move it to Well 3 using the micro-capillary needle & mouth pipet.
-1. Repeat, moving the intestine to Well 4.
-1. After the final wash, transfer the intestine to DEPC water for freezing or directly into Trizol.
+3. Using a worm pick, pick ~20 young adult stage worms off a plate and liberate them into the M9 bath. This will remove some *E. coli* bacteria.
+4. To further rinse worms, transfer them from the M9 bath to the Dissection bath using a worm picker.
+5. Transfer the worms from the Dissection bath to Well 1 of the glass, arrayed dissecting dish. This will incubate the worms in Levamisole, temporarily paralyzing them.
+6. Once worms stop moving, dissect them by cutting the worms open using a 26G 5/8” needle. Make the first cut just in front of the rectum and the second cut just behind the pharynx. In some worms, the intestine will spill out of the worm.
+7. Incubate 5 – 10 minutes to let the intestines spill out.
+8. Add 50 ul of Chelation Buffer to float the carcasses off the glass.
+9. Using a micro-capillary needle and a mouth pipet, work to move the worms in and out of the needle to further liberate the intestine from the carcass.
+10. Once the intestine has been extruded, pull the intestine into the needle but leave the carcass behind. Use the 26G hypodermic needle to slide the carcass away from the intestine.
+11. Transfer the intestine to Well 2, a washing well. 
+12. Before the intestine sinks to the bottom of the well, move it to Well 3 using the micro-capillary needle & mouth pipet.
+13. Repeat, moving the intestine to Well 4.
+14. After the final wash, transfer the intestine to DEPC water for freezing or directly into Trizol.
 
-**Reagents & Buffers**
+
+### Reagents & Buffers
 
 **Egg Salts**
 
