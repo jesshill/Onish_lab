@@ -6,7 +6,7 @@
 
 ---
 
-**Experiment:** 
+**Experiment details:** 
 
 ### Needed Reagents
 
