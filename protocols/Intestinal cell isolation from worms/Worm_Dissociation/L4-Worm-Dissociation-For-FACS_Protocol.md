@@ -12,73 +12,47 @@
 - Doesn’t need to be made fresh. Store at RT.
 - 1.18 mL of 5 M NaCl = 118 mM NaCl
 - 2.4 mL of 1 M KCl = 48 mM KCl
-
-100 uL of 1 M CaCl<sub>2</sub> = 2 mM CaCl<sub>2</sub>
-
-100 uL of 1 M MgCl<sub>2</sub> = 2 mM MgCl<sub>2</sub>
-
-1\.25 mL of 1 M HEPES (pH 7.4) = 25 mM HEPES
-
-44\.97 mL of sterile ddH<sub>2</sub>0
+- 100 uL of 1 M CaCl<sub>2</sub> = 2 mM CaCl<sub>2</sub>
+- 100 uL of 1 M MgCl<sub>2</sub> = 2 mM MgCl<sub>2</sub>
+- 1.25 mL of 1 M HEPES (pH 7.4) = 25 mM HEPES
+- 44.97 mL of sterile ddH<sub>2</sub>0
 
 **2 mL of 1 M DTT solution** 
+- Made fresh on day of protocol. Store at RT.
 
-Made fresh on day of protocol. Store at RT.
-
-\*DTT (154.25 g/mol; DTT10; Goldbio)
-
-0\.3085 g of DTT	
-
-2 mL of ddiH<sub>2</sub>0
+*DTT (154.25 g/mol; DTT10; Goldbio)
+- 0.3085 g of DTT	
+- 2 mL of ddiH<sub>2</sub>0
 
 **5 mL of SDS-DTT Solution** 
-
-Made fresh on day of protocol. Store at RT.
-
-100 uL of 1 M HEPES (pH 8.0) = 20 mM HEPES
-
-125 uL of 10% SDS = 0.25% SDS
-
-1 mL of 1 M DTT = 200 mM DTT
-
-250 uL of 60% Sucrose = 3% Sucrose
-
-3\.525 mL of ddiH<sub>2</sub>0	
+- Made fresh on day of protocol. Store at RT.
+- 100 uL of 1 M HEPES (pH 8.0) = 20 mM HEPES
+- 125 uL of 10% SDS = 0.25% SDS
+- 1 mL of 1 M DTT = 200 mM DTT
+- 250 uL of 60% Sucrose = 3% Sucrose
+- 3.525 mL of ddiH<sub>2</sub>0	
 
 **2 mL of 15 mg/mL Pronase E Solution** 
+- Made fresh on day of protocol. store at RT.
 
-Made fresh on day of protocol. store at RT.
-
-\*Protease from *Streptomyces griseus* (aka. Pronase E) - (P8811; Sigma Aldrich)
-
-30 mg of Pronase E
-
-2 mL of Egg Buffer
+*Protease from *Streptomyces griseus* (aka. Pronase E) - (P8811; Sigma Aldrich)
+- 30 mg of Pronase E
+- 2 mL of Egg Buffer
 
 **555 mL of L15-10**
+- Doesn’t need to be made fresh. Store at 4C.
+- 500 mL of L-15 (21083027; Thermo Fisher)
+- 50 mL of Fetal Bovine Serum (heat inactivated at 56C for 30 min)
+- 7.7 g sucrose
+- 5 mL of 100 U/ml Penicillin and 100 ug/ml Streptomycin (\*\*Optional\*\*)
+- Filter with 0.20 μm pore filter
 
-Doesn’t need to be made fresh. Store at 4C.
-
-500 mL of L-15 (21083027; Thermo Fisher)
-
-50 mL of Fetal Bovine Serum (heat inactivated at 56C for 30 min)
-
-7\.7 g sucrose
-
-5 mL of 100 U/ml Penicillin and 100 ug/ml Streptomycin (\*\*Optional\*\*)
-
-Filter with 0.20 μm pore filter
-
-
-**BEFORE BEGINNING:**
-
-1. Cool either the swinging bucket centrifuge or the benchtop microfuge (near Quibit) to 4C.
+### BEFORE BEGINNING:
+1. Cool either the swinging bucket centrifuge or the benchtop microfuge to 4C.
 1. Make fresh Pronase E, DTT, and SDS-DTT solutions.
 1. Place L15-10 and egg buffer on ice. 
 
-
-**PROTOCOL:** 
-
+### PROTOCOL:
 1. Harvest synchronized L4 worms *(unstained control (N2), single color controls, and sorting sample)* by washing them off plates with 10 mL of sterile M9. Collect into a 15 mL conical tube. Be careful not to tear up the agar. 
    1. *JM163/CL2122 worms take 52 - 62 hours to get to the L4 stage at 20C. Can start 9 am on Monday and harvest at 1 pm on Wednesday.*
 1. Pellet worms (2000xg, 1min, RT) and aspirate supernatant. 
