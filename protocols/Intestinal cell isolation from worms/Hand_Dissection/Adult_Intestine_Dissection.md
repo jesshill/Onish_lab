@@ -58,4 +58,5 @@
 - Freeze at -20 C.
 
 **Complete Cell Culture Medium**
+
 Complete cell culture medium (500 ml) contains 500 ml L-15 culture medium from Gibco, 50 ml Fetal Bovine Serum (heat inactivated), 7.7 g sucrose (45 mOsm), 5 ml of 100 U/ml Penicillin and of 100 μg/ml Streptomycin (2%). The complete medium is then filtered using a 0.20 μm pore filter.
