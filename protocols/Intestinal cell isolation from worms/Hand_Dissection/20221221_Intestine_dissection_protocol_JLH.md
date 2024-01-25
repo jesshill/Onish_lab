@@ -67,41 +67,38 @@
    5. For RNA isolations, aliquot 1 mL of Trizol into a nuclease free microfuge tube per experimental group. Store on ice. 
    6. For microbial DNA isolations, aliquot 1 mL of sterile/nuclease free ddH20 into a nuclease free microfuge tube per experimental group. Store on ice. 
 
-1. Prepare the following: 
+2. Prepare the following: 
    1. **M9 bath.** 2 mL of M9 in a 35 mm petri dish. Add 100 uL of working BSA solution to M9 to prevent worms from sticking.
    1. **Dissection bath.** 2 mL of Dissection Buffer in a 35 mm petri dish. Add 100 uL of working BSA solution to Dissection Buffer to prevent worms from sticking.
    1. **Dissection array.** In the first well of the 2-well concavity slide, add 150 uL of working Levamisole solution. Also, add in 20 uL of working BSA solution to prevent worms from sticking to the well. In the second well, add 150 uL of Dissection Buffer. Then, add in 20 uL of working BSA solution. 
 
+3. Using a worm pick, move 10 worms from your experimental group of interest off their plate and into the M9 bath. This will remove some external bacteria. 
 
-
-1. Using a worm pick, move 10 worms from your experimental group of interest off their plate and into the M9 bath. This will remove some external bacteria. 
-
-1. Further rinse the worms by transferring the 10 worms from the M9 bath to the Dissection Buffer bath using a worm pick. 
+4. Further rinse the worms by transferring the 10 worms from the M9 bath to the Dissection Buffer bath using a worm pick. 
 
 NOTE: Make up separate M9 and DB baths for each experimental group!
 
-1. Transfer 5 worms from the Dissection Buffer bath to well 1 (Levamisole solution) of the 2-well concavity slide. Once worms are briefly exposed to Levamisole solution, quickly move them into the concavity well containing Dissection buffer (well 2). You don’t want worms to be overly paralyzed when dissecting them, you want them wiggling a bit. 
+5. Transfer 5 worms from the Dissection Buffer bath to well 1 (Levamisole solution) of the 2-well concavity slide. Once worms are briefly exposed to Levamisole solution, quickly move them into the concavity well containing Dissection buffer (well 2). You don’t want worms to be overly paralyzed when dissecting them, you want them wiggling a bit. 
 
-1. Immediately prior to dissection, add 50 uL of Chelation Buffer to the dissection buffer well containing worms (well 2). This will help maintain RNA integrity during the dissection process. 
+6. Immediately prior to dissection, add 50 uL of Chelation Buffer to the dissection buffer well containing worms (well 2). This will help maintain RNA integrity during the dissection process. 
 
-1. Dissect all worms. 
+7. Dissect all worms. 
    1. For dissections, split your worms into 2 groups. For the first group, use the hypodermic needle to make a cut just behind the pharynx. This will release the anterior to mid-section of the intestine. For the second group, make a cut just in front of the rectum. This will release the posterior to mid-section of the intestine.
 
 NOTE: replace the dissection needle every 10 worms or so, or when observed to go dull! 
 
-1. Give the intestines time to extrude by incubating worms for about 1 min. 
+8. Give the intestines time to extrude by incubating worms for about 1 min. 
 
-1. Use a microcapillary pipette (i.e., 50 or 100 um) to further help liberate the intestines from the carcass and gonad. Also use the needle to cut away any additional carcass and gonad.  
+9. Use a microcapillary pipette (i.e., 50 or 100 um) to further help liberate the intestines from the carcass and gonad. Also use the needle to cut away any additional carcass and gonad.  
 
-1. Once intestine sections have been isolated, transfer them (individually) into the microfuge tube containing either TRIzol or sterile/nuclease free ddH20 using the microcapillary pipette. Take care not to lose the intestine by sucking it up completely. Store sample on ice. 
+10. Once intestine sections have been isolated, transfer them (individually) into the microfuge tube containing either TRIzol or sterile/nuclease free ddH20 using the microcapillary pipette. Take care not to lose the intestine by sucking it up completely. Store sample on ice. 
 
-1. Now add the next 5 worms and repeat. 
+11. Now add the next 5 worms and repeat. 
 
 NOTE: Clean and replace the Dissection Buffer bath reagents every 10 worms! 
 
-1. Keep adding intestine sections from the same experimental group/rep to the microfuge tube (pooling them) until all are collected.
+12. Keep adding intestine sections from the same experimental group/rep to the microfuge tube (pooling them) until all are collected.
 
-1. When done collecting intestines: 
+13. When done collecting intestines: 
    1. Move samples stored in TRIzol to the -80C freezer for storage or directly into the RNA isolation protocol. 
    1. Move samples stored in sterile ddH20 (Nuclease free) forward to the microbial DNA isolation protocol. 
-`	`- 4 -
