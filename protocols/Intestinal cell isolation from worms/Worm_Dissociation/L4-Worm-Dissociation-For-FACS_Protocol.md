@@ -166,13 +166,9 @@ Protocol for machine is on card under it, tubes dye and buffer above machine and
 
 High sensitivity RNA screen tape sample buffer catalog number: 5190-6507. The **max range is 10 ng** so will have to dilute samples. 
 
-Stuff in Rob’s fridge door labeled Tapestation RNA sensitivity, 4th floor of Biology
-
 Is an automated electrophoresis solution for the sample quality control of DNA and RNA samples. It is suitable to analyze size, quantity, and integrity of the samples. Look for a 2:1 ratio of 28S to 18S in eukaryotic RNA to determine if intact. 
 
 RNA integrity number (RIN) value is calculated from the overall trace, including degraded products (which is better than just assessing the rRNA peaks alone).   
-
-The sign in for the computer is Admin and password (3000hanover).
 
 - Allow reagents to equilibrate at room temperature for 30 minutes
 - Vortex mix before use
