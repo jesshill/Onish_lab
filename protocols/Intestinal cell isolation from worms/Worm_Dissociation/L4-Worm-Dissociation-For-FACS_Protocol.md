@@ -1,14 +1,17 @@
-﻿L4 worm dissociation for intestinal cell isolation and FACS purification 20220517
+## ﻿L4 worm dissociation for intestinal cell isolation and FACS purification 20220517
 
-**NEEDED REAGENTS:**
+**Date:** 04-21-2022
+
+**Author:** Jessica Hill
+
+--- 
+
+### NEEDED REAGENTS: 
 
 **50 mL of Egg Buffer or Egg Salts** 
-
-Doesn’t need to be made fresh. Store at RT.
-
-1\.18 mL of 5 M NaCl = 118 mM NaCl
-
-2\.4 mL of 1 M KCl = 48 mM KCl
+- Doesn’t need to be made fresh. Store at RT.
+- 1.18 mL of 5 M NaCl = 118 mM NaCl
+- 2.4 mL of 1 M KCl = 48 mM KCl
 
 100 uL of 1 M CaCl<sub>2</sub> = 2 mM CaCl<sub>2</sub>
 
