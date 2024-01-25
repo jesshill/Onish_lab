@@ -1,21 +1,17 @@
-﻿**Hand Dissection of the *C. elegans* Intestine**
+## Hand Dissection of the *C. elegans* Intestine
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Date:** 12-21-2022
 
-Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Author:** Jessica Hill, adapted from Erin and Jim
 
-Experiment: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Experiment:** 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-**Needed Reagents**
+### Needed Reagents
 
 1. Egg Buffer or Egg Salts
-
-Make in a nuclease (RNAse/DNAse) free 50 mL conical tube. Store at RT. 
-
+- Make in a nuclease (RNAse/DNAse) free 50 mL conical tube. Store at RT. 
 
 |**Stock Reagent**|**Volume**|**Final Concentration**|
 | :- | :- | :- |
@@ -26,69 +22,50 @@ Make in a nuclease (RNAse/DNAse) free 50 mL conical tube. Store at RT.
 |ddH2O|46\.22 mL||
 |**Total**|**50 mL**||
 
-1. Stock Levamisole Solution 
+2. Stock Levamisole Solution 
+- Make in a nuclease free 15 mL conical tube. Dissolve 241 mg of Levamisole (Sigma Aldrich; L9756-10G) in 10 mL sterile ddH2O, yielding 100 mM solution. Vortex to dissolve. 
+- Make 500 uL aliquots in nuclease free microfuge tubes, and store at -20C. 
+- Stocks can be de-frosted and stored at 4C for a week at a time. 
 
-Make in a nuclease free 15 mL conical tube. Dissolve 241 mg of Levamisole (Sigma Aldrich; L9756-10G) in 10 mL sterile ddH2O, yielding 100 mM solution. Vortex to dissolve. 
+3. 20 mg/mL stock BSA Solution
+- Make in a nuclease free microfuge tube. Dissolve 20 mg of acetylated BSA (VWR; 97061-420) into 1 mL of sterile ddH20. Vortex to dissolve.
+- Make 50 uL aliquots in nuclease free microfuge tubes, and store at -20C.
 
-Make 500 uL aliquots in nuclease free microfuge tubes, and store at -20C. 
-
-Stocks can be de-frosted and stored at 4C for a week at a time. 
-
-1. 20 mg/mL stock BSA Solution
-
-Make in a nuclease free microfuge tube. Dissolve 20 mg of acetylated BSA (VWR; 97061-420) into 1 mL of sterile ddH20. Vortex to dissolve.
-
-Make 50 uL aliquots in nuclease free microfuge tubes, and store at -20C.
-
-
-**Equipment**
-
+### Equipment
 1. 2-well Concavity slide (Electron Microscopy Sciences; 71878-08)
-1. Mouth aspirator tube (Millipore Sigma; A5177-5EA)
-1. 2 sets of microcapillary pipettes, one set with an opening diameter of 100 um (5 unit internal diameter distance) and another with an opening diameter of 50 um (3 unit internal diameter distance). 
+2. Mouth aspirator tube (Millipore Sigma; A5177-5EA)
+3. 2 sets of microcapillary pipettes, one set with an opening diameter of 100 um (5 unit internal diameter distance) and another with an opening diameter of 50 um (3 unit internal diameter distance). 
    1. Prepare at least 5 of each ahead of time to ensure you have enough.
    1. First, pull standard glass capillaries (4 in long and 1.2 mm outer diameter) into an injection needle shape using a Sutter Instruments P-1000 needle puller and conditions for “Adherent Cell, *C. elegans, & Drosophila*” from the Sutter Instruments Pipette Cookbook (Conditions: Heat = Ramp+5; Pull = 100; Vel. = 75; Delay = 90; Pressure = 500; 2.5 x 2.5 mm Box). 
    1. Then, forge the microcapillary pipettes to either the 50 µm (3 unit) or the 100 µm (5 unit) size using a MF-900 microforge. The 50 um and 100 um size represents the estimated opening diameter of the microcapillary pipette. 3 unit measures an internal diameter distance of 3 tick marks as indicated by the MF-900 microforge ocular ruler under the M5/0.1 objective. 5 unit measures an internal diameter distance of 5 tick marks under the same conditions. 
-1. Worm pick
-1. 35 mm petri dish (Olympus Plastics; 32-103)
-1. Hypodermic needle (27G x ½”) attached to a 1 mL syringe (with plunger removed) 
-1. Dissecting scope (fluorescent or not)
-1. Ice bucket 
+4. Worm pick
+5. 35 mm petri dish (Olympus Plastics; 32-103)
+6. Hypodermic needle (27G x ½”) attached to a 1 mL syringe (with plunger removed) 
+7. Dissecting scope (fluorescent or not)
+8. Ice bucket 
 
-
-**Protocol**
-
+### Protocol
 1. Prepare the following buffers the day of dissections:
    1. 1 mg/mL working BSA Solution:
       1. In a nuclease free microfuge tube, dilute 50 uL of 20 mg/mL stock BSA solution into 950 uL of ddH20. 
       1. Store on ice. 
-
-1. 5 mL of Dissection Buffer: 
-   1. In a nuclease free 15 mL conical tube, combine 4.875 mL of Egg Salts with 125 uL of 1 M HEPES (pH 7.4).    
-   1. Final concentration of HEPES is 48 mM. 
-   1. For 10 mL, combine 9.75 mL of Egg Salts with 250 uL of 1 M HEPES.
-
-1. Chelation Buffer:
-   1. In a nuclease free microfuge tube, combine: 
-
-36\.5 uL of Dissection Buffer
-
-6\.2 uL of 100 mM EGTA 
-
-6\.8 uL of 100 mM MgCl2 
-
-4 uL of RNAsin (Promega; N251B) \*stored at -20C
-
-1. Make multiple sets for use during intestine isolations (1 per 10 worms).
-1. Keep on ice.
-
-1. 2 mM working Levamisole Solution: 
-   1. In a nuclease free microfuge tube, dilute 7 uL of 100 mM stock Levamisole solution into 343 uL of Dissection Buffer.
-   1. Store on ice.
-
-1. For RNA isolations, aliquot 1 mL of Trizol into a nuclease free microfuge tube per experimental group. Store on ice. 
-
-1. For microbial DNA isolations, aliquot 1 mL of sterile/nuclease free ddH20 into a nuclease free microfuge tube per experimental group. Store on ice. 
+   2. 5 mL of Dissection Buffer: 
+      1. In a nuclease free 15 mL conical tube, combine 4.875 mL of Egg Salts with 125 uL of 1 M HEPES (pH 7.4).    
+      1. Final concentration of HEPES is 48 mM. 
+      1. For 10 mL, combine 9.75 mL of Egg Salts with 250 uL of 1 M HEPES.
+   3. Chelation Buffer:
+      1. In a nuclease free microfuge tube, combine:
+         1. 36.5 uL of Dissection Buffer
+         1. 6.2 uL of 100 mM EGTA
+         1. 6.8 uL of 100 mM MgCl2
+         1. 4 uL of RNAsin (Promega; N251B) \*stored at -20C
+      1. Make multiple sets for use during intestine isolations (1 per 10 worms).
+      1. Keep on ice.
+   4. 2 mM working Levamisole Solution: 
+      1. In a nuclease free microfuge tube, dilute 7 uL of 100 mM stock Levamisole solution into 343 uL of Dissection Buffer.
+      1. Store on ice.
+   5. For RNA isolations, aliquot 1 mL of Trizol into a nuclease free microfuge tube per experimental group. Store on ice. 
+   6. For microbial DNA isolations, aliquot 1 mL of sterile/nuclease free ddH20 into a nuclease free microfuge tube per experimental group. Store on ice. 
 
 1. Prepare the following: 
    1. **M9 bath.** 2 mL of M9 in a 35 mm petri dish. Add 100 uL of working BSA solution to M9 to prevent worms from sticking.
