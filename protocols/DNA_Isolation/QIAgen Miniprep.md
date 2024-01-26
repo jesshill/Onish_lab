@@ -8,9 +8,9 @@
 
 **Date of isolation:**
 
-*IMPORTANT: Do not use this protocol for any plasmids that will be used for microinjection.*
-
 **What plasmid(s) are being miniprepped:**
+
+*IMPORTANT: Do not use this protocol for any plasmids that will be used for microinjection.*
 
 ### PROTOCOL
 1. Pellet 10 mL bacterial culture at max speed (1500xg) in the large centrifuge for 15 min at room temperature.
