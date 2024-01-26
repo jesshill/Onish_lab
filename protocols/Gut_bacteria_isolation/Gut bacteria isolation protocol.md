@@ -1,9 +1,12 @@
-﻿**Isolation of gut bacteria from *C. elegans***
+﻿## Isolation of gut bacteria from *C. elegans*
+ 
+**Date:** 20231005
 
+**Author:** Jessica Hill
 
-**PROTOCOL**  
+---
 
-For a whole small plate of worms
+### PROTOCOL
 
 1. Harvest worms off plate with sterile M9 and transfer to a sterile Eppendorf tube.
 
