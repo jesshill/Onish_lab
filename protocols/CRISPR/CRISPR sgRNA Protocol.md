@@ -10,7 +10,7 @@ As an example, here is the result of a query in CHOPCHOP for the *ctgfa* gene in
 
 First, access the website listed above and type ‘ctgfa’ into the search box. Next, click ‘Toggle advanced options,’ select CRISPR, and click the radio button requiring a 5’ GG.  Now click “Find Target Sites,” which produces a window of results. The screen shot below indicates the position of the target sites on the *ctgfa* gene.
 
-(insert image here)
+<img width="420" alt="image" src="https://github.com/jesshill/Onish_lab/assets/41451575/4155ff18-d05e-4395-a125-e4334b260096">
 
 The highest scored target site for this sgRNA is GGGGCGGCACTTCAGGGCAGTGG. It was selected because of high G/C content, a guanine base adjacent to the protospacer adjacent motif (PAM), and because it is at the 5’ end of the open reading frame.
 
@@ -18,7 +18,7 @@ The first twenty bases (GGGGCGGCACTTCAGGGCAG) are the spacer region, and will be
 
 **Generate sgRNA**
 
-(insert image here)
+<img width="330" alt="image" src="https://github.com/jesshill/Onish_lab/assets/41451575/94698bea-945c-4850-96d4-bea21a5cd9a6">
 
 Above is a diagram (also Supplemental Figure S1) that describes our protocol for cloning-independent generation of sgRNAs. For each sgRNA, the user must order a 60 base oligonucleotide (“gene-specific oligo”) containing 1) a promoter for in vitro transcription (blue), 2) the 20 base spacer region specific to the target site (black), and 3) an overlap region that anneals to the constant oligonucleotide (grey).  The user must order one gene-specific oligo per target and the 80 base constant oligonucleotide (the same for all sgRNA templates).
 
