@@ -1,6 +1,6 @@
 ## QIAgen Miniprep Protocol
 
-**Date:** 20221028
+**Date:** 10-28-2022
 
 **Author:** Nishimura Lab
 
