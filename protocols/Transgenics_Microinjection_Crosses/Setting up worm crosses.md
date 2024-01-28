@@ -44,11 +44,13 @@ Author: Jessica Hill
 1. Develop the mating scheme. 
    1. Need to know what strains you are crossing and how you will select for the cross progeny of interest. Will you rely on a fluorescent marker or visible phenotype for selection?  
 
+
 example strains to cross. We are interested in developing a heterozygous worm for *elt-2*p::GFP and *dlg-1*p::GFP
 
 <img width="182" alt="image" src="https://github.com/jesshill/Onish_lab/assets/41451575/0b751c55-d6ea-4a90-ad4a-3a9f5d52de67">
 
-example scheme: 
+
+<ins>example scheme:<ins> 
 
 <img width="265" alt="image" src="https://github.com/jesshill/Onish_lab/assets/41451575/b59fefa5-028f-435a-aea1-54b71b1274f6">
 
