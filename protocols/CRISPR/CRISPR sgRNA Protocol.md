@@ -55,12 +55,12 @@ We order standard desalted oligos from Life Technologies or IDT, with no additio
 - **Total Volume --> 100 µl**
 
 Run OLIGOFIL program on PCR machine:
-- 1. 95˚C 2 minutes
-- 2. 95˚C 30 seconds
-- 3. 50°C 2 minutes
-- 4. 72°C 5 minutes
-- 5. repeat steps 2-4 three times (so a total of 4 cycles)
-- 6. 4˚C hold
+1. 95˚C 2 minutes
+2. 95˚C 30 seconds
+3. 50°C 2 minutes
+4. 72°C 5 minutes
+5. repeat steps 2-4 three times (so a total of 4 cycles)
+6. 4˚C hold
 
 Purify the template using a PCR cleanup column, and elute in 30 µl of water (expected: 100-200 ng/µl DNA)
 
@@ -82,7 +82,7 @@ Assemble in PCR tubes at room temperature.
 - T7/SP6 enzyme mix 6 µl
 - Template X µl (0.45 µg)
 - Water (up to 60 ml total)
-- **Total: 60 µl**
+- **Total Volume: 60 µl**
 
 Incubate overnight at 37˚C in PCR machine.
 
@@ -91,13 +91,12 @@ Add 3 µl TURBO DNase (included in Ambion transcription kit),
 Incubate for 15 minutes at 37˚C.
 
 *<ins>Cleanup sgRNA transcription reaction<ins>*
-
--Add 10 µl 5 M ammonium acetate (included in transcription kit) and 60 µl 100% ethanol.
--Mix well, incubate for 20 minutes at -80˚C until frozen (can be left up to overnight).  
--Centrifuge for 15 minutes at 4˚C, maximum speed.
--Remove the supernatant and add 1 ml 70% ethanol.
--Centrifuge for 5 minutes at 4˚C, maximum speed.
--Remove supernatant, quick spin down the ethanol on the sides of the tube, remove liquid with a 200 µl pipette tip.
--Dry at room temperature for a few minutes and resuspend in 20 µl water.
--Determine RNA concentration using the Nanodrop.  Want over 2000 ng/ul
--Run on a gel- should see a band at ~100bp
+- Add 10 µl 5 M ammonium acetate (included in transcription kit) and 60 µl 100% ethanol.
+- Mix well, incubate for 20 minutes at -80˚C until frozen (can be left up to overnight).  
+- Centrifuge for 15 minutes at 4˚C, maximum speed.
+- Remove the supernatant and add 1 ml 70% ethanol.
+- Centrifuge for 5 minutes at 4˚C, maximum speed.
+- Remove supernatant, quick spin down the ethanol on the sides of the tube, remove liquid with a 200 µl pipette tip.
+- Dry at room temperature for a few minutes and resuspend in 20 µl water.
+- Determine RNA concentration using the Nanodrop.  Want over 2000 ng/ul
+- Run on a gel- should see a band at ~100bp
