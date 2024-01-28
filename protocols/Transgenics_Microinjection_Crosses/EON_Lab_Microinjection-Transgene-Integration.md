@@ -97,15 +97,15 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
 
       *Note: when picking F2 animals it is critical not to carry along eggs or larvae in order to avoid false negatives in the next step.*
 
-  1. Grow F2 animals at 20 °C.
+    1. Grow F2 animals at 20 °C.
 9. Isolation and validation of integrated transgenic strains:
    1. Screen F2 plates for 100% dTomato+ F3 worms. The screen is quite rapid as the presence of a single dTomato- worm indicates that the plate should be thrown away. 
    1. Pick four dTomato+ F3 animals from selected plates to confirm the 100% inheritance of the transgene. 
    1. If possible, keep several independent integrated transgenic strains, i.e. strains recovered from different F1 animals. 
 10. Outcross integrated strain
-   1. Cross integrated L4’s with wild-type males
-   1. Find an F2 isolate that is homozygous for the integration (usually done by finding a plate with 100% fluorescent progeny)  
-   1. Repeat steps 10.1 and 10.2 two more times 
+     1. Cross integrated L4’s with wild-type males
+     1. Find an F2 isolate that is homozygous for the integration (usually done by finding a plate with 100% fluorescent progeny)  
+     1. Repeat steps 10.1 and 10.2 two more times 
 
 
 ## **NOTES**
