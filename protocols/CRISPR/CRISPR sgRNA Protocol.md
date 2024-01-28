@@ -52,7 +52,7 @@ We order standard desalted oligos from Life Technologies or IDT, with no additio
 - 2.5 mM dNTPs --> 8 mL
 - DNA polymerase --> 2 mL
 - dH<sub>2</sub>0 --> 72 mL
-- **Total --> 100 µl**
+- **Total Volume --> 100 µl**
 
 Run OLIGOFIL program on PCR machine:
 - 1. 95˚C 2 minutes
