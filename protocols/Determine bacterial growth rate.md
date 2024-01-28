@@ -28,7 +28,11 @@
   - There is a zero-point on the time scale (T<sub>0</sub>).
 - Bacterial generation time can be determined by extrapolation from the growth curve. 
 
-(add images here)
+<img width="479" alt="image" src="https://github.com/jesshill/Onish_lab/assets/41451575/00b6be9b-1e46-43e4-b26d-4c81b0fcb446">
+
+
+<img width="467" alt="image" src="https://github.com/jesshill/Onish_lab/assets/41451575/40b40c5a-d96e-4a83-9ce7-4741fd728780">
+
 
 **References:**
 
