@@ -34,7 +34,7 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
 
 **Injection**
 
-1. Prepare DNA mix for injection (20 uL). Once prepared, centrifuge (30 min, 12,000g, 4C) and remove 10 – 15 uL off the top and transfer to a clean tube. Use this for injecting. Store on ice. 
+1. Prepare DNA mix for injection (20 uL). Once prepared, centrifuge (10 min, 12,000g, 4C) and remove 10 – 15 uL off the top and transfer to a clean tube. Use this for injecting. Store on ice. 
    1. Keep DNA mix in the fridge for further use, but don’t keep/use for more than 1 week. 
    1. DNA Mix: 
       1. Aim for a total of 80 – 90 ng/uL DNA. Higher concentrations of 100 – 150 ng/uL are okay but can lead to needle clogging. 
