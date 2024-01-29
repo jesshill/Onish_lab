@@ -10,15 +10,15 @@
 
 1. Inoculate 10 ml of LB with DH5a from a frozen stock or colony. Grow overnight.
 2. Inoculate 1 L of LB in a 2 L flask with the 10 ml overnight culture.  Make sure to save some LB for a blank. Grow until OD<sub>595</sub> is 0.5-1.0 (about 3-6 hours).
-3. Pellet in two 500 ml sterile bottles at 3202xg for 10 min at 4<sup>o</sup>C.
+3. Pellet in two 500 ml sterile bottles at 3000g for 15 min at 4<sup>o</sup>C.
 4. Rinse each pellet in 500 ml sterile ice cold water.  Shake vigorously and pipette to resuspend.
-5. Pellet at 1760 g for 10 min at 4<sup>o</sup>C.
+5. Pellet at 3000g for 10 min at 4<sup>o</sup>C.
 6. Resuspend each pellet in 250 ml sterile ice cold water.  Combine into one bottle.
-7. Pellet at 1760 g for 10 min at 4<sup>o</sup>C.
+7. Pellet at 3000g for 10 min at 4<sup>o</sup>C.
 8. Resuspend pellet in 500 ml sterile ice cold water.
-9. Pellet at 1760 g for 10 min at 4<sup>o</sup>C.
+9. Pellet at 3000g for 10 min at 4<sup>o</sup>C.
 10. Resuspend the pellet in 50 ml sterile ice cold water.  Transfer to a 50 ml tube.
-11. Pellet at 3100 g for 10 min at 4<sup>o</sup>C.
+11. Pellet at 3000g for 10 min at 4<sup>o</sup>C.
 12. Remove all the supernatant.  Resuspend the pellet in 2 ml sterile ice cold 10% glycerol.  The final volume is usually about 3 ml.
 13. Make 100 ul aliquots on dry ice.  A good way to do this is to place open, sterile, labeled tubes in a freezer box and place it in a dry ice-filled styrofoam box to chill.
 14. Store tubes at –70<sup>o</sup>C.
