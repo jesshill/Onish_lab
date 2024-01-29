@@ -10,7 +10,7 @@
 
 ### Protocol 
 
-- Thaw an aliquot of competent *E. coli* on ice*.* 
+- Thaw an aliquot of competent *E. coli* on ice. 
   - Use TOP10 cells for general transformation and dB3.1 cells for any plasmid with the cCdB gene. 
   - Be nice to the cells. Competent cells are very fragile. No vortexing, don’t leave them thawed for too long. Don’t refreeze aliquots of cells.
 - Turn the 42°C heat block on and add water to the block.
