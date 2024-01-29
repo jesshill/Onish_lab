@@ -41,12 +41,16 @@ Many aspects of this protocol can be tweaked if your initial conjugation attempt
 Tri-parental conjugation is required by some protocols, such as mini-Tn7 integration (<https://www.nature.com/articles/nprot.2006.24>). Mini-Tn7 integration requires delivery of two plasmids into the recipient - a primary plasmid that encodes the mini-Tn7T transposon and a helper plasmid that encodes the TnsABCD transposase subunits. For tri-parental conjugation, you need to combine a set ratio of the three strains - your two donors and your recipient. An example for calculating a 1:1:1 ratio is given below. As in other conjugations, modifying this ratio to include more or less of the recipient may result in more successful conjugations and integrations.
 
 1. Measure the OD600 of the overnight culture from each strain.
+
    Donor #1 : 2.58
+
    Donor #2 : 1.89
+
    Recipient : 2.02
+   
 1. Calculate how much of each culture to add for a 1:1:1 ratio and a 100 µL pool.
 
-   ((1.89 / 2.58) + (1.89 / 1.89) + (1.89 / 2.02)) x X = 100 µL
+   ((1.89 / 2.58) + (1.89 / 1.89) + (1.89 / 2.02)) * X = 100 µL
 
    X = 37.47 µL
 
@@ -61,5 +65,3 @@ Tri-parental conjugation is required by some protocols, such as mini-Tn7 integra
 ### Contributors to this protocol:
 - Sean Leonard
 - Julie Perreau
-
-
