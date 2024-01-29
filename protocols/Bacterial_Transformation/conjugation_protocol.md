@@ -1,21 +1,24 @@
-﻿**mini-Tn7 insertion in bacteria with single *att*Tn7 sites: example *Pseudomonas aeruginosa***
+## mini-Tn7 insertion in bacteria with single *att*Tn7 sites: example *Pseudomonas aeruginosa*
 
-Kyoung-Hee Choin & Herbert P Schweizer
+*Date:* 09-26-2022
 
-Adapted by: Jessica Hill 
+*Author:* Kyoung-Hee Choin & Herbert P Schweizer, adapted by JLH
 
-**Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+---
 
-**Recipient Strain:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Date:** 
 
-**Donor Strain(s):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Recipient Strain:** 
 
-**Selection marker(s):** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Donor Strain(s):** 
 
+**Selection marker(s):** 
 
-**MATERIALS**
+--- 
 
-**REAGENTS**
+### MATERIALS
+
+**<ins>REAGENTS<ins>**
 
 Liquid LB medium
 
@@ -29,7 +32,7 @@ Recipient strain
 
 Donor strain(s)
 
-**EQUIPMENT**
+**<ins>EQUIPMENT<ins>**
 Incubator
 
 Culture tubes
@@ -43,7 +46,7 @@ EtOH
 Bunsen burner/striker 
 
 
-**PROCEDURE**
+### PROCEDURE
 
 Four-parental mating conjugation 
 
@@ -66,6 +69,3 @@ Four-parental mating conjugation
 1. Let the sample dry on the plate. 
 1. Place the plate in the incubator at the appropriate temperature for the recipient strain and culture o/n. 
 1. Check for colonies of trans-conjugates the next day. 
-
-
-
