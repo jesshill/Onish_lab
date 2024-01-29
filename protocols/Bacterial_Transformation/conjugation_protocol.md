@@ -19,32 +19,20 @@
 ### MATERIALS
 
 **<ins>REAGENTS<ins>**
-
-Liquid LB medium
-
-Selection antibiotics
-
-LB plates
-
-LB selection plates
-
-Recipient strain
-
-Donor strain(s)
+- Liquid LB medium
+- Selection antibiotics
+- LB plates
+- LB selection plates
+- Recipient strain
+- Donor strain(s)
 
 **<ins>EQUIPMENT<ins>**
-Incubator
-
-Culture tubes
-
-Inoculation loop 
-
-Items for spread plate method (i.e., glass spreader, turn table)
-
-EtOH
-
-Bunsen burner/striker 
-
+- Incubator
+- Culture tubes
+- Inoculation loop 
+- Items for spread plate method (i.e., glass spreader, turn table)
+- EtOH
+- Bunsen burner/striker 
 
 ### PROCEDURE
 
