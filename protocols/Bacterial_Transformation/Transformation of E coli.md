@@ -1,6 +1,14 @@
-﻿E. coli Transformation
+## ﻿E. coli Transformation
 
-Date: \_\_\_\_\_\_\_\_
+**Date:** 04-13-2021
+
+**Author:** Nishimura lab
+
+--- 
+
+**Date prepared:**
+
+### Protocol 
 
 - Thaw an aliquot of competent *E. coli* on ice*.* 
   - Use TOP10 cells for general transformation and dB3.1 cells for any plasmid with the cCdB gene. 
