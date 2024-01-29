@@ -45,11 +45,17 @@ Tri-parental conjugation is required by some protocols, such as mini-Tn7 integra
    Donor #2 : 1.89
    Recipient : 2.02
 1. Calculate how much of each culture to add for a 1:1:1 ratio and a 100 µL pool.
+
    ((1.89 / 2.58) + (1.89 / 1.89) + (1.89 / 2.02)) x X = 100 µL
+
    X = 37.47 µL
+
    (1.89 / 2.58) x 37.47 µL = 27.44 µL donor #1
+
    (1.89 / 1.89) x 37.47 µL = 37.47 µL donor #2
+
    (1.89 / 2.02) x 37.47 µL = 35.05 µL recipient
+   
 1. Proceed as normal for regular conjugations.
 
 ### Contributors to this protocol:
