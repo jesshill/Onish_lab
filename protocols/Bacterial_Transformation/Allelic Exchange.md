@@ -1,6 +1,6 @@
-﻿**Allelic exchange protocol for gene knockout, point mutagenesis, tagging**
+## Allelic exchange protocol for gene knockout, point mutagenesis, tagging
 
-***In silico construct building***
+### In silico construct building
 
 Digest pCVD443 at XbaI and SacI sites and ligate the ***locus*** containing your ***allele of interest*** into the digested pCVD443 in silico. The ***allele of interest*** could be a point mutation allele, or a large-deletion allele, or a two-gene operon/fusion of the gene being studied with a tag protein. The ***locus*** containing your allele of interest is a region with your allele of interest in the middle flanked by 2 regions of 1-1.5 kb upstream and downstream of it (homology arms for recombination). Double check to make sure the allele of interest does not cause frame shift of its downstream genes (in the 3’ flanking region). Based on this in silico construct, appropriate primers can be picked to clone fragments that will be then ligated together with restriction-digested pCVD443 by Gibson assembly.
 
@@ -8,7 +8,7 @@ Digest pCVD443 at XbaI and SacI sites and ligate the ***locus*** containing your
 
 **Make ahead:** electrocompetent *E. coli* SM10, Kan+Strep LB plates, 10% sucrose LB plates.
 
-***Phusion PCR and Gibson Assembly***
+### Phusion PCR and Gibson Assembly
 
 - Do PCR with the primers picked from the in silico construct. 
 - Triple digest miniprepped pCVD443 with XbaI, SacI and SphI (the addition of SphI is to maximize the digestion efficiency and therefore the yield of linearized plasmids).
@@ -16,14 +16,14 @@ Digest pCVD443 at XbaI and SacI sites and ligate the ***locus*** containing your
 - Perform Gibson assembly for PCR fragments and pCVD443 with NEB HiFi DNA Assembly kit according to manufacturer’s recommendation in terms of molarities of fragments, ratios, and incubation duration.
 - Transform *E. coli* SM10 with the Gibson mixture by electroporation using BioRad Micropulser Ec2 program (V=2.5kV) and 0.2 cm cuvette. After outgrowth of the electroporated population in SOB for at least 1 hour, plate on Amp LB plate to select for transformants (pCVD443 has both AmpR and KanR; however, SM10 is inherently KanR so in order to maintain the plasmid, select with Amp).
 
-***Mating and selection for recombination***
+### Mating and selection for recombination
 
 - Mate a transformant *E. coli* SM10 (hosting pCVD443 harboring the locus with your allele of interest) with your bacterial species of interest.
 - Select for the first recombination event with Kan+Strep LB plates.
 - Pick a few colonies on Kan+Strep LB plates, grow in 5 mL cultures overnight with antibiotics. These cultures can be used for 2 things: a) I usually take 700 uL of each culture and make a temporary glycerol stock of each of these clones as stocks for starting material of second selection; and b) Take 1 mL of the culture, spin the cells down, wash twice with LB to get rid of antibiotics and resuspend in 1 mL of LB, then plate about 200 uL of this suspension on 10% sucrose LB plates (no antibiotics) for selection of second recombination event.
 - Screen the 10% sucrose LB plates for your allele-exchanged/knockout/tagged clones. If you have a marker in your construct (in case of tagging with fluorescent protein), this will be easy. Otherwise, you’ll have to screen by colony PCR with primers that flank your allele. The second recombination event either swaps everything out and gives you back WT or happens at the second homology arm and gives you the allelic exchanged clones. 
 
-**Subportocol for electrocompetent cells**:
+### Subportocol for electrocompetent cells:
 
 - Autoclave 2x 500 mL of LB in 1L flask (for bacterial growth) and also sterilize about 600 mL of 10% glycerol (for washing cells).
 - Streak out *E. coli* SM10 on Kan LB plates.
@@ -39,7 +39,7 @@ Note: Everything from this step onwards should be kept on ice.
 - Repeat the washing step for 4 more times for a total of 5 washes. The washes are to remove as much as possible salts in LB to prevent arcing during electroporation.
 - Pour off the supernatant and resuspend cells gently in the residual 10% glycerol (the liquid that falls back after being poured off, and hence, it’s a very thick suspension). Aliquot 50 uL into microcentrifuge tubes and store at -80°C.
 
-**Subprotocol for electroporation:**
+### Subprotocol for electroporation:
 
 - Coordinate with Shikuma lab to get permission to use their electroporator.
 - Once you have everything ready (DNA mix, pipettes and tips, prechilled cuvettes) for the actual electroporation step, take the number of aliquots of electrocompetent cells you need (1 aliquot per condition) and let them thaw on ice (about 2-3 min, don’t let it thaw on ice like 30 min or 1 hr before electroporation since the efficiency will reduce dramatically).
@@ -57,7 +57,7 @@ Note: Everything from this step onwards should be kept on ice.
 
 - After the recovery time in the incubator, spread 150 uL onto 1 Carb/Amp LB plate, spin down the remaining 850 uL, discard the liquid but leave about 100-200 uL, resuspend the pellet and spread all of it onto another Carb/Amp LB plate (to plate everything from the electroporated population and therefore help increase the chance of getting the transformant).
 
-**Subprotocol for mating:**
+### Subprotocol for mating:
 
 - Grow the parental strains in (overnight) cultures with appropriate antibiotics to prevent contamination as well as maintaining the plasmid in one of the parental strains. The OD<sub>600</sub> at which I usually perform mating is 0.5-0.7.
 - Pellet the bacteria and wash with LB for several times to remove antibiotics as much as possible (to avoid cross-killing the other parental strain). Resuspend the washed pellets and mix recipient : donor in either 1:1 or 1:10 ratio. Mix thoroughly and pellet the mixture, discard most of the liquid, leave only about 100 uL or even the residual liquid would also be sufficient. Resuspend again (quite thick mixture) and spot plate on LB agar plate without antibiotics (~ 30 uL spots). Incubate at recipient growth temperature.
