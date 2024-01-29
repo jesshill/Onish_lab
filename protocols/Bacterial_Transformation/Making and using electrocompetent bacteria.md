@@ -23,16 +23,16 @@
 13. Make 100 ul aliquots on dry ice.  A good way to do this is to place open, sterile, labeled tubes in a freezer box and place it in a dry ice-filled styrofoam box to chill.
 14. Store tubes at –70<sup>o</sup>C.
 15. To electroporate:
-- Chill on ice a 0.1 cm cuvette that contains 50 ml sterile water.  Keep the cuvette on ice until the electroporation.
+- Chill on ice a 0.1 cm cuvette that contains 50 ul sterile water.  Keep the cuvette on ice until the electroporation.
 - Add your DNA.  
-  - I typically use 3 ml out of a 15 ml ligation reaction.  
-  - I’ve tried up to 7 ml of a ligation without arcing.
-- Add 30 ml of electrocompetent cells.
+  - I typically use 3 ul out of a 15 ul ligation reaction.  
+  - I’ve tried up to 7 ul of a ligation without arcing.
+- Add 30 ul of electrocompetent cells.
 - Just before electroporating, mix by flicking the cuvette and dry the outside of the cuvette with a kimwipe.
 - Shock at 200 ohms, 25 uF, 2.0 kV. (the Bamberg lab electroporator units for ‘set volts’ is kV) The time constants should be 3.3-4.3 msec.
 - Add 1 ml of room temperature LB.  Pipette a few times to gently mix and transfer to a sterile 1.5 ml tube.
 - Let recover for 45-60 min at 37<sup>o</sup>C (no shaking).
-- Pellet at 14,000 rpm in a microfuge.  Remove most of the supernatant, leaving about 150 ml.
+- Pellet at 16,000g in a microfuge for 2 min.  Remove most of the supernatant, leaving about 150 ul.
 - Resuspend the bacteria and spread on an appropriate selective plate.
 16. To clean the cuvettes:
 - Soak the cuvettes and caps in 1-2 % bleach for about 15 min.
