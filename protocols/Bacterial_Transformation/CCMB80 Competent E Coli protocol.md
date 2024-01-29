@@ -22,11 +22,11 @@ way to remove most detergent residue.
 
 Media and buffers should be prepared in detergent free glassware and cultures grown up in detergent free glassware.
 
-#### Prechill plasticware and glassware
+#### <ins>Prechill plasticware and glassware<ins>
 Prechill 250mL centrifuge tubes and screw cap tubes before use.
 
 
-#### Preparing competent cells
+#### <ins>Preparing competent cells<ins>
 Inoculate 250 ml of [[SOB]] medium with 1 ml vial of seed stock and grow at 20C to an OD600nm of 0.3
 
 - This takes approximately 16 hours.
@@ -61,7 +61,7 @@ Test competence (see below)
 
 Thawing and  refreezing partially used cell aliquots dramatically reduces transformation efficiency by about 3x the first time, and about 6x total after several freeze/thaw cycles.
 
-#### Measurement of competence
+#### <ins>Measurement of competence<ins>
 
 Transform 50 &mu;l of cells with 1 &mu;l of standard pUC19 plasmid (Invitrogen)
 - This is at 10 pg/&mu;l or 10<sup>-5</sup> &mu;g/&mu;l
