@@ -38,9 +38,9 @@ V=50 uL * number of shocks
 
 ### Transformation of Cells through Electroporation:
 1. To 1 mm (0.1 cm) gap-width cuvettes add:
-   1. 50 mL cells in 300 mM sucrose.
-   1. 2.5 mL p64967 plasmid @ 10 ng/mL
-   1. 2.5 mL p65032 (GmR) plasmid @ 10 ng/mL
+   1. 50 uL cells in 300 mM sucrose.
+   1. 2.5 uL p64967 plasmid @ 10 ng/mL
+   1. 2.5 uL p65032 (GmR) plasmid @ 10 ng/mL
    1. Do not add volume of DNA over 10% volume of cells. This will cause arcing.
 1. Electroporate with these settings:
    1. 25 uF, 200 ohms, 1.25 kV (can range from 1.25 – 2.4 kV)
