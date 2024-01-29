@@ -1,8 +1,12 @@
-﻿**Making Competent E.coli**
+## Making Competent E.coli
 
-Alisa Shaw     9/30/20
+**Date:** 9/30/20
 
-**CCMB80 buffer**
+**Author:** Alisa Shaw
+
+---
+
+### CCMB80 buffer
 
 |**Reagent**|**[Stock] or MW**|**[Final]**|**Amount for 150 ml**|
 | :-: | :-: | :-: | :-: |
@@ -33,7 +37,9 @@ Alisa Shaw     9/30/20
 - Autoclave 20 min
 - Before inoculating, set aside ~5 ml of SOB for the overnight culture and OD<sub>600</sub> readings.
 
-**Preparing competent cells**
+---
+
+### Preparing competent cells
 
 - Streak E.coli on an SOB plate, grow to colonies at room temp (2-3 days).
 - Inoculate a single colony into 2 ml of SOB, grow overnight at 20°C with shaking.
