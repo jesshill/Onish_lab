@@ -29,7 +29,7 @@
   - I’ve tried up to 7 ml of a ligation without arcing.
 - Add 30 ml of electrocompetent cells.
 - Just before electroporating, mix by flicking the cuvette and dry the outside of the cuvette with a kimwipe.
-- Shock at 200 W, 25 mF, 2.0 kV. (the Bamberg lab electroporator units for ‘set volts’ is kV) The time constants should be 3.3-4.3 msec.
+- Shock at 200 ohms, 25 uF, 2.0 kV. (the Bamberg lab electroporator units for ‘set volts’ is kV) The time constants should be 3.3-4.3 msec.
 - Add 1 ml of room temperature LB.  Pipette a few times to gently mix and transfer to a sterile 1.5 ml tube.
 - Let recover for 45-60 min at 37<sup>o</sup>C (no shaking).
 - Pellet at 14,000 rpm in a microfuge.  Remove most of the supernatant, leaving about 150 ml.
