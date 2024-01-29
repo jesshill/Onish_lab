@@ -1,6 +1,4 @@
-
-
-===CCMB80 buffer===
+## CCMB80 buffer
 
 * 10 mM KOAc pH 7.0 (10 ml of a 1M stock/L)
 * 80 mM CaCl2 * 2H2O (11.8 g/L)
@@ -15,7 +13,7 @@
 * sterile filter and store at 4C
 * slight dark precipitate appears not to affect its function
 
-==Procedure==
+### Procedure
 
 Detergent is a major inhibitor of competent cell growth and transformation.  Glass and plastic
 must be detergent free for these protocols.  The easiest way to do this is to avoid washing
@@ -89,6 +87,6 @@ Prechill 250mL centrifuge tubes and screw cap tubes before use.
 * Plate 20 &mu;l on AMP plates using sterile 3.5 mm glass beads
 
 ** Good cells should yield around 100 - 400 colonies
-** Transformation efficiency is (dilution factor=15) x colony count x 10<sup>5</sup>/µgDNA
-**We expect that the transformation efficiency should be between 5x10<sup>8</sup> and 5x10<sup>9</sup> cfu/µgDNA
+** Transformation efficiency is (dilution factor=15) x colony count x 10<sup>5</sup>/ÂµgDNA
+**We expect that the transformation efficiency should be between 5x10<sup>8</sup> and 5x10<sup>9</sup> cfu/ÂµgDNA
 
