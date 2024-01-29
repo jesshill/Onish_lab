@@ -5,7 +5,7 @@
 - 10 mM MgCl2 * 6H2O (2.0 g/L)
 - 10% glycerol (100 ml/L)
 
-adjust pH DOWN to 6.4 with 0.1N HCl if necessary
+adjust pH DOWN to 6.4 with 0.1 N HCl if necessary
 
 NOTE: adjusting pH up will precipitate manganese dioxide from Mn containing solutions.
 
@@ -71,7 +71,7 @@ Hold on ice 0.5 hours
 
 Heat shock 60 sec at 42C
 
-Add 250 ul [[SOC]]
+Add 250 ul [SOC]
 
 Incubate at 37 C for 1 hour in 2 ml centrifuge tubes rotated
 - using 2ml centrifuge tubes for transformation and regrowth works well because the small volumes flow well when rotated, increasing aeration.
