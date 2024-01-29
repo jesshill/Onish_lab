@@ -34,7 +34,7 @@
    1. Repeat sucrose wash 1 time, for a total of 2 washes. 
 1. After second wash, remove supernatant and resuspend cells in desired volume of sucrose. You want the final volume equal to:
 
-V=50 uL\*number of shocks
+V=50 uL * number of shocks
 
 ### Transformation of Cells through Electroporation:
 1. To 1 mm (0.1 cm) gap-width cuvettes add:
@@ -53,7 +53,7 @@ V=50 uL\*number of shocks
 ### Washing of Cuvettes
 1. Soak Cuvettes in ~1% bleach for 5 mins. Soaking in an empty pipette tip box works well and makes rinses easy. 
 
-12.5 mL5% bleach=(75 mL)(1% bleach)
+(12.5 mL)(5% bleach)=(75 mL)(1% bleach)
 
 1. Rinse well to remove bleach.
 1. Rinse in 95% ethanol and dry upside down before storing.
