@@ -98,6 +98,7 @@ In fluorescence in situ hybridization (FISH), the addition of formamide to aqueo
    1. Thus far, ovaries have all been frozen. We will test fresh ovaries soon. 
 
 **<ins>Before Starting<ins>**
+
 3. Book **microscope for desired day and time before doing anything else.**
 4. Ensure probes have been pre-annealed before starting day 1, or plan for a time to do this. The hour long ethanol incubation is plenty of time to prepare the probes. 
 5. Check quality of mounting media and prepare more if necessary.
@@ -109,6 +110,7 @@ In fluorescence in situ hybridization (FISH), the addition of formamide to aqueo
 4. Wash twice with 200 uL of PBS for 2-5 minutes. 
 
 **<ins>Hybridize smiFISH probes<ins>**
+
 5. Prepare 110 uL of hybridization solution for sample. 
 6. Add 2 uL of annealed smiFISH probes to hybridization solution. Vortex well, it is viscous.
    1. If probing for more than 1 transcript, just add the additional 2 uL of probes to the hybridization solution. 
@@ -125,8 +127,7 @@ In fluorescence in situ hybridization (FISH), the addition of formamide to aqueo
 
 **END DAY ONE**
 
-Wash and Image
-
+**<ins>Wash and Image<ins>**
 - Next day, add 200 uL of Wash Buffer A directly to the hybridized sample. 
 - Incubate at 37°C for 30 min with shaking (450 rpm). 
 - Centrifuge sample (14000 xg for 1-2 min) and aspirate supernatant.
@@ -140,9 +141,7 @@ Wash and Image
   - NEED to incubate for 30 min when using the 670 fluor.
     - We should probably err on the side of longer with our fluors, but unsure about our specific dyes for now
 
-
-Mount on slides
-
+**<ins>Mount on slides<ins>**
 - Prepare cut pipette tip to manipulate sample using scissors. This will allow gentler handling of the ovaries. A 20 uL tip cut is recommend, with the cut approximately a third of the way up the tip so 2/3 of the tip is remaining. USE FILTERED TIPS AND NO MORE THAN HALF OF MAXIMUM VOLUME TO AVOID SAMPLE ENTERING PIPETTE
 - Re-vortex mounting media before usage to ensure all solid is dissolved.
 - Working at a dissecting scope, drop 10 uL of sample in mounting medium onto a single 8 mm 1.5 thickness round cover glass (Electron Microscopy Sciences, Cat#: 72296-08).
@@ -157,25 +156,23 @@ Mount on slides
 - Store any un-imaged samples in the dark. Image same day.
   - The samples lose fluorescence quickly, so 
 
+---
 
-**REFERNCES**
+### REFERNCES
 
 Shaffer, SM, Wu, MT, Levesque, MJ, Raj, A. 2013. Turbo FISH: A Method for Rapid Single Molecule RNA FISH. PLoS One. DOI: 10.1371/journal.pone.0075120
 
 <http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075120>
-#
+
 Ji, N and van Oudenaarden, A. 2012
-# Single molecule fluorescent *in situ* hybridization (smFISH) of *C. elegans* worms and ovaries. Wormbook
-# <http://www.wormbook.org/chapters/www_smFISH/smFISH.html>
-#
-# Stellaris
-# <https://biosearchassets.blob.core.windows.net/assets/bti_custom_stellaris_celegans_protocol.pdf>
-#
-# Dustin Updike
-#
-# Arjun Raj
-#
+Single molecule fluorescent *in situ* hybridization (smFISH) of *C. elegans* worms and ovaries. Wormbook
+<http://www.wormbook.org/chapters/www_smFISH/smFISH.html>
+
+Stellaris
+<https://biosearchassets.blob.core.windows.net/assets/bti_custom_stellaris_celegans_protocol.pdf>
+
+Dustin Updike
+
+Arjun Raj
+
 Nikolay Tsanov, Aubin Samacoits, Racha Chouaib, Abdel-Meneem Traboulsi, Thierry Gostan, Christian Weber, Christophe Zimmer, Kazem Zibara, Thomas Walter, Marion Peter, Edouard Bertrand, Florian Mueller; smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability, *Nucleic Acids Research*, Volume 44, Issue 22, 15 December 2016, Pages e165, <https://doi.org/10.1093/nar/gkw784>
-
-
-
