@@ -1,12 +1,12 @@
-﻿
-` `**smiFISH Protocol**
+## **smiFISH Protocol**
 
-Prepared by: Dylan Parker and Samuel Boyson on 20210302
+Prepared by: Dylan Parker and Samuel Boyson on 20210302, Adapted by Jessica Hill on 20230228
 
-Adapted by: Jessica Hill on 20230228
+Adapted by: Hunter Ogg on 20240129
 
-**Reagents – Protocol A**
+---
 
+### Reagents – Protocol A
 - Wash Buffer A - SMF-WA1-60
   - Nuclease-free water
   - Deionized Formamide
@@ -24,10 +24,9 @@ Adapted by: Jessica Hill on 20230228
 - VectaShield Diamond anti-fade solution
 
 
-**NEEDED REAGENTS AND SOLUTIONS**
+### NEEDED REAGENTS AND SOLUTIONS
 
-Wash Buffer A (10% v/v formamide)
-
+**<ins>Wash Buffer A (10% v/v formamide)<ins>**
 - Make fresh for each experiment. 
 - Make up 1.5 mL for each sample to be hybridized. Combine reagents into a nuclease free tube and vortex to mix. 
   - 300 uL Wash Buffer A (Biosearch Technologies; Cat#: SMF-WA1-60) 
@@ -37,26 +36,22 @@ Wash Buffer A (10% v/v formamide)
 
 In fluorescence in situ hybridization (FISH), the addition of formamide to aqueous buffers solutions of DNA enables key procedural steps—such as the prehybridization denaturation, the reannealing step and the post-hybridization stringency washes—to be carried out at lower, less harsh temperatures without compromising the overall efficiency and specificity of the hybridization.
 
-Wash Buffer B
-
+**<ins>Wash Buffer B<ins>**
 - Make sure water has been added to Wash Buffer B before use (Biosearch Technologies; Cat#: SMF-WB1-20) 
 
-Hybridization Buffer (10% v/v formamide)
-
+**<ins>Hybridization Buffer (10% v/v formamide)<ins>**
 - Prepare 110 uL for each sample to be hybridized
 - Buffer should be mixed fresh for each experiment
 - For a final volume of 110 uL, mix 99 µL of Stellaris RNA FISH Hybridization Buffer (Biosearch Technologies; Cat#: SMF-HB1-10) with 11 µL Deionized Formamide. 
 
 *Do not freeze Hybridization Buffer.*
 
-Pre-chill Acetone and Methanol 
-
+**<ins>Pre-chill Acetone and Methanol<ins>**
 - Prepare 0.5 mL for each sample.
 - Place acetone/methanol in -20C freezer. Allow to cool. 
   1. If time runs out and acetone/methanol is not cool, freeze it quickly in liquid N<sub>2</sub>, allow to thaw, and then place in the -20C freezer.
 
-Mounting Medium (5 mL)
-
+**<ins>Mounting Medium (5 mL)<ins>**
 - 2.5 mL of 100% glycerol
 - 25 mg of N-propyl gallate\*
 - 100 uL of 1M Tris (pH 8.0)
@@ -70,18 +65,17 @@ Mounting Medium (5 mL)
 - Store at 4°C or -20°C.
 - When medium turns yellow and begins crystalizing make fresh
 
-smiFISH Probe Preparation 
-
+**<ins>smiFISH Probe Preparation<ins>**
 1. Primary Probes
 - Oligos are delivered in 96-well plates diluted in TE buffer to 100 uM
 - Prepare equimolar mixture of primary probes and dilute in 10 mM Tris (pH 8.0) made with Nuclease-free water until you reach a concentration of 0.833 uM per probe.  
   - Use the smiFISH dilution calculator to make the equimolar mix. 
 
-1. FLAP Preparation
+2. FLAP Preparation
 - FLAPS are delivered lyophilized. Resuspend FLAP probes in 10 mM Tris (pH 8.0) to a final concentration of 50 uM. 
 - Make 5 uL aliquots and store at -20C in the dark.
 
-1. Pre anneal smiFISH and FLAP probes
+3. Pre anneal smiFISH and FLAP probes
 - In a PCR tube, prepare solution of:
   - 2 uL of primary probe set (Oligo mixture prepared in “Primary Probe Preparation”)
   - 1 uL 50 uM FLAP 
@@ -94,42 +88,38 @@ smiFISH Probe Preparation
 
 *You can make up in advance but keep only for one week. If making in advance, rather than the day of, store annealed probes in the freezer protected from light.* 
 
+---
 
-**PROTOCOL**
+### PROTOCOL
 
-Dissection
-
+**<ins>Dissection<ins>**
 1. Dissect ~10 ovaries into tubes containing Schneider’s media. Mosquitoes should be blood fed and allowed to lay eggs, so dissection ~3-4 days after a bloodfeed is recommended. Unfed mosquito ovaries can easily be distinguished (much smaller and less developeled) and should be discarded. Mosquito ovaries appear as clusters of grapes. Pure ovaries pellet easier and have much less autofluorescence, but are more likely to be lost during pipetting and harder to distinguish in the tube and on the slide than ovaries with carapace. 
-1. If not starting Day 1 within the next 24 hours, place ovaries in the –20C and store until usage.
+2. If not starting Day 1 within the next 24 hours, place ovaries in the –20C and store until usage.
    1. Thus far, ovaries have all been frozen. We will test fresh ovaries soon. 
 
+**<ins>Before Starting<ins>**
+3. Book **microscope for desired day and time before doing anything else.**
+4. Ensure probes have been pre-annealed before starting day 1, or plan for a time to do this. The hour long ethanol incubation is plenty of time to prepare the probes. 
+5. Check quality of mounting media and prepare more if necessary.
 
-Before Starting
-
-1. Book **microscope for desired day and time before doing anything else.**
-1. Ensure probes have been pre-annealed before starting day 1, or plan for a time to do this. The hour long ethanol incubation is plenty of time to prepare the probes. 
-1. Check quality of mounting media and prepare more if necessary.
-
-Sample Fixation \*this step can be optimized for your specific background strains used in imaging.
-
+**<ins>Sample Fixation<ins>** \*this step can be optimized for your specific background strains used in imaging.
 1. Place samples in 200 uL of 4% formaldehyde solution for 10 minutes.
-1. Wash twice with 200 uL of PBS for 2-5 minutes. 
-1. Place sample in 200 uL of ethanol (stored at –20C). Incubate each at room temp for at least one hour, then store in the fridge in ethanol for no more than a week. Warm to room temp before proceeding.
-1. Wash twice with 200 uL of PBS for 2-5 minutes. 
+2. Wash twice with 200 uL of PBS for 2-5 minutes. 
+3. Place sample in 200 uL of ethanol (stored at –20C). Incubate each at room temp for at least one hour, then store in the fridge in ethanol for no more than a week. Warm to room temp before proceeding.
+4. Wash twice with 200 uL of PBS for 2-5 minutes. 
 
-Hybridize smiFISH probe
-
-1. Prepare 110 uL of hybridization solution for sample. 
-1. Add 2 uL of annealed smiFISH probes to hybridization solution. Vortex well, it is viscous.
+**<ins>Hybridize smiFISH probes<ins>**
+5. Prepare 110 uL of hybridization solution for sample. 
+6. Add 2 uL of annealed smiFISH probes to hybridization solution. Vortex well, it is viscous.
    1. If probing for more than 1 transcript, just add the additional 2 uL of probes to the hybridization solution. 
 
 *Treat annealed smiFISH probes as diluted smFISH probes. 2 uL of annealed smiFISH probes work well for most hybridizations.* 
 
 *smiFISH probes can be used in combination with traditional smFISH probes.*
 
-1. Centrifuge sample (14000 xg for 1-2 min) and aspirate off Wash A buffer.
-1. Add 100 uL hybridization solution containing probes to the pelleted sample. 
-1. Hybridize overnight at 37°C in the dark while shaking (125 rpm). 
+7. Centrifuge sample (14000 xg for 1-2 min) and aspirate off Wash A buffer.
+8. Add 100 uL hybridization solution containing probes to the pelleted sample. 
+9. Hybridize overnight at 37°C in the dark while shaking (125 rpm). 
    1. For our lab, this is accomplished by putting the tubes in a freezer box and leaving in the culture shaker overnight.
    1. If need to leave samples for longer, up to 3 days of hybridization still works. 
 
