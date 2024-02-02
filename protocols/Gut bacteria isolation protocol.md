@@ -6,6 +6,12 @@
 
 ---
 
+**Date performed:**
+
+**Sample information:**
+
+---
+
 ### PROTOCOL
 1. Harvest worms off plate with sterile M9 and transfer to a sterile Eppendorf tube.
 2. Pellet (1 min, 2000 g, RT) and remove the supernatant. 
