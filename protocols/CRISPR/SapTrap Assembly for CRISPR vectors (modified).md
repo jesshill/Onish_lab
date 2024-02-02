@@ -62,13 +62,13 @@ Centrifuge tube with dried gBlock at 3000xg to settle, resuspend in TE buffer or
 
 Resuspension volume (uL)for 50nM = (amount gblock delivered (g) * 10^6 uL)/(50 * 10^-9 M * oligo MW (g/mol))
 
-calculation example: for a gblock with a MW of 137020.9 (g/mol) that I received 250 ng of, I find that I need to resuspend in 36.49 uL for 50 nM.
+<ins>calculation example:<ins> for a gblock with a MW of 137020.9 (g/mol) that I received 250 ng of, I find that I need to resuspend in 36.49 uL for 50 nM.
 
 IF they give you a delivery amount in mol:
 
 Resuspension volume (uL)for 50 nM = (amount gblock delivered (mol) * 10^6)/(50 * 10^-9)
 
-calculation example: for a gblock that I received 1824 fmol of, I find that I need to resuspend in 36.49 uL for 50 nM. 
+<ins>calculation example:<ins> for a gblock that I received 1824 fmol of, I find that I need to resuspend in 36.49 uL for 50 nM. 
 
 >> For dsDNA oligos:
  
@@ -78,7 +78,7 @@ Start by making a 100 uM dilution of the duplex stock: (note that typically IDT 
 
 Resuspension volume (uL) for 100 uM = (amount duplex delivered (mol) * 10^6)/(100 * 10^-6)
 
-calculation example: for a duplex that I received 250 ng of, I find that I need to resuspend in 890 uL for 100 uM.
+<ins>calculation example:<ins> for a duplex that I received 250 ng of, I find that I need to resuspend in 890 uL for 100 uM.
 
 We’ll then take 0.5 uL of the 100 uM duplex solution, and dilute it with 999.5 uL ddH2O to reach a final [] of 50 nM.
 
