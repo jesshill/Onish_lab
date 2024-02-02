@@ -10,10 +10,10 @@ transformation protocol adapted from Alisa Shaw
 
 ### REAGENTS & MATERIALS 
 
-Day 1:
-- 50nM IDT-synthesized oligonucleotide (gRNA donor or HR template donor)
+<ins>Day 1:<ins>
+- 50 nM IDT-synthesized oligonucleotide (gRNA donor or HR template donor)
   - Resuspended with DEPC H20
-- 50nM Target plasmid (for gRNA – pMLS134; for HR template – pMLS257)
+- 50 nM Target plasmid (for gRNA – pMLS134; for HR template – pMLS257)
 - SapTrap Enzyme Mix Recipe:
 
 |Component  |20 rxns |50 rxns |100 rxns |
@@ -28,7 +28,7 @@ Day 1:
 
 *Thoroughly resuspend SapI before withdrawing from stock tube. SapI settles from solution during storage.
 
-Day 2:
+<ins>Day 2:<ins>
 - Restriction enzyme for counter-selection of vector
   - For pMLS134, we can use: BamHI, BanII, StyI, BtgI, NcoI
   - For pMLS257, we can use: BamHI, StyI, NcoI, StuI, NdeI, XcmI, SpeI
@@ -38,7 +38,7 @@ Day 2:
 - LB 
 - LB agar plates with selective antibiotic
 
-Day 3/4: 
+<ins>Day 3/4:<ins> 
 - Selective antibiotic stock
 - Primers for insert verification 
 - PCR reagents
@@ -54,7 +54,7 @@ Day 3/4:
 
 ### PROCEDURE
 
-#### Day 1:
+**<ins>Day 1:<ins>**
 > Donor Fragment Preparation (gBlocks or IDT duplex oligos): 
 >> For gBlocks gene fragments:
 
@@ -92,7 +92,7 @@ We’ll then take 0.5 uL of the 100 uM duplex solution, and dilute it with 999.5
 - Add 0.5uL of DNA mixture to the 2uL SapTrap Enzyme Mix
 - Thoroughly mix, incubate the reaction overnight in thermomixer or on bench at 25C 
 
-#### Day 2:
+**<ins>Day 2:<ins>**
 - The next day, heat inactivate T4 ligase by incubating at 65C in thermomixer for 30min 
 - After T4 ligase inactivation, prepare a mix of 1xCutSmart + 1-2U/uL of counter-selection restriction enzyme (for pMLS257 or pMLS134 I usually use BamHI)
 - Add 2.5uL of counter-selection restriction enzyme solution to the SapTrap mix and incubate at 37C for 1h (thermocycler).
@@ -115,7 +115,7 @@ We’ll then take 0.5 uL of the 100 uM duplex solution, and dilute it with 999.5
 - Shake cells in 37C incubator at 225rpm for 1h.
 - For each transformant, streak 2 LB plates with selective antibiotic – one with 50uL of bacteria and one with 200uL bacteria. Parafilm and grow these plates at 37C overnight. 
 
-#### Day 3: 
+**<ins>Day 3:<ins>** 
 
 > Picking/Growing Colonies
 
@@ -146,7 +146,7 @@ Samples (Fill out the tables in excel for each plasmid and primer set you plan t
 
 
 
-Mixes: 
+<ins>Mixes:<ins> 
 
 |Mix 1 |Mix amount for 1 sample (uL) |Mix amount for X samples|
 | :- | -: | -: |
@@ -169,6 +169,4 @@ Once the mixes are made and added to the DNA, I use the following thermocycler p
   - 30X cycles  
 - 72C 2min  
 - 12C hold  
-
-
 
