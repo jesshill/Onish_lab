@@ -8,18 +8,6 @@
 
 **Effective Date:** 20231117
 
-**Approval:** NAME								
-
-**Approval Date:** YYYYMMDD
-
-**Biosafety Approval:** NAME							
-
-**Biosafety Approval Date:** YYYYMMDD
-
-**Final Approval:** NAME								
-
-**Final Approval Date:** YYYYMMDD
-
 ---
 
 **Applicable To:** (List of all people the SOP is applicable to)
