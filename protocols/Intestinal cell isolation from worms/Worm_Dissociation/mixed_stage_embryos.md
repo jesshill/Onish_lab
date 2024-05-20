@@ -9,6 +9,7 @@ Author: Robert Williams, adapted by Jessica Hill
 Date of procedure: 
 
 Strains used: 
-- E.coli 
-- JM149 
+- E.coli OP50
+- FACS sorting strain: JM149 (GFP)
+- FACS 
 
