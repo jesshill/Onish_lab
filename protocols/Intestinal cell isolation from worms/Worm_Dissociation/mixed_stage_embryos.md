@@ -8,8 +8,11 @@ Author: Robert Williams, adapted by Jessica Hill
 
 Date of procedure: 
 
-Strains used: 
-- E.coli OP50
-- FACS sorting strain: JM149 (GFP)
-- FACS 
+### STRAINS USED: 
+- E. coli OP50
+- JM149 (FACS sorting strain, single color GFP)
+- N2 (FACS unstained control, also use for single color controls)   
+- ... 
 
+
+### REAGENTS: 
