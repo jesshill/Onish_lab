@@ -11,8 +11,9 @@ Date of procedure:
 ### STRAINS USED: 
 - E. coli OP50
 - JM149 (FACS sorting strain, single color GFP)
-- N2 (FACS unstained control, also use for single color controls)   
-- ... 
+- N2 (FACS unstained control, also use for single color controls)
 
 
 ### REAGENTS: 
+...
+
