@@ -6,7 +6,11 @@ Author: Robert Williams, adapted by Jessica Hill
 
 ---
 
-Date of procedure: 
+**Date of procedure:** 
+
+**Name:** 
+
+--- 
 
 ### STRAINS USED: 
 - E. coli OP50
