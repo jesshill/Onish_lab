@@ -12,12 +12,21 @@ Author: Robert Williams, adapted by Jessica Hill
 
 --- 
 
+## MATERIALS
+
 ### STRAINS USED: 
 - E. coli OP50
-- JM149 (FACS sorting strain, single color GFP)
-- N2 (FACS unstained control, also use for single color controls)
-
+- JM149
+  - FACS sorting strain
+  - Single color control for GFP
+- N2
+  - FACS unstained control
+  - Also use for other single color controls (i.e. live/dead staining)
 
 ### REAGENTS: 
-...
+- LB broth mix (Genessee 11-120)
+- M9 Buffer
+  - ...
+  - ...
+- NGM plates
 
