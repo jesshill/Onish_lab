@@ -26,15 +26,13 @@
 
 Be careful not to cross contaminate primers. This is a very difficult problem to troubleshoot.
 
-> 100 uM stock solution
-
+<ins>100 uM stock solution
 - Write the number of the primer in ethanol resistant marker on the cap.
 - Find the real number of nanomoles on the side of the tube and write this number on the IDT packing list.
 - Multiply the number of nanomoles by 10 and add this volume in microliters of sterile ddH<sub>2</sub>O to the tube.
 - Vortex tube for ~10-30 seconds.
 
-> 10 uM working stock
-
+<ins>10 uM working stock
 - Write the primer number in ethanol resistant marker on the lid of an Eppendorf tube.
 - Add 90ul of sterile ddH<sub>2</sub>O to the Eppendorf tube.
 - Add 10ul of vortexed 100 uM stock primer solution to the tube.
