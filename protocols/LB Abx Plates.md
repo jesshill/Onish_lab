@@ -6,14 +6,16 @@
 
 --- 
 
-**Date of preparation:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	
+**Date of preparation:** 	
 
-**Prepared by:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Prepared by:** 
+
+---
 
 To an Erlenmeyer flask add:	
 - 25 g LB powder  	
 - 15 g agar		
-- 1 liter ddH<sub>2</sub>O		
+- Bring up to 1 liter with ddH<sub>2</sub>O		
 
 Cover the flask with foil, add a strip of autoclave tape, and autoclave for 40 min on liquid cycle.
 
