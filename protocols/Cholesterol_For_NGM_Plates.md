@@ -6,9 +6,11 @@
 
 --- 
 
-**Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Date Prepared:** 
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Prepared by:** 
+
+---
 
 To a 50 mL centrifuge tube add:
 - 250 mg of cholesterol
