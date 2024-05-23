@@ -1,4 +1,4 @@
-# Dissociating mixed stage C. elegans embryos for FACS and RNA-seq
+# Dissociating mixed stage *C. elegans* embryos for FACS and RNA-seq
 
 Date: 05-16-2024
 
@@ -12,9 +12,9 @@ Author: Robert Williams, adapted by Jessica Hill
 
 --- 
 
-## MATERIALS
+### <ins> MATERIALS <ins>
 
-### STRAINS USED: 
+#### STRAINS USED: 
 - E. coli OP50
 - JM149
   - FACS sorting strain
@@ -23,10 +23,20 @@ Author: Robert Williams, adapted by Jessica Hill
   - FACS unstained control
   - Also use for other single color controls (i.e. live/dead staining)
 
-### REAGENTS: 
+#### REAGENTS: 
 - LB broth mix (Genessee 11-120)
 - M9 Buffer
-  - ...
-  - ...
+  - 3 g KH2PO4 (Sigma-Aldrich P0662)
+  - 6 g Na2HPO4 (Thermo Fisher S373)
+  - 5 g NaCl (Sigma-Aldrich S9888)
+  - 1 mL 1 M MgSO4 (Sigma-Aldrich 208094)
+  - H20 to 1 L 
 - NGM plates
-
+  - (complete protocol:http://www.wormbook.org/chapters/www_strainmaintain/strainmaintain.html#d0e214)
+  - 3 g NaCl (Sigma-Aldrich S9888)
+  - 17 g agar (Genesee 20-249)
+  - 2.5 g peptone (VWR 89406-350)
+  - 975 mL H2O (sterile and deionized)
+  - 1 mL 1M CaCl2 (Sigma-Aldrich C3306)
+  - 1 mL 5 mg/mL cholesterol (Fisher 501848291)
+  - ... 
