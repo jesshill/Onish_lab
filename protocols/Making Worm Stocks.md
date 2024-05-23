@@ -1,4 +1,4 @@
-﻿## **Making Worm Stocks**
+﻿# **Making Worm Stocks**
 
 **Date:** 12-13-2022
 
@@ -6,15 +6,17 @@
 
 --- 
 
-**Prep Date:**
+**Date of Preperation:**
 
-**Strain(s):** 
+**Strain(s) frozen:** 
+
+**Prepared by:**
 
 ---
 
 ### **SOLUTIONS**
 
-- S Buffer (autoclave or sterile filter): 
+<ins>S Buffer (autoclave or sterile filter): 
   - 1 L
     - 129 mL of 0.05 M K<sub>2</sub>HPO<sub>4</sub> (MW: 174.18 g/mol)
     - 871 mL of 0.05 M KH<sub>2</sub>PO<sub>4</sub> (MW: 136.08 g/mol)
@@ -24,7 +26,7 @@
     - 87.1 mL of 0.05 M KH<sub>2</sub>PO<sub>4</sub>
     - 0.5844 g of NaCl
 
-- S Buffer + 30% glycerin (v/v) (autoclave or sterile filter)
+<ins>S Buffer + 30% glycerin (v/v) (autoclave or sterile filter)
 
 
 ### **PROCEDURE**
