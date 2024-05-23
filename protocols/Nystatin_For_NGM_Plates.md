@@ -26,6 +26,6 @@ Keep away from the flame.
 
 Store nystatin solution in the fridge (at 4<sup>o</sup>C). 
 
-NOTE: Nystatin solution has a short half, so keep for only a week!
+**NOTE:** Nystatin solution has a short half, so keep for only a week!
 
-NOTE: Nystatin stock has a shelf life of 24 months when stored frozen.  
+**NOTE:** Nystatin stock has a shelf life of 24 months when stored frozen.  
