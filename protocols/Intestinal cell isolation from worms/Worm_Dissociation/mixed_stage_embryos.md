@@ -40,4 +40,10 @@ Author: Robert Williams, adapted by Jessica Hill
   - 1 mL 1M CaCl2 (Sigma-Aldrich C3306)
   - 1 mL 5 mg/mL cholesterol (Fisher 501848291)
   - 1 mL 1M MgSO4 (Sigma-Aldrich 208094)
-  - 25 mL 1M KPO4 Buffer pH 6.0 (108.3 g KH2PO4, 35.6 g K2HPO4, H2O to 1 L) (Sigma-Aldrich
+  - 25 mL 1M KPO4 Buffer pH 6.0 (108.3 g KH2PO4, 35.6 g K2HPO4, H2O to 1 L) (Sigma-Aldrich P0662, P3786)
+- Peptone enriched NGM: in recipe above use 20g peptone instead of 2.5g peptone
+- Bleaching solution:
+  - Sodium Hypochlorite Solution, 6% available chlorine (Ricca Chemical, 7495.7-32)
+  - 5N NaOH (Fisher S318-100)
+- ... 
+
