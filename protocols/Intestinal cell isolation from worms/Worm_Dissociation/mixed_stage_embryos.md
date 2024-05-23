@@ -46,7 +46,12 @@ Author: Robert Williams, adapted by Jessica Hill
   - Sodium Hypochlorite Solution, 6% available chlorine (Ricca Chemical, 7495.7-32)
   - 5N NaOH (Fisher S318-100)
 
+### <ins> PROTOCOL <ins>
 #### CONSUMABLES: 
 - 150 mm petri dishes "large plates" (Corning 351058)
 - 15 mL centrifuge tubes (Peak PS-695)
 
+#### EQUIPMENT:
+- Swinging bucket rotor refrigerated centrifuge (Eppendorf 5810R)
+- Pipet-Aid (VWR 89166-464)
+- 20°C incubator (Caron 7001-28-1)
