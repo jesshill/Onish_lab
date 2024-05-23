@@ -27,40 +27,40 @@ The worms harvested from growth in liquid culture are usually longer and thinner
 
 ### **Reagents**
 
-> S Basal 
->> - 5.85 g NaCl
->> - 1 g K<sub>2</sub> HPO<sub>4</sub>
->> - 6 g KH<sub>2</sub>PO<sub>4</sub>
->> - 1 ml cholesterol (5 mg/ml in ethanol)
->> - H<sub>2</sub>O to 1 litre
->> - Sterilize by autoclaving.
+<ins>S Basal
+- 5.85 g NaCl
+- 1 g K<sub>2</sub> HPO<sub>4</sub>
+- 6 g KH<sub>2</sub>PO<sub>4</sub>
+- 1 ml cholesterol (5 mg/ml in ethanol)
+- H<sub>2</sub>O to 1 litre
+- Sterilize by autoclaving.
 
-> 1 M Potassium citrate pH 6.0 
->> - 20 g citric acid monohydrate
->> - 293.5 g tri-potassium citrate monohydrate
->> - H<sub>2</sub>O to 1 litre
->> - Sterilize by autoclaving
+<ins>1 M Potassium citrate pH 6.0
+- 20 g citric acid monohydrate
+- 293.5 g tri-potassium citrate monohydrate
+- H<sub>2</sub>O to 1 litre
+- Sterilize by autoclaving
 
-> Trace metals solution
->> - 1.86 g disodium EDTA
->> - 0.69 g FeSO<sub>4</sub> •7 H<sub>2</sub>O
->> - 0.2 g MnCl2•4 H<sub>2</sub>O
->> - 0.29 g ZnSO<sub>4</sub> •7 H<sub>2</sub>O
->> - 0.025 g CuSO<sub>4</sub> •5 H<sub>2</sub>O
->> - H<sub>2</sub>O to 1 litre
->> - Sterilize by autoclaving. Store in the dark.
+<ins>Trace metals solution
+- 1.86 g disodium EDTA
+- 0.69 g FeSO<sub>4</sub> •7 H<sub>2</sub>O
+- 0.2 g MnCl2•4 H<sub>2</sub>O
+- 0.29 g ZnSO<sub>4</sub> •7 H<sub>2</sub>O
+- 0.025 g CuSO<sub>4</sub> •5 H<sub>2</sub>O
+- H<sub>2</sub>O to 1 litre
+- Sterilize by autoclaving. Store in the dark.
 
-> 1 M CaCl<sub>2</sub> 
+<ins>1 M CaCl<sub>2</sub>
 >> - 55.5 g CaCl<sub>2</sub> in 1 litre H<sub>2</sub>O
 >> - Sterilize by autoclaving.
 
-> S Medium
->> - 1 litre S Basal
->> - 10 ml 1 M potassium citrate pH 6
->> - 10 ml trace metals solution
->> - 3 ml 1 M CaCl<sub>2</sub>
->> - 3 ml 1 M MgSO<sub>4</sub>
->> - Add components using sterile technique; do not autoclave.
+<ins>S Medium
+- 1 litre S Basal
+- 10 ml 1 M potassium citrate pH 6
+- 10 ml trace metals solution
+- 3 ml 1 M CaCl<sub>2</sub>
+- 3 ml 1 M MgSO<sub>4</sub>
+- Add components using sterile technique; do not autoclave.
 
 4 large plates of *C. elegans*, just cleared of bacteria
 
