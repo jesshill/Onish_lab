@@ -59,15 +59,18 @@ Author: Robert Williams, adapted by Jessica Hill
 - Prepare OP50 seeded NGM plates
 - Grow mixed stage culture of the sorting strain:
   - Chunk a small plate of JM149 worms onto 5 large plates, with the worm covered surface facing down.
-  - Then grow worms at 20C for 72-96 hours, until the E. coli lawn is exhausted.  
+  - Then grow worms at 20°C for 72-96 hours, until the E. coli lawn is exhausted.  
 - Expand mixed stage cultures for cell sorting:
-  - Harvest the mixed stage worm population from the 5 plates by washing each plate with ~10 mL of M9
-  - Transfer the worm suspension to a 15 mL conical centrifuge tube
+  - Harvest the mixed stage worm population from the 5 plates by washing each plate with 10 mL of M9
+  - Transfer the worm suspensions to a 15 mL conical centrifuge tube
   - Pellet the worms by centrifuging for 1 min at 2,000 rcf and aspirate off supernatant 
   - Wash with additional M9 by resuspending the worms in fresh M9 to a total volume of 10 mL
   - Repeat the M9 wash until the supernatant is clear
-  - Aspirate supernatant down to about 1 mL, then pipette mix and equally spot 
-- ...
-
+  - Aspirate supernatant down to about 1 mL, then pipette mix and equally spot worm suspension onto 10 large plates (or more as needed). DONT OVERSEED THE PLATES! 
+  - Incubate for 72 hours in a 20°C incubator, until there is a large number of gravid adults
+- First embryo synchronization with bleaching solution:
+  - ...
+  - ...
+- ... 
 
 
