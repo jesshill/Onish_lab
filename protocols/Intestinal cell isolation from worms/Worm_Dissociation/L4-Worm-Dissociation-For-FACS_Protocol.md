@@ -1,14 +1,14 @@
-## ﻿L4 worm dissociation for intestinal cell isolation and FACS purification 20220517
+# ﻿L4 worm dissociation for intestinal cell isolation and FACS purification
 
-**Date:** 04-21-2022
+**Date:** 05-17-2022
 
 **Author:** Jessica Hill
 
 --- 
 
-### NEEDED REAGENTS: 
+### REAGENTS: 
 
-**50 mL of Egg Buffer or Egg Salts** 
+<ins>50 mL of Egg Buffer or Egg Salts<ins>
 - Doesn’t need to be made fresh. Store at RT.
 - 1.18 mL of 5 M NaCl = 118 mM NaCl
 - 2.4 mL of 1 M KCl = 48 mM KCl
@@ -17,14 +17,14 @@
 - 1.25 mL of 1 M HEPES (pH 7.4) = 25 mM HEPES
 - 44.97 mL of sterile ddH<sub>2</sub>0
 
-**2 mL of 1 M DTT solution** 
+<ins>2 mL of 1 M DTT solution<ins>
 - Made fresh on day of protocol. Store at RT.
 
 *DTT (154.25 g/mol; DTT10; Goldbio)
 - 0.3085 g of DTT	
 - 2 mL of ddiH<sub>2</sub>0
 
-**5 mL of SDS-DTT Solution** 
+<ins>5 mL of SDS-DTT Solution<ins>
 - Made fresh on day of protocol. Store at RT.
 - 100 uL of 1 M HEPES (pH 8.0) = 20 mM HEPES
 - 125 uL of 10% SDS = 0.25% SDS
@@ -32,14 +32,14 @@
 - 250 uL of 60% Sucrose = 3% Sucrose
 - 3.525 mL of ddiH<sub>2</sub>0	
 
-**2 mL of 15 mg/mL Pronase E Solution** 
+<ins>2 mL of 15 mg/mL Pronase E Solution<ins>
 - Made fresh on day of protocol. store at RT.
 
 *Protease from *Streptomyces griseus* (aka. Pronase E) - (P8811; Sigma Aldrich)
 - 30 mg of Pronase E
 - 2 mL of Egg Buffer
 
-**555 mL of L15-10**
+<ins>L15-10 buffer<ins>
 - Doesn’t need to be made fresh. Store at 4C.
 - 500 mL of L-15 (21083027; Thermo Fisher)
 - 50 mL of Fetal Bovine Serum (heat inactivated at 56C for 30 min)
