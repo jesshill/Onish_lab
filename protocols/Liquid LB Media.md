@@ -14,15 +14,15 @@
 
 ---
 
-To a 1 L bottle add:
+<ins>To a 1 L bottle add:
 - 25 g of LB powder  
 - Bring up to 1 L with ddH<sub>2</sub>O
 
-To a 500 mL bottle add:
+<ins>To a 500 mL bottle add:
 - 12.5 g of LB powder  
 - Bring up to 500 mL with ddH<sub>2</sub>O
 
-To a 250 mL bottle add:
+<ins>To a 250 mL bottle add:
 - 6.25 g of LB powder  
 - Bring up to 250 mL with ddH<sub>2</sub>O
 
