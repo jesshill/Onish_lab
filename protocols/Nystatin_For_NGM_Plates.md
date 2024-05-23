@@ -1,4 +1,4 @@
-﻿## **10 mg/mL Nystatin for NGM Plates**
+﻿# **10 mg/mL Nystatin for NGM Plates**
 
 **Date:** 09-26-2022
 
@@ -8,24 +8,23 @@
 
 --- 
 
-To a 50 mL centrifuge tube add:
+<ins>To a 50 mL centrifuge tube add:
+- 500 mg of Nystatin
+- 50 mL of ethanol 95% or 100% (200 proof)
 
-`	`500 mg of Nystatin
+<ins>To a 10 mL centrifuge tube add:
+- 100 mg of Nystatin
+- 10 mL of ethanol 95% or 100% (200 proof)
 
-`	`50 mL of ethanol 95% or 100% (200 proof)
+Mix well.
 
-To a 10 mL centrifuge tube add:
+Make sure to use ethanol proof markers to label bottle.
 
-`	`100 mg of Nystatin
+Do not autoclave or sterile filter.
 
-`	`10 mL of ethanol 95% or 100% (200 proof)
+Keep away from the flame.
 
-
-- Mix well.
-- Make sure to use ethanol proof markers to label bottle.
-- Do not autoclave or sterile filter.
-- Keep away from the flame.
-- Store nystatin solution in the fridge (at 4<sup>o</sup>C). 
+Store nystatin solution in the fridge (at 4<sup>o</sup>C). 
 
 NOTE: Nystatin solution has a short half, so keep for only a week!
 
