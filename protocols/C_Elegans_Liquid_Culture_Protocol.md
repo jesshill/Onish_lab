@@ -51,8 +51,8 @@ The worms harvested from growth in liquid culture are usually longer and thinner
 - Sterilize by autoclaving. Store in the dark.
 
 <ins>1 M CaCl<sub>2</sub>
->> - 55.5 g CaCl<sub>2</sub> in 1 litre H<sub>2</sub>O
->> - Sterilize by autoclaving.
+- 55.5 g CaCl<sub>2</sub> in 1 litre H<sub>2</sub>O
+- Sterilize by autoclaving.
 
 <ins>S Medium
 - 1 litre S Basal
