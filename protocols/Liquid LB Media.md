@@ -8,22 +8,23 @@
 
 --- 
 
-**Name:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 	
+**Prepared by:** 	
 
-**Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Date:** 
 
+---
 
 To a 1 L bottle add:
 - 25 g of LB powder  
-- 1 L of ddH<sub>2</sub>O
+- Bring up to 1 L with ddH<sub>2</sub>O
 
 To a 500 mL bottle add:
 - 12.5 g of LB powder  
-- 500 mL of ddH<sub>2</sub>O
+- Bring up to 500 mL with ddH<sub>2</sub>O
 
 To a 250 mL bottle add:
 - 6.25 g of LB powder  
-- 250 mL of ddH<sub>2</sub>O
+- Bring up to 250 mL with ddH<sub>2</sub>O
 
 
 Cover the bottle with the lid loosely on. Add a strip of autoclave tape. Label the bottle with your name and date. 
