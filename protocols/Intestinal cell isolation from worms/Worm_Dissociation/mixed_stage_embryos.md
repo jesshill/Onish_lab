@@ -57,17 +57,30 @@ Author: Robert Williams, adapted by Jessica Hill
   - 1 M of MgCl2
   - 1 M of HEPES (pH 7.2) 
 - Enzymes
-  - ...
-- ...
+  - Chitinase from Streptomyces griseus (Sigma C6137-5UN)
+  - Pronase E, Protease from Streptomyces griseus (Sigma P8811-1G)
     
 #### CONSUMABLES: 
 - 150 mm petri dishes "large plates" (Corning 351058)
 - 15 mL centrifuge tubes (Peak PS-695)
+- standard 1.5 ml tubes
+- Stericup 0.2 micron lter (Fisher S2GPU05RE)
+- 21 guage 1 inch needle (Fisher 14-826C)
+- 1 ml syringe (Fisher 14-823-30)
+- 35-micron nylon mesh filter caps (Stellar Scientific FSC-FLTCP)
+- 5 ml sterile polypropylene round-bottom tube (STEMCELL Technologies 38057)
+- Bio-Rad TC20 automated cell counting slide (Bio-rad 1450011)
 
 #### EQUIPMENT:
 - Swinging bucket rotor refrigerated centrifuge (Eppendorf 5810R)
 - Pipet-Aid (VWR 89166-464)
 - 20°C incubator (Caron 7001-28-1)
+- Fixed angle rotor centrifuge (Eppendorf 5424)
+- Swinging bucket rotor refrigerated centrifuge (eppendorf 5810R)
+- 15 ml tube and 1.5 ml tube adapter (eppendorf 022638704, eppendorf 022638742)
+- Fluorescent microscope
+- Nutating mixer
+- Bio-Rad TC20 automated cell counter
 
 ### <ins> PROTOCOL <ins>
 - Prepare OP50 seeded NGM plates
@@ -125,7 +138,29 @@ Author: Robert Williams, adapted by Jessica Hill
   - Wash the bleached embryos a second time. Centrifuge the tube for 30 seconds at 2,000 rcf to pellet the embryo suspension. Decant the supernatant and resuspend the embryo pellet in 15 ml of M9.
   - Wash the bleached embryos a third time. Centrifuge the tube for 30 seconds at 2,000 rcf to pellet the embryo suspension. Decant the supernatant and resuspend the embryo pellet in 15 ml of M9.
   - The final embryo yield should be approximately 0.01 ml for the wildtype N2 stain and 0.2ml for the uorescent sorting strain.
-- ... For embryo stage FACS experiments, move on to the embryo dissociation protocol 
-- ..
+- Now move onto embryo dissociation for FACS enrichment. Before beginning, prepare reagents in advance:
+  - L15-10 Buffer:
+    - Mix 500 ml Leibovitz's L-15 Medium, 50 ml Fetal Bovine Serum (heat inactivated), 50 ul of 100x Penicillin-Streptomycin solution and 7.7 g sucrose. Filter with 0.2 micron pore lter. Store at 4ºC.
+  - Egg Buffer:
+    - Mix 29.5 ml of 2M NaCl, 12 ml of 2M KCl, 1 ml of 1M CaCl2, 1 ml of MgCl2, 12.5 ml of 1M HEPES-NaOH pH 7.2 and 435 ml molecular grade water. Filter with 0.2 micron pore lter. Store at 4ºC.
+  - Chitinase solution (1 U/ml):
+    - Dissolve 5 units of Chitinase from Streptomyces griseus (Sigma C6137-5UN) in 5 ml of Egg Buffer. Nutate the solution for approximately 10 minutes until dissolved. Prepare 1 ml aliquots in 1.5 ml tubes. Store aliquots at -20ºC.
+  - Pronase E solution (15 mg/ml):
+    - Weigh 150 mg of Protease from Streptomyces griseus (Sigma P8811-1G) into a 15 ml tube. Dissolve the enzyme in 10 ml of Egg Buffer. Nutate the solution for approximately 10 minutes until dissolved. Prepare 1 ml aliquots in 1.5 ml tubes. Store aliquots at -20ºC.
+  - On day of protocol:
+    - Cool swinging bucket centrifuge to 4ºC
+    - Thaw pronase and chitinase aliquots at room temperature
+    - Place L15-10 and egg buffer on ice
+  - Starting material:
+    - Worm suspension in 15 ml tube (material generated from
+    - Strains: N2, fluorescent sorting strain
+    - Perform this protocol on both strains in parallel
+    - Note: The volumes for enzymatic treatments in this protocol require an embryo pellet less than 200 uL. If embryo pellet exceeds 200 ul, utilize 2x the embryo pellet volume.
+- Chitinase treatment:
+  - Centrifuge embryo suspension at 2000 rcf for 1 minute in swinging bucket centrifuge, then aspirate supernatant. 
+  - Resuspend the embryo pellet in 1 ml of M9 and transfer to a 1.5 ml tube.
+  - Pellet the embryos at 2000 rcf for 1 minute in a centrifuge, then aspirate and discard the supernatant. 
+  - ...
+- ... 
 
 
