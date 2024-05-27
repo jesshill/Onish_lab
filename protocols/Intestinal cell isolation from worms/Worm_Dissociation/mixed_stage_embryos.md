@@ -70,6 +70,7 @@ Author: Robert Williams, adapted by Jessica Hill
 - 35-micron nylon mesh filter caps (Stellar Scientific FSC-FLTCP)
 - 5 ml sterile polypropylene round-bottom tube (STEMCELL Technologies 38057)
 - Bio-Rad TC20 automated cell counting slide (Bio-rad 1450011)
+- ReadyFlow Propidium Iodide (Invitrogen R37169)
 
 #### EQUIPMENT:
 - Swinging bucket rotor refrigerated centrifuge (Eppendorf 5810R)
@@ -81,6 +82,7 @@ Author: Robert Williams, adapted by Jessica Hill
 - Fluorescent microscope
 - Nutating mixer
 - Bio-Rad TC20 automated cell counter
+- BD FACSAria III Cell sorter
 
 ### <ins> PROTOCOL <ins>
 - Prepare OP50 seeded NGM plates
@@ -138,7 +140,7 @@ Author: Robert Williams, adapted by Jessica Hill
   - Wash the bleached embryos a second time. Centrifuge the tube for 30 seconds at 2,000 rcf to pellet the embryo suspension. Decant the supernatant and resuspend the embryo pellet in 15 ml of M9.
   - Wash the bleached embryos a third time. Centrifuge the tube for 30 seconds at 2,000 rcf to pellet the embryo suspension. Decant the supernatant and resuspend the embryo pellet in 15 ml of M9.
   - The final embryo yield should be approximately 0.01 ml for the wildtype N2 stain and 0.2ml for the uorescent sorting strain.
-- Now move onto embryo dissociation for FACS enrichment. Before beginning, prepare reagents in advance:
+- Now move on to embryo dissociation for FACS enrichment. Before beginning, prepare reagents in advance:
   - L15-10 Buffer:
     - Mix 500 ml Leibovitz's L-15 Medium, 50 ml Fetal Bovine Serum (heat inactivated), 50 ul of 100x Penicillin-Streptomycin solution and 7.7 g sucrose. Filter with 0.2 micron pore lter. Store at 4ºC.
   - Egg Buffer:
@@ -156,11 +158,50 @@ Author: Robert Williams, adapted by Jessica Hill
     - Strains: N2, fluorescent sorting strain
     - Perform this protocol on both strains in parallel
     - Note: The volumes for enzymatic treatments in this protocol require an embryo pellet less than 200 uL. If embryo pellet exceeds 200 ul, utilize 2x the embryo pellet volume.
-- Chitinase treatment:
+- Chitinase treatment
   - Centrifuge embryo suspension at 2000 rcf for 1 minute in swinging bucket centrifuge, then aspirate supernatant. 
   - Resuspend the embryo pellet in 1 ml of M9 and transfer to a 1.5 ml tube.
   - Pellet the embryos at 2000 rcf for 1 minute in a centrifuge, then aspirate and discard the supernatant. 
+  - Resuspend the embryo pellet in 0.5 ml egg buffer and 1 ml chitinase (1 U/ml)
+  - Incubate for 20 min rotating/nutating at room temperature
+  - Verify eggshell digestion by visualizing the chitinase treated embryos under a microscope. Early embryos should change shape, and pretzel stage embryos should release from their eggshell.
+  - Pellet the embryos at 200 rcf for 5 min in xed angle rotor centrifuge
+  - Aspirate and discard the supernatant
+- Pronase treatment and dissociation
+  - Resuspend the chitinase treated embryo pellet in 200 ul pronase (15 mg/ml) and 500 ul egg buffer
+  - Attach a 21 guage 1¼ inch needle to a sterile 1 ml syringe
+  - Disrupt the embryo vitelline membrane and release cells by passing the embryo suspension through the needle 100 times, generating a worm slurry
+  - Visually confirm embryo dissociation by viewing a 2 ul sample of worm slurry on a fluorescent microscope
+  - Quench the pronase treatment by adding 800 ul of L15-10 media to worm slurry
+  - Store the sample on ice until all strains are completed
+- Wash and harvest single cells
+  - Wash away excess pronase from the worm slurry
+    - Pellet the worm slurry at 500 rcf for 5 mins in swinging bucket centrifuge cooled to 4ºC. Aspirate and discard the supernatant.
+    - Resuspend the worm slurry in 1 ml of L15-10 media.
+    - Pellet the worm slurry at 500 rcf for 5 mins in swinging bucket centrifuge cooled to 4ºC. Aspirate and discard the supernatant.
+    - Resuspend the worm slurry in 1 ml of L15-10 media.
+  - Harvest the cells
+    - Pellet undissociated embryos at 100 rcf for 1 minute in swinging bucket centrifuge cooled to 4ºC
+      - NOTES:
+        - This step will separate the dissociated cells from intact embryos
+        - Cells will remain in the supernatant
+        - Ensure your cell type of interest is not lost during this step.
+        - Visually confirm fluorescent cells are present in the supernatant.
+        - Visually confirm uorescent cells are not present in the pellet.
+        - You may need to reduce the centrifuge speed and/or time if fluorescent cells are in the pellet of this step.
+    - Aspirate 1 ml of the cell-containing supernatant. Keep the pipette away from the pelleted worm debris.
+    - Dispense the cell suspension though a 35-micron nylon mesh filter into a 5 ml flow cytometry tube
+    - Pellet undissociated embryos at 100 rcf for 1 minute in swinging bucket centrifuge cooled to 4ºC
+  - Perform an additional round of cell harvest for the sorting strain only. Total cell suspension volumes:
+    - Control strain = 1ml
+    - Sorting strain = 2ml
+- Measure approximate cell concentration
+  - Load 10 ul of cell suspension to a Bio-Rad TC20 automated cell counting slide
+  - This protocol should yield between 2 to 4x10^6 cells
+  - Dilute the sample to 1x10^6 cells/mL if above this concentration with L15-10
+    - Cell suspensions exceeding this concentration may increase the probability of doublets and/or clogging the machine. 
+  - Microscopically confirm fluorescent cells are present in the cell suspension
+- Now move on to preparing for FACS. Before beginning:
   - ...
-- ... 
-
+- ...
 
