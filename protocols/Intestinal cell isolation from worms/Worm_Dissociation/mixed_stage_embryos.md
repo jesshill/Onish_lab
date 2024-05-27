@@ -45,6 +45,20 @@ Author: Robert Williams, adapted by Jessica Hill
 - Bleaching solution:
   - Sodium Hypochlorite Solution, 6% available chlorine (Ricca Chemical, 7495.7-32)
   - 5 N NaOH (Fisher S318-100)
+- L15-10 solution
+  - Leibovitz's L-15 Medium (Thermo 21083027)
+  - Fetal Bovine Serum (...)
+  - 100X Penicillin Streptomycin solution (Thermo 15140148) *OPTIONAL
+  - Sucrose powder (...)
+- Stock solutions for egg buffer
+  - 2 M of NaCl 
+  - 2 M of KCl
+  - 1 M of CaCl2
+  - 1 M of MgCl2
+  - 1 M of HEPES (pH 7.2) 
+- Enzymes
+  - ...
+- ...
     
 #### CONSUMABLES: 
 - 150 mm petri dishes "large plates" (Corning 351058)
