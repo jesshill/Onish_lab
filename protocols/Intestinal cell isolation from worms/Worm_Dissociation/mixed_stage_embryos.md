@@ -201,7 +201,34 @@ Author: Robert Williams, adapted by Jessica Hill
   - Dilute the sample to 1x10^6 cells/mL if above this concentration with L15-10
     - Cell suspensions exceeding this concentration may increase the probability of doublets and/or clogging the machine. 
   - Microscopically confirm fluorescent cells are present in the cell suspension
-- Now move on to preparing for FACS. Before beginning:
-  - ...
-- ...
-
+- Now prepare cells for FACS:
+  - Embryo stage cell prep
+    - Divide samples into ow tubes with the following volumes and labels
+      - Sample type; worm strain; dye; cell volume
+        - unstained control; N2; none; 0.5 mL
+        - GFP single color control; GFP strain; none; 0.5 mL
+        - PI single color control; N2; Propidium Iodide; 0.5 mL
+        - sorting sample; GFP strain; Propidium Iodide; 2-4 mL
+      - To the appropriate tubes, add two drops of ReadyFlow Propidium Iodide per 1x10^6 cells/mL
+      - Incubate for 15 mins on ice protected from light
+- Proceed to FACS machine and setup
+  - The following protocol steps were developed on a BD FACSAria III instrument. The settings and recommendations detailed here may be adjusted as necessary.
+  - Instrument setup:
+    - Set laser gain and area scaling factor on the FACS instrument to ensure that collected data falls within the plotting area.
+    - Set plots to log-log axis
+      - NOTE: C. elegans cells are smaller than material typically run on a FACS instrument. Compared to mammalian cell lines, C. elegans cells require a lower area scaling factor and lower laser voltages.
+  - Run the unstained control sample through the FACS instrument. Adjust laser voltages and area scaling factors to ensure that collected data (i.e. SSC and FSC) falls within the plotting area. Once values are set properly, record data from ~10,000 events
+  - Run single color control samples through the FACS instrument and record data from ~10,000 events. Set gates based on single color controls.
+  - Run the sorting sample through the FACS instrument and record data from ~10,000 events
+  - Verify that gates are set appropriately for the sorting sample and adjust gates as needed
+- Sort cells
+  - Once gates and gating strategy are established, prepare two flow tubes to collect the sorted cells by aliquoting 0.2ml of L15-10 into them. Place the collection tubes into the tube holder inside the FACS instrument.
+  - Prepare the FACS instrument for a simultaneous two-way collection of cells from the "nonintestine cells" gate and "intestine cells" gate
+  - Collect 1x10^6 cells from the non-intestine cells gate. This should yield a total volume of 3.5 - 4 ml of cell suspension. Store sorted cells on ice.
+  - Collect cells from the "intestine cells" gate continuously until there is no more sorting sample remaining. This should yield between 50,000 to 300,000 cells in a total volume of 0.2-0.5 ml. Store sorted cells on ice.
+- Post-sort purity analysis
+  - Once sorting is complete, perform a post-sort purity analysis. This will determine if the FACS run was successful.
+  - The microfluidic line must be cleaned after sorting and before measuring post-sort purity for each sample. Clean the line by running a sample of fresh 10% bleach for ~5 mins. Follow this by running a sample of filtered H20 ~2 mins. The FACS instrument should record fewer than 1 event/sec if it is clean.
+  - Run the intestine cell sample back through the instrument. The intestine cell post-sort purity should be 80-90%.
+  - Clean the microfluidic line following the procedure. Run the non-intestine cell sample back through the instrument. The non-intestine cell post-sort purity should be 100%.
+- Now move to next downstream assay (i.e., RNA-seq, scRNA-seq)
