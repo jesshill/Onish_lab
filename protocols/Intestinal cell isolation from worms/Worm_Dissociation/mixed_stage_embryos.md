@@ -139,7 +139,7 @@ Author: Robert Williams, adapted by Jessica Hill
   - Aspirate the supernatant and resuspend the embryo pellet in 15 ml of M9 to quench the hypochlorite treatment
   - Wash the bleached embryos a second time. Centrifuge the tube for 30 seconds at 2,000 rcf to pellet the embryo suspension. Decant the supernatant and resuspend the embryo pellet in 15 ml of M9.
   - Wash the bleached embryos a third time. Centrifuge the tube for 30 seconds at 2,000 rcf to pellet the embryo suspension. Decant the supernatant and resuspend the embryo pellet in 15 ml of M9.
-  - The final embryo yield should be approximately 0.01 ml for the wildtype N2 stain and 0.2ml for the uorescent sorting strain.
+  - The final embryo yield should be approximately 0.01 ml for the wildtype N2 stain and 0.2ml for the fluorescent sorting strain.
 - Now move on to embryo dissociation for FACS enrichment. Before beginning, prepare reagents in advance:
   - L15-10 Buffer:
     - Mix 500 ml Leibovitz's L-15 Medium, 50 ml Fetal Bovine Serum (heat inactivated), 50 ul of 100x Penicillin-Streptomycin solution and 7.7 g sucrose. Filter with 0.2 micron pore lter. Store at 4ºC.
@@ -187,7 +187,7 @@ Author: Robert Williams, adapted by Jessica Hill
         - Cells will remain in the supernatant
         - Ensure your cell type of interest is not lost during this step.
         - Visually confirm fluorescent cells are present in the supernatant.
-        - Visually confirm uorescent cells are not present in the pellet.
+        - Visually confirm fluorescent cells are not present in the pellet.
         - You may need to reduce the centrifuge speed and/or time if fluorescent cells are in the pellet of this step.
     - Aspirate 1 ml of the cell-containing supernatant. Keep the pipette away from the pelleted worm debris.
     - Dispense the cell suspension though a 35-micron nylon mesh filter into a 5 ml flow cytometry tube
