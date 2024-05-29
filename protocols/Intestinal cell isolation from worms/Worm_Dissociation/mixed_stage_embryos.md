@@ -71,6 +71,7 @@ Author: Robert Williams, adapted by Jessica Hill
 - 5 ml sterile polypropylene round-bottom tube (STEMCELL Technologies 38057)
 - Bio-Rad TC20 automated cell counting slide (Bio-rad 1450011)
 - ReadyFlow Propidium Iodide (Invitrogen R37169)
+- 96 well microplate, v-bottom, sterile (greiner bio-one; 651182) 
 
 #### EQUIPMENT:
 - Swinging bucket rotor refrigerated centrifuge (Eppendorf 5810R)
@@ -165,7 +166,7 @@ Author: Robert Williams, adapted by Jessica Hill
   - Resuspend the embryo pellet in 0.5 ml egg buffer and 1 ml chitinase (1 U/ml)
   - Incubate for 20 min rotating/nutating at room temperature
   - Verify eggshell digestion by visualizing the chitinase treated embryos under a microscope. Early embryos should change shape, and pretzel stage embryos should release from their eggshell.
-  - Pellet the embryos at 200 rcf for 5 min in xed angle rotor centrifuge
+  - Pellet the embryos at 200 rcf for 5 min in fixed angle rotor centrifuge
   - Aspirate and discard the supernatant
 - Pronase treatment and dissociation
   - Resuspend the chitinase treated embryo pellet in 200 ul pronase (15 mg/ml) and 500 ul egg buffer
@@ -191,7 +192,6 @@ Author: Robert Williams, adapted by Jessica Hill
         - You may need to reduce the centrifuge speed and/or time if fluorescent cells are in the pellet of this step.
     - Aspirate 1 ml of the cell-containing supernatant. Keep the pipette away from the pelleted worm debris.
     - Dispense the cell suspension though a 35-micron nylon mesh filter into a 5 ml flow cytometry tube
-    - Pellet undissociated embryos at 100 rcf for 1 minute in swinging bucket centrifuge cooled to 4ºC
   - Perform an additional round of cell harvest for the sorting strain only. Total cell suspension volumes:
     - Control strain = 1ml
     - Sorting strain = 2ml
@@ -203,7 +203,7 @@ Author: Robert Williams, adapted by Jessica Hill
   - Microscopically confirm fluorescent cells are present in the cell suspension
 - Now prepare cells for FACS:
   - Embryo stage cell prep
-    - Divide samples into ow tubes with the following volumes and labels
+    - Divide samples into flow tubes with the following volumes and labels
       - Sample type; worm strain; dye; cell volume
         - unstained control; N2; none; 0.5 mL
         - GFP single color control; GFP strain; none; 0.5 mL
@@ -222,7 +222,7 @@ Author: Robert Williams, adapted by Jessica Hill
   - Run the sorting sample through the FACS instrument and record data from ~10,000 events
   - Verify that gates are set appropriately for the sorting sample and adjust gates as needed
 - Sort cells
-  - Once gates and gating strategy are established, prepare two flow tubes to collect the sorted cells by aliquoting 0.2ml of L15-10 into them. Place the collection tubes into the tube holder inside the FACS instrument.
+  - Once gates and gating strategy are established, prepare two flow tubes/or v-bottom 96 well plate to collect the sorted cells by aliquoting either 0.2 ml/or ... of L15-10 into them. Place the collection tubes into the tube holder inside the FACS instrument.
   - Prepare the FACS instrument for a simultaneous two-way collection of cells from the "nonintestine cells" gate and "intestine cells" gate
   - Collect 1x10^6 cells from the non-intestine cells gate. This should yield a total volume of 3.5 - 4 ml of cell suspension. Store sorted cells on ice.
   - Collect cells from the "intestine cells" gate continuously until there is no more sorting sample remaining. This should yield between 50,000 to 300,000 cells in a total volume of 0.2-0.5 ml. Store sorted cells on ice.
