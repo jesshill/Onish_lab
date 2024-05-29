@@ -223,8 +223,8 @@ Author: Robert Williams, adapted by Jessica Hill
   - Run the sorting sample through the FACS instrument and record data from ~10,000 events
   - Verify that gates are set appropriately for the sorting sample and adjust gates as needed
 - Sort cells
-  - Once gates and gating strategy are established, prepare two flow tubes/or v-bottom 96 well plate to collect the sorted cells by aliquoting either 0.2 ml/or ... of L15-10 into them. Place the collection tubes into the tube holder inside the FACS instrument.
-  - Prepare the FACS instrument for a simultaneous two-way collection of cells from the "nonintestine cells" gate and "intestine cells" gate
+  - Once gates and gating strategy are established, prepare either 2 flow tubes (for bulk RNA-seq) or a v-bottom 96 well plate (for scRNA-seq) to collect the sorted cells. If performing bulk RNA-seq, aliquot 0.2 ml of L15-10 into the 2 flow tubes first! Place the tubes/or plate into the collection holder inside the FACS instrument.
+  - Prepare the FACS instrument for collection of cells from the "nonintestine cells" gate and "intestine cells" gate
   - Collect 1x10^6 cells from the non-intestine cells gate. This should yield a total volume of 3.5 - 4 ml of cell suspension. Store sorted cells on ice.
   - Collect cells from the "intestine cells" gate continuously until there is no more sorting sample remaining. This should yield between 50,000 to 300,000 cells in a total volume of 0.2-0.5 ml. Store sorted cells on ice.
 - Post-sort purity analysis
