@@ -96,10 +96,10 @@ Author: Robert Williams, adapted by Jessica Hill
   - Pellet the worms by centrifuging for 1 min at 2,000 rcf and aspirate off supernatant 
   - Wash with additional M9 by resuspending the worms in fresh M9 to a total volume of 10 mL
   - Repeat the M9 wash until the supernatant is clear
-  - Aspirate supernatant down to about 1 mL, then pipette mix and equally spot worm suspension onto 10 large plates (or more as needed). DONT OVERSEED THE PLATES! 
+  - Aspirate supernatant down to about 1 mL, then pipette mix and equally spot worm suspension onto 20 large plates (or more as needed). DONT OVERSEED THE PLATES! 
   - Incubate for 72 hours in a 20°C incubator, until there is a large number of gravid adults
 - First embryo synchronization with bleaching solution:
-  - Chunk one recently starved small N2 plate onto two large NGM OP50 plates. This is key step, and will serve as the negative GFP control for cell sorting.
+  - Chunk one recently starved small N2 plate onto 5 large NGM OP50 plates. This is key step, and will serve as the negative GFP control for cell sorting.
   - Harvest mixed stage sorting strain worms from all large plates by washing each plate individually with about 10 ml of M9
     - Transfer mixed stage worm suspension to a 15 ml conical centrifuge tube
     - Pellet the worms by centrifuging for 1 minute at 2,000 rcf
@@ -192,9 +192,10 @@ Author: Robert Williams, adapted by Jessica Hill
         - You may need to reduce the centrifuge speed and/or time if fluorescent cells are in the pellet of this step.
     - Aspirate 1 ml of the cell-containing supernatant. Keep the pipette away from the pelleted worm debris.
     - Dispense the cell suspension though a 35-micron nylon mesh filter into a 5 ml flow cytometry tube
-  - Perform an additional round of cell harvest for the sorting strain only. Total cell suspension volumes:
-    - Control strain = 1ml
-    - Sorting strain = 2ml
+  - Perform an additional round of cell harvest for the sorting strain only.
+    - Total cell suspension volumes:
+      - Control strain = 1ml
+      - Sorting strain = 2ml
 - Measure approximate cell concentration
   - Load 10 ul of cell suspension to a Bio-Rad TC20 automated cell counting slide
   - This protocol should yield between 2 to 4x10^6 cells
