@@ -214,8 +214,8 @@ Author: Robert Williams, adapted by Jessica Hill
         - GFP single color control; GFP strain; none; 0.5 mL
         - PI single color control; N2; Propidium Iodide; 0.5 mL
         - sorting sample; GFP strain; Propidium Iodide; 2-4 mL
-      - To the appropriate tubes, add 10 µL per million cells in 0.5 mL/test.
-        - Example: for our 4 mL total solution containing 1x10^6 cells/mL ...
+      - To the appropriate tubes, add 10 µL per million cells in 0.5 mL/test. This is equal to 20 uL per million cells in 1 mL. 
+        - Example: so for our 4 mL total solution containing 1x10^6 cells/mL, we need 80 uL of solution total. 
       - Incubate for 15 mins on ice protected from light
 - Proceed to FACS machine and setup
   - The following protocol steps were developed on a BD FACSAria III instrument. The settings and recommendations detailed here may be adjusted as necessary.
