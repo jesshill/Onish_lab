@@ -10,6 +10,8 @@ Author: Robert Williams, adapted by Jessica Hill
 
 **Name:** 
 
+**Notes:** 
+
 --- 
 
 ### <ins> MATERIALS <ins>
@@ -200,6 +202,8 @@ Author: Robert Williams, adapted by Jessica Hill
   - Load 10 ul of cell suspension to a Bio-Rad TC20 automated cell counting slide
   - This protocol should yield between 2 to 4x10^6 cells
   - Dilute the sample to 1x10^6 cells/mL if above this concentration with L15-10
+    - Use C1xV1=C2xV2 to dilute your sample to 1x10^6 cells/mL in 4 mL total. Solve for V1. 
+      - Example: (C1 cells/mL)(x mL)=(1x10^6 cells/mL)(4 mL). Solve for x = V1
     - Cell suspensions exceeding this concentration may increase the probability of doublets and/or clogging the machine. 
   - Microscopically confirm fluorescent cells are present in the cell suspension
 - Now prepare cells for FACS:
@@ -210,7 +214,8 @@ Author: Robert Williams, adapted by Jessica Hill
         - GFP single color control; GFP strain; none; 0.5 mL
         - PI single color control; N2; Propidium Iodide; 0.5 mL
         - sorting sample; GFP strain; Propidium Iodide; 2-4 mL
-      - To the appropriate tubes, add two drops of ReadyFlow Propidium Iodide per 1x10^6 cells/mL
+      - To the appropriate tubes, add 10 µL per million cells in 0.5 mL/test.
+        - Example: for our 4 mL total solution containing 1x10^6 cells/mL ...
       - Incubate for 15 mins on ice protected from light
 - Proceed to FACS machine and setup
   - The following protocol steps were developed on a BD FACSAria III instrument. The settings and recommendations detailed here may be adjusted as necessary.
