@@ -61,7 +61,7 @@ One approach to optimizing primer concentrations is to create a matrix of reacti
 - cDNA is generated using a random primer or oligo-dT priming method and diluted 1:10 for use, but any suitable, alternative template may be used.
 - All samples are run in duplicate according to the plate layout (**Figure P13-18**).
 
-(insert figure here)
+<img width="542" alt="Screen Shot 2024-06-12 at 1 44 34 PM" src="https://github.com/jesshill/Onish_lab/assets/41451575/1ab5ac12-6055-41a2-a93d-6b53a4b0f645">
 
 **Figure P13-18.** Schematic Representation of the Primer Optimization Plate Layout.
 
