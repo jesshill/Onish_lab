@@ -62,12 +62,12 @@ Adapted by: Jessica Hill on 12-26-2023
 
 **smiFISH Probe Preparation**
 - Primary Probes
-  - Oligos are delivered in 96-well plates diluted in IDTE buffer (10 mM Tris, 0.1 mM EDTA, pH 8.0) to 100 uM
+  - Oligos are delivered in 96-well plates diluted in IDTE buffer (pH 8.0) to 100 uM
   - Prepare equimolar mixture of primary probes and dilute in 10 mM Tris (pH 8.0) made with DEPC water until you reach a concentration of 0.833 uM per probe.  
     - Use the smiFISH dilution calculator to make the equimolar mix. 
 
 - FLAP Preparation
-  - FLAPS are delivered lyophilized. Resuspend FLAP probes in 10 mM Tris (pH 8.0) to a final concentration of 50 uM. 
+  - FLAPS are delivered lyophilized. Resuspend FLAP probes in TE buffer (10 mM Tris, 1 mM EDTA (pH 8.0)) to a final concentration of 50 uM. 
   - Make 3 uL aliquots and store at -20C in the dark.
 
 - Pre anneal smiFISH and FLAP probes
