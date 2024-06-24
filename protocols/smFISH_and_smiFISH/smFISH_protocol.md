@@ -101,7 +101,7 @@ Adapted by: Jessica Hill on 12-26-2023
 - Prepare 110 uL of hybridization solution for sample. 
 - Prepare a 1:20 dilution of the 25 uM smFISH probe in DEPC water. Final concentration of the probe will now be 1.25 uM. 
 
-*We purchase smFISH probes at 5 nmol and then dilute them to 25 uM when they arrive.
+*We purchase smFISH probes at 5 nmol and then dilute them to 25 uM in 10 mM Tris (pH 8.0) when they arrive.
 
 - Add 2 uL of diluted smFISH probe to hybridization solution. Vortex well, it is viscous.
   - If probing for more than 1 transcript, just add the additional 2 uL of probe to the hybridization solution. 
