@@ -13,7 +13,7 @@
 *IMPORTANT: Do not use this protocol for any plasmids that will be used for microinjection.*
 
 ### PROTOCOL
-1. Pellet 10 mL bacterial culture at max speed (1500xg) in the large centrifuge for 15 min at room temperature.
+1. Pellet 10 mL bacterial culture at max speed (3000xg) in the large centrifuge for 10 min at room temperature.
 2. Aspirate off supernatant in liquid biohazard container
 3. Resuspend pellet in 250 uL Buffer P1 (stored in 4° fridge) and transfer to an Eppendorf tube.
 4. Add 250 uL Buffer P2 and mix thoroughly by inverting the tube 4-6 times and wait until the solution becomes clear. **Do not wait more than 5 min before moving onto the next step.**
