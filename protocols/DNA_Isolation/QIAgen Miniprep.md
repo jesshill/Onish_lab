@@ -24,7 +24,7 @@
 9. Add 750 uL Buffer PE to the spin column.
 10. Centrifuge the spin column for 1 min at max speed and pour the flow through into the liquid biohazard waste container.
 11. Repeat step 10.
-12. Place the spin column in an Eppendorf tube and add 15 uL of 10 mM Tris pH 8.0 or DEPC H<sub>2</sub>0. Let incubate for 1 min. 
+12. Place the spin column in an Eppendorf tube and add 20 uL of either: 10 mM Tris pH 8.0, molecular grade water or DEPC H<sub>2</sub>0. Let incubate for 1 min. 
 13. Centrifuge the spin column in the Eppendorf tube for 1 min at max speed. **Be sure to use the centrifuge lid for this step. The Eppendorf lids with break off if it is not used.**
 14. Quantify the DNA concentration of the miniprep(s) using Nanodrop
 
