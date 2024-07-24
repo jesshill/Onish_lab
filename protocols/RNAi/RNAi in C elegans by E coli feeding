@@ -1,8 +1,12 @@
-## RNA interference in C. elegans by _E. coli_ feeding
+# RNA interference in C. elegans by _E. coli_ feeding
 
-**PROTOCOL:** This protocol allows the user to knock down the expression of a given gene target in _C. elegans_. _E. coli_ containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by _C. elegans_, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.
+---
 
-**STEPS:**
+### PROTOCOL: 
+
+This protocol allows the user to knock down the expression of a given gene target in _C. elegans_. _E. coli_ containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by _C. elegans_, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.
+
+###  STEPS:
 
 1. Obtain _E. coli_ strain.
 2. Day 1 & 2: Grow, induce, and seed _E. coli_
