@@ -10,7 +10,7 @@
 
 This protocol allows the user to knock down the expression of a given gene target in _C. elegans_. _E. coli_ containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by _C. elegans_, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.
 
-###  STEPS:
+### STEPS:
 
 1. Obtain _E. coli_ strain.
 2. Day 1 & 2: Grow, induce, and seed _E. coli_
@@ -18,13 +18,13 @@ This protocol allows the user to knock down the expression of a given gene targe
 4. Day 4: Capture laid eggs
 5. Day 5: Measure embryonic viability
 
-**KEY CONTROLS:**
+### KEY CONTROLS:
 
 - Positive control: _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
 - Negative control: Empty vector (L4440) is a common negative control that should result in near 0 % embryonic lethality.
 - Question specific controls: Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
 
-**PROTOCOL:**
+### PROTOCOL:
 
 1. Obtain _E. coli_ strains
 
@@ -33,7 +33,7 @@ This protocol allows the user to knock down the expression of a given gene targe
 - Sequence the resulting vectors to ensure the appropriate transcript will be targeted.
 - Stock plates of _E. coli_ can be stored at 4 C for 4 – 6 weeks after which time, a fresh batch from the -80 C is recommended for best dsRNA activity.
 
-1. Grow and Induce _E. coli_
+2. Grow and Induce _E. coli_
 
 DAY 1
 
@@ -55,7 +55,7 @@ DAY3
 
 \*Store plates up to 2 weeks at 4 C or use immediately in step 3.
 
-1. Move worms onto _E. coli_ seeded plates
+3. Move worms onto _E. coli_ seeded plates
 
 DAY3 or LATER
 
@@ -63,7 +63,7 @@ DAY3 or LATER
 - This step can be optimized in a variety of ways. N2 worms or RNAi sensitive worms can be used. The age of the worm can be optimized for each transcript. Just try to stay consistent with the age of each worm added within a given experiment.
 - Allow worms to grow on plates for 24 hours at 20 C.
 
-1. Capture laid eggs
+4. Capture laid eggs
 
 DAY4
 
@@ -71,7 +71,7 @@ DAY4
 - Let the worms lay on the capture plate for 2 hrs – 24 hours depending on their egg-laying rate. Try to capture at least 50 eggs.
 - Move worms to a new plate (of the same dsRNA type) and return to 20 C. Count the eggs on the capture plate.
 
-1. Measure embryonic viability.
+5. Measure embryonic viability.
 
 DAY5
 
@@ -86,46 +86,42 @@ DAY5
 
 - In addition, a 48 hour time point is often useful. Start another capture plate for 48 hours after first _E. coli_ exposure and repeat the embryonic viability calculation.
 
-**MEDIA:**
+### MEDIA:
 
-**NGM Plates (500 ml)**
+<ins> NGM Plates (500 mL) <ins>
 
 - Mix the following reagents:
-
-**1.5 g NaCl**
-
-**1.25 g Bacto Peptone**
-
-**8.5 g Bacto Agar**
-
-**Add water to 487.5 ml**
-
+  - 1.5 g NaCl
+  - 1.25 g Bacto Peptone
+  - 8.5 g Bacto Agar
+  - Add water to 487.5 mL
+    
 - Add a stir bar
+  
 - Autoclave media for at least 30 minutes to sterilize
-- Cool media to 50 – 65 C.
+  
+- Cool media to 50 – 65C.
+  
 - Using sterile technique, add:
-
-**0.5 ml 5 mg/ml Cholesterol**
-
-**0.5 ml 1 M CaCl2**
-
-**0.5 ml 1M MgSO4**
-
-**12.5 ml 1 M Potassium Phosphate Solution (pH 6)**
-
+  - 0.5 ml 5 mg/ml Cholesterol
+  - 0.5 ml 1 M CaCl2
+  - 0.5 ml 1M MgSO4
+  - 12.5 ml 1 M Potassium Phosphate Solution (pH 6)
+    
 - To make NGM+CARB plates, add Carbenicillin to a final concentration of 100 mg / L:
-
-**0.5 ml 100 mg/ml Carbenicillin in 500 ml total volume**
+  - 0.5 ml 100 mg/ml Carbenicillin in 500 ml total volume
 
 - To make 1 mM NGM+IPTG+CARB plates, add:
-
-**0.5 ml 1M IPTG (alternatively, IPTG can be top-spread onto each plate prior to use)**
+  - 0.5 ml 1M IPTG (alternatively, IPTG can be top-spread onto each plate prior to use)
 
 - Once all ingredients have been added, stir media thoroughly and then pour into 6 cm plates.
+
 - Try to pour the same amount of media into each plate.
+
 - At the end of pouring, count all the plates and note the average volume per plate.
 
-**Carbenicillin Stock Solution (100 mg /ml)**
+
+<ins> Carbenicillin Stock Solution (100 mg /ml) <ins>
 
 **1 g Carbenicillin**
 
