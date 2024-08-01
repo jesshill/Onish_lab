@@ -89,32 +89,28 @@ This protocol allows the user to knock down the expression of a given gene targe
 - In addition, a 48 hour time point is often useful. Start another capture plate for 48 hours after first _E. coli_ exposure and repeat the embryonic viability calculation.
 
 ### MEDIA:
-
-<ins> NGM Plates (500 mL) <ins>
+ 
+<ins> NGM Plates (1000 mL) <ins>
 
 - Mix the following reagents:
-  - 1.5 g NaCl
-  - 1.25 g Bacto Peptone
-  - 8.5 g Bacto Agar
-  - Add water to 487.5 mL
-    
+  - 3 g NaCl
+  - 2.5 g Bacto Peptone
+  - 17 g Bacto Agar
+  - Add water to 975 mL   
 - Add a stir bar
-  
-- Autoclave media for at least 30 minutes to sterilize
-  
+- Autoclave media for at least 40 minutes to sterilize
 - Cool media to 50 – 65C.
-  
 - Using sterile technique, add:
-  - 0.5 ml 5 mg/ml Cholesterol
-  - 0.5 ml 1 M CaCl2
-  - 0.5 ml 1M MgSO4
-  - 12.5 ml 1 M Potassium Phosphate Solution (pH 6)
+  - 0.5 mL 5 mg/mL Cholesterol
+  - 0.5 mL 1 M CaCl2
+  - 0.5 mL 1M MgSO4
+  - 12.5 mL 1 M Potassium Phosphate Solution (pH 6)
     
-- To make NGM+CARB plates, add Carbenicillin to a final concentration of 100 mg / L:
-  - 0.5 ml 100 mg/ml Carbenicillin in 500 ml total volume
+- To make NGM+CARB plates, add Carbenicillin to a final concentration of 100 ug/mL:
+  - 1 mL 100 mg/mL Carbenicillin in 1000 mL total volume
 
 - To make 1 mM NGM+IPTG+CARB plates, add:
-  - 0.5 ml 1M IPTG (alternatively, IPTG can be top-spread onto each plate prior to use)
+  - 1 mL 1 M IPTG (alternatively, IPTG can be top-spread onto each plate prior to use)
 
 - Once all ingredients have been added, stir media thoroughly and then pour into 6 cm plates.
 
@@ -123,40 +119,32 @@ This protocol allows the user to knock down the expression of a given gene targe
 - At the end of pouring, count all the plates and note the average volume per plate.
 
 
-<ins> Carbenicillin Stock Solution (100 mg /ml) <ins>
+<ins> Carbenicillin Stock Solution (100 mg/mL) <ins>
 
-**1 g Carbenicillin**
+- 1 g Carbenicillin
+- 10 mL H2O
 
-**10 ml H2O**
-
-- Mix thoroughly in a 15 ml conical vial.
+- Mix thoroughly in a 15 mL conical vial.
 - Filter sterile the solution through a 0.22 um filter.
-- Freeze in 1 ml aliquots.
+- Freeze in 1 mL aliquots.
 - Clearly label, date, and then store at -20C. Can be stored up to several decades.
-- Use at a final concentration of 100 mg/L -- 1/1000 dil.
+- Use at a final concentration of 100 ug/mL.
 
-**Tetracycline Stock Solution (5 mg/ml)**
 
-**50 mg Tetracycline**
+<ins> 1 M IPTG <ins>
 
-**10 ml 100 % Ethanol**
+- 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
+- 10 mL H2O
 
-- Mix thoroughly in a 15 ml conical.
-- Freeze in 1 ml aliquots.
-- Clearly label, date, and then store at -20C. Can be stored up to several decades.
-- Use at a final concentration of 12.5 mg/L -- 1/400 dil.
-
-**1 M IPTG**
-
-**2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)**
-
-**10 ml H2O**
-
-- Mix thoroughly in a 15 ml conical vial.
+- Mix thoroughly in a 15 mL conical vial.
 - Filter sterilize through a 0.22 um pore filter.
-- Freeze 1 ml aliqiuots.
-- Clearly label, date, and then store at 20 C. Can be stored up to several decades.
-- Use in concentrations ranging fro 0.1 mM – 2 mM final concentrations.
+- Freeze 1 mL aliqiuots.
+- Clearly label, date, and then store at 20C. Can be stored up to several decades.
+- Can use in a concentration range of 0.1–2 mM. Wormbook suggestes a final concentration of 1 mM. 
+
+
+
+
 
 UPDATES TO THE PROTOCOL:
 
