@@ -35,13 +35,13 @@ This protocol allows the user to knock down the expression of a given gene targe
 
 2. Grow and Induce _E. coli_
 
-DAY 1
+<ins> DAY 1 <ins>
 
 - Inoculate 5 ml LB (100 mg/L Carb) liquid cultures with each _E. coli_ strain including controls.
 - Grow overnight at 37 C, shaking.
 - If 6 cm NGM + Carb plates have not been prepared in advance, pour those plates now. Keep track of how many plates were poured with every 500 ml of culture to calculate roughly the volume of culture per plate.
 
-DAY2
+<ins> DAY 2 <ins>
 
 - No more than 18 hours after initial _E. coli_ inoculation dilute overnight cultures. Add 40 ul of each overnight culture into 6 ml fresh LB (100 mg / L Carb).
 - Grow shaking at 37 C for 3 hours.
@@ -51,13 +51,13 @@ DAY2
 - 3 hours after _E. coli_ induction, plate 500 ul of each culture on a 6 cm RNAi plate.
 - Let plates dry overnight at room temp.
 
-DAY3
+<ins> DAY 3 <ins>
 
 \*Store plates up to 2 weeks at 4 C or use immediately in step 3.
 
 3. Move worms onto _E. coli_ seeded plates
 
-DAY3 or LATER
+<ins> DAY 3 or LATER <ins>
 
 - Move 1 – 2 worms onto an _E. coli_ seeded plate. L4 worms can be used or very young adult worms.
 - This step can be optimized in a variety of ways. N2 worms or RNAi sensitive worms can be used. The age of the worm can be optimized for each transcript. Just try to stay consistent with the age of each worm added within a given experiment.
@@ -65,7 +65,7 @@ DAY3 or LATER
 
 4. Capture laid eggs
 
-DAY4
+<ins> DAY 4 <ins>
 
 - 24 hours after first _E. coli_ exposure, obtain freshly laid eggs by moving worms to a new _E. coli_\-seeded plate (of the same dsRNA expression). This is called the “24 hr. Capture Plate”.
 - Let the worms lay on the capture plate for 2 hrs – 24 hours depending on their egg-laying rate. Try to capture at least 50 eggs.
@@ -73,7 +73,7 @@ DAY4
 
 5. Measure embryonic viability.
 
-DAY5
+<ins> DAY 5 <ins>
 
 - 24 hours after the adult worms were moved off of the capture plate, count the # embryos and # hatched worms.
 - Compare the total numbers with the number embryos counted the day before.
@@ -82,7 +82,7 @@ DAY5
 - Tabulate numbers both 1) by hand in the lab notebook and 2) in excel spreadsheet form.
 - Calculate the % viability and % lethality for each strain.
 
-48 – hour time point
+<ins> 48 – hour time point <ins>
 
 - In addition, a 48 hour time point is often useful. Start another capture plate for 48 hours after first _E. coli_ exposure and repeat the embryonic viability calculation.
 
