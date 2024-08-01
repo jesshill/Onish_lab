@@ -110,6 +110,7 @@ This protocol allows the user to knock down the expression of a given gene targe
   - 1 mL 100 mg/mL Carbenicillin in 1000 mL total volume
 
 - To make 1 mM NGM+IPTG+CARB plates, add:
+  - 1 mL 100 mg/mL Carbenicillin in 1000 mL total volume
   - 1 mL 1 M IPTG (alternatively, IPTG can be top-spread onto each plate prior to use)
 
 - Once all ingredients have been added, stir media thoroughly and then pour into 6 cm plates.
@@ -121,9 +122,9 @@ This protocol allows the user to knock down the expression of a given gene targe
 
 <ins> Carbenicillin Stock Solution (100 mg/mL) <ins>
 
-- 1 g Carbenicillin
-- 10 mL H2O
-
+- Mix the following reagents:
+  - 1 g Carbenicillin
+  - 10 mL H2O
 - Mix thoroughly in a 15 mL conical vial.
 - Filter sterile the solution through a 0.22 um filter.
 - Freeze in 1 mL aliquots.
@@ -133,9 +134,9 @@ This protocol allows the user to knock down the expression of a given gene targe
 
 <ins> 1 M IPTG <ins>
 
-- 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
-- 10 mL H2O
-
+- Mix the following reagents:
+  - 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
+  - 10 mL H2O
 - Mix thoroughly in a 15 mL conical vial.
 - Filter sterilize through a 0.22 um pore filter.
 - Freeze 1 mL aliqiuots.
@@ -144,23 +145,21 @@ This protocol allows the user to knock down the expression of a given gene targe
 
 
 
-
+---
 
 UPDATES TO THE PROTOCOL:
 
 Hi Erin,
 
-&nbsp;
 
 The few changes to the original protocol were made from recommendations from the Ahringer lab’s currect protocol found here,
 
-&nbsp;
 
 [http://www2.gurdon.cam.ac.uk/~ahringerlab/data/RNAi_Feeding_Protocol.doc](https://outlook.unc.edu/owa/redir.aspx?C=d_6cuUgWKEK-7JpNsR0fq0U_C8crptEIw3EDB-p0BlzYdRdsUZYZNf06Bg7bAsDvSZFLEEWVTyM.&URL=http%3a%2f%2fwww2.gurdon.cam.ac.uk%2f%7eahringerlab%2fdata%2fRNAi_Feeding_Protocol.doc"%20\t%20"_blank)
 
 The main differences are some concentrations and choices of antibiotic. The major change is the top spreading of Carb/IPTG; also IPTG is not added to liquid culture.
 
-&nbsp;
+
 
 1.       Grow E.coli in 100 mg/L Carb LB liquid overnight.
 
@@ -178,6 +177,6 @@ The main differences are some concentrations and choices of antibiotic. The majo
 
 8.       Store at 4 degrees.
 
-&nbsp;
+
 
 Jay
