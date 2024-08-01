@@ -12,7 +12,7 @@ This protocol allows the user to knock down the expression of a given gene targe
 
 ### STEPS:
 
-1. Obtain _E. coli_ strain.
+1. Obtain _E. coli_ RNAi feeding strain.
 2. Day 1 & 2: Grow, induce, and seed _E. coli_
 3. Day 3: Move worms onto _E. coli_ seeded plates
 4. Day 4: Capture laid eggs
@@ -21,7 +21,7 @@ This protocol allows the user to knock down the expression of a given gene targe
 ### KEY CONTROLS:
 
 - Positive control: _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
-- Negative control: Empty vector (L4440) is a common negative control that should result in near 0 % embryonic lethality.
+- Negative control: Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
 - Question specific controls: Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
 
 ### PROTOCOL:
