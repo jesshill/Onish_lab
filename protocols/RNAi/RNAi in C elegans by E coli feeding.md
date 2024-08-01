@@ -20,33 +20,35 @@ This protocol allows the user to knock down the expression of a given gene targe
 
 ### KEY CONTROLS:
 
-- Positive control: _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
-- Negative control: Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
-- Question specific controls: Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
+- Positive control:
+  - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
+- Negative control:
+  - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
+- Question specific controls:
+  - Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
 
 ### PROTOCOL:
 
-1. Obtain _E. coli_ strains
+1. Obtain _E. coli_ RNAi feeding strains
 
-- Streak out strains from the _E. coli_ feeding collection onto LB Carb (100 mg/ L) and/or Tet (12.5 mg/ L) plates. Grow at 37 C over night – 2 nights until colonies emerge.
+- Streak out strains from the _E. coli_ feeding collection onto LB Carb [100 ug/mL] plates. Grow at 37C over night.
 - Store resulting single colonies in a personal -80C stock for future reference.
 - Sequence the resulting vectors to ensure the appropriate transcript will be targeted.
-- Stock plates of _E. coli_ can be stored at 4 C for 4 – 6 weeks after which time, a fresh batch from the -80 C is recommended for best dsRNA activity.
+- Stock plates of _E. coli_ can be stored at 4C for 4–6 wk after which time, a fresh batch from the -80C is recommended for best dsRNA activity.
 
 2. Grow and Induce _E. coli_
 
 <ins> DAY 1 <ins>
 
-- Inoculate 5 ml LB (100 mg/L Carb) liquid cultures with each _E. coli_ strain including controls.
-- Grow overnight at 37 C, shaking.
-- If 6 cm NGM + Carb plates have not been prepared in advance, pour those plates now. Keep track of how many plates were poured with every 500 ml of culture to calculate roughly the volume of culture per plate.
+- Inoculate 5 mL of liquid LB Carb [100 ug/mL] with each _E. coli_ strain. Repeat for all strains needed, including controls.
+- Grow overnight at 37 C, shaking (200 RPM).
 
 <ins> DAY 2 <ins>
 
-- No more than 18 hours after initial _E. coli_ inoculation dilute overnight cultures. Add 40 ul of each overnight culture into 6 ml fresh LB (100 mg / L Carb).
-- Grow shaking at 37 C for 3 hours.
+- No more than 18 hr after initial _E. coli_ inoculation dilute overnight cultures. Add 40 uL of each overnight culture into 6 mL fresh LB Carb [100 ug/mL].
+- Grow shaking at 37C for 3 hours.                      
 - Induce dsRNA transcription by adding IPTG to 1 mM final concentration to each culture.
-- Organiz e 6 cm RNAi plates by labeling them.
+- Organize 6 cm RNAi plates by labeling them.
 - Add IPTG to 1 mM final concentration per plate (use calculation above).
 - 3 hours after _E. coli_ induction, plate 500 ul of each culture on a 6 cm RNAi plate.
 - Let plates dry overnight at room temp.
