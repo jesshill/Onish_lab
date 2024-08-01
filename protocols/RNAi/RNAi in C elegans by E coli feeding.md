@@ -152,14 +152,7 @@ UPDATES TO THE PROTOCOL:
 Hi Erin,
 
 
-The few changes to the original protocol were made from recommendations from the Ahringer lab’s currect protocol found here,
-
-
-[http://www2.gurdon.cam.ac.uk/~ahringerlab/data/RNAi_Feeding_Protocol.doc](https://outlook.unc.edu/owa/redir.aspx?C=d_6cuUgWKEK-7JpNsR0fq0U_C8crptEIw3EDB-p0BlzYdRdsUZYZNf06Bg7bAsDvSZFLEEWVTyM.&URL=http%3a%2f%2fwww2.gurdon.cam.ac.uk%2f%7eahringerlab%2fdata%2fRNAi_Feeding_Protocol.doc"%20\t%20"_blank)
-
-The main differences are some concentrations and choices of antibiotic. The major change is the top spreading of Carb/IPTG; also IPTG is not added to liquid culture.
-
-
+The few changes to the original protocol were made from recommendations from the Ahringer lab’s currect protocol. The main differences are some concentrations and choices of antibiotic. The major change is the top spreading of Carb/IPTG; also IPTG is not added to liquid culture.
 
 1.       Grow E.coli in 100 mg/L Carb LB liquid overnight.
 
