@@ -8,7 +8,13 @@
 
 ### PURPOSE: 
 
-This protocol allows the user to knock down the expression of a given gene target in _C. elegans_. _E. coli_ containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by _C. elegans_, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.
+RNA interference, or RNAi, is a widely used technique in which double stranded RNA is introduced to an organism, resulting in targeted gene silencing (knock down). We can induce RNAi in C. elegans by first preparing plates with E. coli that express target gene dsRNA, which the worms will eat. Then, 4th larval stage worms are transferred to the RNAi plates and allowed to lay eggs. At the desired stage of development the progeny are collected and scored for phenotypes.
+
+Through a currently unknown mechanism, dsRNA enters C. elegans tissue once ingested. Once inside the cell, the enzyme Dicer cleaves the double stranded RNA into short interfering RNA, or siRNA, which is between 21 and 23 nucleotides long. Next, the siRNA associates with the RNA induced silencing complex, also known as "RISC", and becomes unwound. Then, the siRNA/RISC complex binds the target mRNA via complementary base pairing. This leads to the degradation of the mRNA, thereby knocking down that gene.
+
+...
+
+Reference: JoVE Science Education Database. Biology I: yeast, Drosophila and C. elegans. RNAi in C. elegans. JoVE, Cambridge, MA, (2023).
 
 ### STEPS:
 
@@ -143,7 +149,11 @@ This protocol allows the user to knock down the expression of a given gene targe
 - Clearly label, date, and then store at 20C. Can be stored up to several decades.
 - Can use in a concentration range of 0.1–2 mM. Wormbook suggestes a final concentration of 1 mM. 
 
+### REFERENCES:
 
+JoVE Science Education Database. Biology I: yeast, Drosophila and C. elegans. RNAi in C. elegans. JoVE, Cambridge, MA, (2023).
+
+...
 
 ---
 
