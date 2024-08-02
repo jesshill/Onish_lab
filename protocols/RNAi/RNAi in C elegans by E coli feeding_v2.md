@@ -1,4 +1,4 @@
-# RNA interference in C. elegans by _E. coli_ feeding
+# RNA interference in C. elegans by _E. coli_ feeding (V2)
 
 **Prepared by:** 
 
@@ -10,21 +10,11 @@
 
 RNA interference, or RNAi, is a widely used technique in which double stranded RNA is introduced to an organism, resulting in targeted gene silencing (knock down). We can induce RNAi in C. elegans by first preparing plates with E. coli that express target gene dsRNA, which the worms will eat. Then, 4th larval stage worms are transferred to the RNAi plates and allowed to lay eggs. At the desired stage of development the progeny are collected and scored for phenotypes.
 
-Through a currently unknown mechanism, dsRNA enters C. elegans tissue once ingested. Once inside the cell, the enzyme Dicer cleaves the double stranded RNA into short interfering RNA, or siRNA, which is between 21 and 23 nucleotides long. Next, the siRNA associates with the RNA induced silencing complex, also known as "RISC", and becomes unwound. Then, the siRNA/RISC complex binds the target mRNA via complementary base pairing. This leads to the degradation of the mRNA, thereby knocking down that gene.
+dsRNA enters C. elegans tissue once ingested. Inside the cell, the enzyme Dicer cleaves the double stranded RNA into short interfering RNA, or siRNA, which is between 21 and 23 nucleotides long. Next, the siRNA associates with the RNA induced silencing complex, also known as "RISC", and becomes unwound. Then, the siRNA/RISC complex binds the target mRNA via complementary base pairing. This leads to the degradation of the mRNA, thereby knocking down that gene.
 
-...
+RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an isopropyl beta-D-1-thigalactopyranoside (IPTG)-inducible T7 polymerase site to promote the production of double-stranded RNA (dsRNA). 
 
-Reference: JoVE Science Education Database. Biology I: yeast, Drosophila and C. elegans. RNAi in C. elegans. JoVE, Cambridge, MA, (2023).
-
-### STEPS:
-
-1. Obtain _E. coli_ RNAi feeding strain.
-2. Day 1 & 2: Grow, induce, and seed _E. coli_
-3. Day 3: Move worms onto _E. coli_ seeded plates
-4. Day 4: Capture laid eggs
-5. Day 5: Measure embryonic viability
-
-### KEY CONTROLS:
+### CONTROLS:
 
 - Positive control:
   - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
@@ -32,6 +22,54 @@ Reference: JoVE Science Education Database. Biology I: yeast, Drosophila and C. 
   - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
 - Question specific controls:
   - Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
+
+### REAGENTS:
+
+<ins> Carbenicillin stock solution [100 mg/mL] <ins>
+- Combine the following reagents into a 15 mL conical tube:
+  - 1 g Carbenicillin
+  - 10 mL H2O
+- Filter sterilize the solution through a 0.22 um filter.
+- Make 1 mL aliquots.
+- Clearly label, date, and then store at -20C. 
+- Can use in a concentration range of 25 - 100 ug/mL.
+  - Suggested final concentration is 100 ug/mL.
+
+<ins> IPTG stock solution [1 M] <ins>
+- Combine the following reagents into a 15 mL conical tube:
+  - 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
+  - 10 mL H2O
+- Filter sterilize solution through a 0.22 um filter.
+- Make 1 mL aliquots.
+- Clearly label, date, and then store at -20C.
+- Can use in a concentration range of 0.1–2 mM.
+  - Suggested final concentration is 1 mM. 
+
+### PLATE PREPERATION: 
+
+<ins> NGM+Carb+IPTG Plates (1000 mL) <ins>
+
+- Mix the following reagents:
+  - 3 g NaCl
+  - 2.5 g Bacto Peptone
+  - 17 g Bacto Agar
+  - Add water to 975 mL
+- Add a stir bar   
+- Autoclave for 40 minutes to sterilize
+- Cool media to about 50 – 65C.
+- Using sterile technique, add:
+  - 0.5 mL 5 mg/mL Cholesterol
+  - 0.5 mL 1 M CaCl2
+  - 0.5 mL 1 M MgSO4
+  - 12.5 mL 1 M Potassium Phosphate Solution (pH 6)
+  - 1 mL 100 mg/mL Carbenicillin
+  - 1 mL 1 M IPTG
+- Once all ingredients have been added, stir media thoroughly and then pour plates.
+- Store plates at 4C for about a month. 
+
+### BACTERIAL PREPERATION: 
+
+...
 
 ### PROTOCOL:
 
@@ -94,60 +132,6 @@ Reference: JoVE Science Education Database. Biology I: yeast, Drosophila and C. 
 
 - In addition, a 48 hour time point is often useful. Start another capture plate for 48 hours after first _E. coli_ exposure and repeat the embryonic viability calculation.
 
-### MEDIA:
- 
-<ins> NGM Plates (1000 mL) <ins>
-
-- Mix the following reagents:
-  - 3 g NaCl
-  - 2.5 g Bacto Peptone
-  - 17 g Bacto Agar
-  - Add water to 975 mL   
-- Add a stir bar
-- Autoclave media for at least 40 minutes to sterilize
-- Cool media to 50 – 65C.
-- Using sterile technique, add:
-  - 0.5 mL 5 mg/mL Cholesterol
-  - 0.5 mL 1 M CaCl2
-  - 0.5 mL 1M MgSO4
-  - 12.5 mL 1 M Potassium Phosphate Solution (pH 6)
-    
-- To make NGM+CARB plates, add Carbenicillin to a final concentration of 100 ug/mL:
-  - 1 mL 100 mg/mL Carbenicillin in 1000 mL total volume
-
-- To make 1 mM NGM+IPTG+CARB plates, add:
-  - 1 mL 100 mg/mL Carbenicillin in 1000 mL total volume
-  - 1 mL 1 M IPTG (alternatively, IPTG can be top-spread onto each plate prior to use)
-
-- Once all ingredients have been added, stir media thoroughly and then pour into 6 cm plates.
-
-- Try to pour the same amount of media into each plate.
-
-- At the end of pouring, count all the plates and note the average volume per plate.
-
-
-<ins> Carbenicillin Stock Solution (100 mg/mL) <ins>
-
-- Mix the following reagents:
-  - 1 g Carbenicillin
-  - 10 mL H2O
-- Mix thoroughly in a 15 mL conical vial.
-- Filter sterile the solution through a 0.22 um filter.
-- Freeze in 1 mL aliquots.
-- Clearly label, date, and then store at -20C. Can be stored up to several decades.
-- Use at a final concentration of 100 ug/mL.
-
-
-<ins> 1 M IPTG <ins>
-
-- Mix the following reagents:
-  - 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
-  - 10 mL H2O
-- Mix thoroughly in a 15 mL conical vial.
-- Filter sterilize through a 0.22 um pore filter.
-- Freeze 1 mL aliqiuots.
-- Clearly label, date, and then store at 20C. Can be stored up to several decades.
-- Can use in a concentration range of 0.1–2 mM. Wormbook suggestes a final concentration of 1 mM. 
 
 ### REFERENCES:
 
