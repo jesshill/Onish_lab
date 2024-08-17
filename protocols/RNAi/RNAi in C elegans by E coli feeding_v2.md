@@ -16,7 +16,6 @@ RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an iso
 
 *This protocol allows the user to knock down the expression of a given gene target in C. elegans. E. coli containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by C. elegans, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.  The effects of the RNAi are then observed with smFISH.
 
-
 ### CONTROLS:
 - Positive control:
   - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
@@ -26,29 +25,34 @@ RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an iso
   - Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
 
 ### REAGENTS:
-<ins> Carbenicillin stock solution [100 mg/mL] <ins>
+<ins> Carbenicillin stock solution [50 mg/mL]
 - Combine the following reagents into a 15 mL conical tube:
-  - 1 g Carbenicillin
+  - 0.5 g Carbenicillin
   - 10 mL H2O
 - Filter sterilize the solution through a 0.22 um filter.
 - Make 1 mL aliquots.
 - Clearly label, date, and then store at -20C. 
-- Can use in a concentration range of 25 - 100 ug/mL.
-  - Suggested final concentration is 100 ug/mL.
+- Can use in a final concentration range of 25 - 100 ug/mL.
+  - Suggested final concentration is 50 ug/mL.
 
-<ins> IPTG stock solution [1 M] <ins>
+<ins> IPTG stock solution [1 M]
 - Combine the following reagents into a 15 mL conical tube:
   - 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
   - 10 mL H2O
 - Filter sterilize solution through a 0.22 um filter.
 - Make 1 mL aliquots.
-- Clearly label, date, and then store at -20C.
-- Can use in a concentration range of 0.1–2 mM.
+- Clearly label, date, and then store at -20 C.
+- Can use in a final concentration range of 0.1–2 mM.
   - Suggested final concentration is 1 mM. 
 
 ### PLATE PREPERATION: 
+minimum sterilization times for liquid cycle:
+- 20 min cycle for < 500 mL
+- 40 min cycle for 500 mL - 1 L
+- 60 min cycle for > 1 L
 
-<ins> NGM+Carb+IPTG Plates (1000 mL) <ins>
+
+<ins> NGM+Carb+IPTG Plates (1 L)
 
 - Mix the following reagents:
   - 3 g NaCl
@@ -57,13 +61,14 @@ RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an iso
   - Add water to 975 mL
 - Add a stir bar   
 - Autoclave for 40 minutes to sterilize
-- Cool media to about 50 – 65C.
+- Cool media to about 50 – 65 C (the flask glass should be touchable)
 - Using sterile technique, add:
-  - 0.5 mL 5 mg/mL Cholesterol
-  - 0.5 mL 1 M CaCl2
-  - 0.5 mL 1 M MgSO4
-  - 12.5 mL 1 M Potassium Phosphate Solution (pH 6)
-  - 1 mL 100 mg/mL Carbenicillin
+  - 1 mL 5 mg/mL Cholesterol
+  - 1 mL 1 M CaCl2
+  - 1 mL 1 M MgSO4
+  - 25 mL 1 M Potassium Phosphate Solution (pH 6)
+  - 1 mL 1 M Nystatin (anti-fungal solution)
+  - 1 mL 50 mg/mL Carbenicillin
   - 1 mL 1 M IPTG
 - Once all ingredients have been added, stir media thoroughly and then pour plates.
 - Store plates at 4C for about a month. 
