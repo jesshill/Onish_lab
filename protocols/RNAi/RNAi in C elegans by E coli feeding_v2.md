@@ -16,6 +16,15 @@ RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an iso
 
 *This protocol allows the user to knock down the expression of a given gene target in C. elegans. E. coli containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by C. elegans, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.  The effects of the RNAi are then observed with smFISH.
 
+
+### MAIN STEPS:
+<ins> Day 1
+- ...
+- ...
+
+<ins> Day 2
+
+
 ### CONTROLS:
 - Positive control:
   - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
