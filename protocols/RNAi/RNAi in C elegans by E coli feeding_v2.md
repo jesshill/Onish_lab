@@ -13,17 +13,7 @@ dsRNA enters C. elegans tissue once ingested. Inside the cell, the enzyme Dicer 
 
 RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an isopropyl beta-D-1-thigalactopyranoside (IPTG)-inducible T7 polymerase site to promote the production of double-stranded RNA (dsRNA). 
 
-
 *This protocol allows the user to knock down the expression of a given gene target in C. elegans. E. coli containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by C. elegans, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.  The effects of the RNAi are then observed with smFISH.
-
-
-### MAIN STEPS:
-<ins> Day 1
-- ...
-- ...
-
-<ins> Day 2
-
 
 ### CONTROLS:
 - Positive control:
@@ -87,6 +77,28 @@ minimum sterilization times for liquid cycle:
 ...
 
 ### PROTOCOL:
+
+<ins> Day 1
+- Worm growth and embryo harvest
+  - Grow __________ worms on OP50 plates at a relatively low density until they are gravid.
+    - Need 1 large plate for each RNAi strain, including controls, so a total of 3 large plates (RNAi of interest, POP-1 positive control, L4440 negative control). 
+  - Embryo prep worms
+    - If ..., then let hatch overnight in M9
+    - If ..., then seed directly onto RNAi plates. 
+- ...
+
+<ins> Day 2
+- Prepare plates for RNAi
+  - Inoculate 30 mL of liquid culture (50 ug/mL Carb) for each RNAi strain.
+    - Will pellet and aspirate each strain down to 3 mL. Then will seed 1 mL of each RNAi strain onto 3 large plates.
+  - For RNAi controls (POP-1 and L4440), inoculate 10 mL of liquid culture.
+    - Will pellet and aspirate each strain down to 1 mL. Then will seed 1 mL of each RNAi strain onto 1 large plate. 
+  - Grow bacteria overnight at 37C while shaking.
+  - ...
+- ... 
+
+
+
 
 1. Obtain _E. coli_ RNAi feeding strains
 
