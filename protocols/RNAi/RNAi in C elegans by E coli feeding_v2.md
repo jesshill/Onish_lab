@@ -94,10 +94,10 @@ minimum sterilization times for liquid cycle:
   - For RNAi controls (POP-1 and L4440), inoculate 10 mL of liquid culture.
     - Will pellet and aspirate each strain down to 1 mL. Then will seed 1 mL of each RNAi strain onto 1 large plate. 
   - Grow bacteria overnight at 37C while shaking.
-  - ...
+  - Next day, plate 1 mL of each culture onto large RNAi plates.
+  - Let plates dry overnight.
+  - Store at 4C. 
 - ... 
-
-
 
 
 1. Obtain _E. coli_ RNAi feeding strains
