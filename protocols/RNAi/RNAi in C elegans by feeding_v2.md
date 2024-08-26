@@ -64,46 +64,50 @@ minimum sterilization times for liquid cycle:
 
 ### BACTERIAL PREPERATION: 
 
-- Start overnight liquid cultures for all RNAi strains of interest.
-  - Question specific RNAi strain(s)
-    - query strain
-    - additional controls for query strain
-  - Postitive control
-    - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
-  - Negative control
-    - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
-- ...
-
-### PROTOCOL:
-
-<ins> Day 1
-- Worm growth and embryo harvest
-  - Grow __________ worms on OP50 plates at a relatively low density until they are gravid.
-    - Need 1 large plate for each RNAi strain, including controls, so a total of 3 large plates (RNAi of interest, POP-1 positive control, L4440 negative control). 
-  - Embryo prep worms
-    - If ..., then let hatch overnight in M9
-    - If ..., then seed directly onto RNAi plates. 
-- ...
-
-<ins> Day 2
-- Prepare plates for RNAi
-  - Inoculate 30 mL of liquid culture (50 ug/mL Carb) for each RNAi strain.
-    - Will pellet and aspirate each strain down to 3 mL. Then will seed 1 mL of each RNAi strain onto 3 large plates.
-  - For RNAi controls (POP-1 and L4440), inoculate 10 mL of liquid culture.
-    - Will pellet and aspirate each strain down to 1 mL. Then will seed 1 mL of each RNAi strain onto 1 large plate. 
-  - Grow bacteria overnight at 37C while shaking.
-  - Next day, plate 1 mL of each culture onto large RNAi plates.
-  - Let plates dry overnight.
-  - Store at 4C. 
-- ... 
-
-
-1. Obtain _E. coli_ RNAi feeding strains
+<ins> Obtain _E. coli_ RNAi feeding strains
 
 - Streak out strains from the _E. coli_ feeding collection onto LB Carb [100 ug/mL] plates. Grow at 37C over night.
 - Store resulting single colonies in a personal -80C stock for future reference.
 - Sequence the resulting vectors to ensure the appropriate transcript will be targeted.
 - Stock plates of _E. coli_ can be stored at 4C for 4–6 wk after which time, a fresh batch from the -80C is recommended for best dsRNA activity.
+
+
+
+- Start overnight liquid cultures for all RNAi strains of interest, by innoculating ___________mL of LB supplimented with 50 ug/mL Carb.
+  - Question specific RNAi strain(s)
+    - query strain(s) _____________________________________________________________________________
+    - additional control(s) for query strain(s) ___________________________________________________
+  - Postitive control
+    - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
+  - Negative control
+    - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
+- Grow at 37C while shaking (200 RPM).
+- Next day, pellet cultures (3000 RPM, 10 min, RT) and aspirate supernatanet to concentrate bacteria 10x.
+  - For example, 50 mL overnight culutre will be brought down to 5 mL.
+  - For example, 10 mL overnight culutre will be brought down to 1 mL. 
+- Seed concentrated RNAi strains onto RNAi plates.
+  - Need to seed only 1 mL of each strain onto an RNAi plate.
+    - Can make 5 query plates, and 1 control plate.
+- Can use plates immediatly or let dry and then store at 4C for 1 month. 
+
+### PROTOCOL:
+
+<ins> Worm growth and embryo harvest
+  - Grow __________ worms on OP50 plates until they are gravid.
+    - Need 1 large plate for each RNAi strain, including controls, so at least a total of 3 large plates (RNAi of interest, POP-1 positive control, L4440 negative control). 
+  - Embryo prep worms
+    - If the RNAi strain is larvel lethal, then let embryos hatch overnight in M9 and seed onto OP50 plates until they reach the L4 stage.
+      - Alternatively, could just grow in liquid OP50 (waste less plates).
+    - If the RNAi strain is not larvel letahl, then seed embryos directly onto RNAi plates. 
+
+
+
+
+
+
+
+
+
 
 2. Grow and Induce _E. coli_
 
