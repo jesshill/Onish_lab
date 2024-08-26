@@ -67,11 +67,11 @@ minimum sterilization times for liquid cycle:
 <ins> Obtain _E. coli_ RNAi feeding strains
 
 - Streak out strains from the _E. coli_ feeding collection onto LB Carb [100 ug/mL] plates. Grow at 37C over night.
-- Store resulting single colonies in a personal -80C stock for future reference.
+- Store resulting single colonies in a personal -80C glycerol stock for future reference.
 - Sequence the resulting vectors to ensure the appropriate transcript will be targeted.
-- Stock plates of _E. coli_ can be stored at 4C for 4–6 wk after which time, a fresh batch from the -80C is recommended for best dsRNA activity.
+- Stock streak plates of _E. coli_ can be stored at 4C for 4–6 wk after which time, a fresh batch from the -80C is recommended for best dsRNA activity.
 
-
+<ins> Grow up _E. coli_ RNAi feeding strains for seeding
 
 - Start overnight liquid cultures for all RNAi strains of interest, by innoculating ___________mL of LB supplimented with 50 ug/mL Carb.
   - Question specific RNAi strain(s)
