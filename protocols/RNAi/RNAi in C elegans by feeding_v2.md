@@ -64,18 +64,15 @@ minimum sterilization times for liquid cycle:
 
 ### BACTERIAL PREPERATION: 
 
-- start overnight cultures of RNAi strains:
-  - RNAi strain of interest
-    - ...
+- Start overnight liquid cultures for all RNAi strains of interest.
+  - Question specific RNAi strain(s)
+    - query strain
+    - additional controls for query strain
   - Postitive control
     - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
   - Negative control
     - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
- 
-
-
-- Question specific controls:
-  - Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
+- ...
 
 ### PROTOCOL:
 
