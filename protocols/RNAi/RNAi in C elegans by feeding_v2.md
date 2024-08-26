@@ -1,4 +1,4 @@
-# RNA interference in C. elegans by _E. coli_ feeding (V2)
+# RNA interference in _C. elegans_ by feeding
 
 **Prepared by:** 
 
@@ -7,21 +7,11 @@
 ---
 
 ### PURPOSE: 
-RNA interference, or RNAi, is a technique in which double stranded RNA is introduced to an organism, resulting in targeted gene silencing (knock down). We can induce RNAi in C. elegans by first preparing plates with E. coli that express target gene dsRNA, which the worms will eat. Then, 4th larval stage worms are transferred to the RNAi plates and allowed to lay eggs. At the desired stage of development the progeny are collected and scored for phenotypes.
+RNA interference, or RNAi, is a technique in which double stranded RNA is introduced to an organism, resulting in targeted gene silencing (knock down). We can induce RNAi in _C. elegans_ by first preparing plates with _E. coli_ that express target gene dsRNA, which the worms will eat. Then, 4th larval stage worms are transferred to the RNAi plates and allowed to lay eggs. At the desired stage of development the progeny are collected and scored for phenotypes.
 
-dsRNA enters C. elegans tissue once ingested. Inside the cell, the enzyme Dicer cleaves the double stranded RNA into short interfering RNA, or siRNA, which is between 21 and 23 nucleotides long. Next, the siRNA associates with the RNA induced silencing complex, also known as "RISC", and becomes unwound. Then, the siRNA/RISC complex binds the target mRNA via complementary base pairing. This leads to the degradation of the mRNA, thereby knocking down that gene.
+dsRNA enters _C. elegans_ tissue once ingested. Inside the cell, the enzyme Dicer cleaves the double stranded RNA into short interfering RNA, or siRNA, which is between 21 and 23 nucleotides long. Next, the siRNA associates with the RNA induced silencing complex, also known as "RISC", and becomes unwound. Then, the siRNA/RISC complex binds the target mRNA via complementary base pairing. This leads to the degradation of the mRNA, thereby knocking down that gene.
 
-RNAi feeding libraries use the E. coli strain HT115 (DE3), which contains an isopropyl beta-D-1-thigalactopyranoside (IPTG)-inducible T7 polymerase site to promote the production of double-stranded RNA (dsRNA). 
-
-*This protocol allows the user to knock down the expression of a given gene target in C. elegans. E. coli containing a specific expression vector can be induced to transcribe a genetic fragment from both the 5’ and 3’ ends. When the resulting double-stranded RNA molecule is ingested by C. elegans, an RNA interference reaction targets endogenous transcripts of the same sequence for destruction. In this protocol, the method of testing embryonic lethality (% hatching) is described but observations can also be made in the parent as well.  The effects of the RNAi are then observed with smFISH.
-
-### CONTROLS:
-- Positive control:
-  - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
-- Negative control:
-  - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
-- Question specific controls:
-  - Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
+RNAi feeding libraries use the _E. coli_ strain HT115 (DE3), which contains an isopropyl beta-D-1-thigalactopyranoside (IPTG)-inducible T7 polymerase site to promote the production of double-stranded RNA (dsRNA) (so a genetic fragment from both the 5' and 3' ends are produced).
 
 ### REAGENTS:
 <ins> Carbenicillin stock solution [50 mg/mL]
@@ -74,7 +64,18 @@ minimum sterilization times for liquid cycle:
 
 ### BACTERIAL PREPERATION: 
 
-...
+- start overnight cultures of RNAi strains:
+  - RNAi strain of interest
+    - ...
+  - Postitive control
+    - _pop-1_ RNAi is a standard positive control that should produce 100% embryonic lethality.
+  - Negative control
+    - Empty vector (L4440) is a common negative control that should result in a 0 % embryonic lethality.
+ 
+
+
+- Question specific controls:
+  - Other controls can be selected for the exact question of interest. For example, the researcher is interested in embryonic lethality due to intestine-specific failure, _elt-2_ RNAi (intestine regulatory gene) is a typical control.
 
 ### PROTOCOL:
 
