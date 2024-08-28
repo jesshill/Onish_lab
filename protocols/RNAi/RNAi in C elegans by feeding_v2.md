@@ -1,5 +1,11 @@
 # RNA interference in _C. elegans_ by feeding
 
+**Authors:** Erin Nishimura, Dylan Parker, Lindsay Winkenbach, Naly Torres
+
+**Modified by:** Jessica Hill
+
+---
+
 **Prepared by:** 
 
 **Date:** 
@@ -93,7 +99,7 @@ minimum sterilization times for liquid cycle:
     - Can make 5 query plates, and 1 control plate.
 - Can use plates immediatly or let dry and then store at 4C for 1 month.
 
-**ALTERNATIVE APPROACH:** 
+<ins> ALTERNATIVE APPROACH:
 - Grow up RNAi strain(s) in 10 mL of liquid culture (LB supplemented with 50 or 100 ug/mL Carb) overnight at 37C and shaking.
 - Next day (no more than 18 hrs after innoculation), dilute the overnight culture(s) by adding 40 mL of fresh LB supplemented with 50 or 100 ug/mL Carb and grow at 37C for 3 more hours.
 - Then, induce dsRNA transcription by adding IPTG to culture(s) to a final concentration of 1 mM. Put back in incubator for another 3 hours.
@@ -104,7 +110,6 @@ minimum sterilization times for liquid cycle:
 
 ### PROTOCOL:
 
-<ins> Worm growth and embryo harvest
   - Grow ____________ worms on OP50 plates until they are gravid.
     - Need 1 large plate for each RNAi strain, including controls, so at least a total of 3 large plates (RNAi of interest, POP-1 positive control, L4440 negative control). 
   - Embryo prep worms
@@ -120,4 +125,6 @@ minimum sterilization times for liquid cycle:
 
 JoVE Science Education Database. Biology I: yeast, Drosophila and C. elegans. RNAi in C. elegans. JoVE, Cambridge, MA, (2023).
 
-...
+http://www.wormbook.org/chapters/www_introreversegenetics/introreversegenetics.html
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9871793/
