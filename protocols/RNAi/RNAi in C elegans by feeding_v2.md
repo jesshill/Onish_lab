@@ -13,6 +13,7 @@ dsRNA enters _C. elegans_ tissue once ingested. Inside the cell, the enzyme Dice
 
 RNAi feeding libraries use the _E. coli_ strain HT115 (DE3), which contains an isopropyl beta-D-1-thigalactopyranoside (IPTG)-inducible T7 polymerase site to promote the production of double-stranded RNA (dsRNA) (so a genetic fragment from both the 5' and 3' ends are produced).
 
+
 ### REAGENTS:
 <ins> Carbenicillin stock solution [50 mg/mL]
 - Combine the following reagents into a 15 mL conical tube:
@@ -33,6 +34,7 @@ RNAi feeding libraries use the _E. coli_ strain HT115 (DE3), which contains an i
 - Clearly label, date, and then store at -20 C.
 - Can use in a final concentration range of 0.1–2 mM.
   - Suggested final concentration is 1 mM. 
+
 
 ### PLATE PREPERATION: 
 minimum sterilization times for liquid cycle:
@@ -62,6 +64,7 @@ minimum sterilization times for liquid cycle:
 - Once all ingredients have been added, stir media thoroughly and then pour plates.
 - Store plates at 4C for about a month. 
 
+
 ### BACTERIAL PREPERATION: 
 
 <ins> Obtain _E. coli_ RNAi feeding strains
@@ -88,78 +91,27 @@ minimum sterilization times for liquid cycle:
 - Seed concentrated RNAi strains onto RNAi plates.
   - Need to seed only 1 mL of each strain onto an RNAi plate.
     - Can make 5 query plates, and 1 control plate.
-- Can use plates immediatly or let dry and then store at 4C for 1 month. 
+- Can use plates immediatly or let dry and then store at 4C for 1 month.
+
+**ALTERNATIVE APPROACH:** 
+- Grow up RNAi strain(s) in 10 mL of liquid culture (LB supplemented with 50 or 100 ug/mL Carb) overnight at 37C and shaking.
+- Next day (no more than 18 hrs after innoculation), dilute the overnight culture(s) by adding 40 mL of fresh LB supplemented with 50 or 100 ug/mL Carb and grow at 37C for 3 more hours.
+- Then, induce dsRNA transcription by adding IPTG to culture(s) to a final concentration of 1 mM. Put back in incubator for another 3 hours.
+- 3 hours after dsRNA induction, plate RNAi strain(s) onto RNAi plates.
+- Can use immediatly or let dry overnight.
+  - Store plates up to 2 weeks at 4C!
+
 
 ### PROTOCOL:
 
 <ins> Worm growth and embryo harvest
-  - Grow __________ worms on OP50 plates until they are gravid.
+  - Grow ____________ worms on OP50 plates until they are gravid.
     - Need 1 large plate for each RNAi strain, including controls, so at least a total of 3 large plates (RNAi of interest, POP-1 positive control, L4440 negative control). 
   - Embryo prep worms
-    - If the RNAi strain is larvel lethal, then let embryos hatch overnight in M9 and seed onto OP50 plates until they reach the L4 stage.
-      - Alternatively, could just grow in liquid OP50 (waste less plates).
-    - If the RNAi strain is not larvel letahl, then seed embryos directly onto RNAi plates. 
-
-
-
-
-
-
-
-
-
-
-2. Grow and Induce _E. coli_
-
-<ins> DAY 1 <ins>
-
-- Inoculate 5 mL of liquid LB Carb [100 ug/mL] with each _E. coli_ strain. Repeat for all strains needed, including controls.
-- Grow overnight at 37 C, shaking (200 RPM).
-
-<ins> DAY 2 <ins>
-
-- No more than 18 hr after initial _E. coli_ inoculation dilute overnight cultures. Add 40 uL of each overnight culture into 6 mL fresh LB Carb [100 ug/mL].
-- Grow shaking at 37C for 3 hours.                      
-- Induce dsRNA transcription by adding IPTG to 1 mM final concentration to each culture.
-- Organize 6 cm RNAi plates by labeling them.
-- Add IPTG to 1 mM final concentration per plate (use calculation above).
-- 3 hours after _E. coli_ induction, plate 500 ul of each culture on a 6 cm RNAi plate.
-- Let plates dry overnight at room temp.
-
-<ins> DAY 3 <ins>
-
-\*Store plates up to 2 weeks at 4 C or use immediately in step 3.
-
-3. Move worms onto _E. coli_ seeded plates
-
-<ins> DAY 3 or LATER <ins>
-
-- Move 1 – 2 worms onto an _E. coli_ seeded plate. L4 worms can be used or very young adult worms.
-- This step can be optimized in a variety of ways. N2 worms or RNAi sensitive worms can be used. The age of the worm can be optimized for each transcript. Just try to stay consistent with the age of each worm added within a given experiment.
-- Allow worms to grow on plates for 24 hours at 20 C.
-
-4. Capture laid eggs
-
-<ins> DAY 4 <ins>
-
-- 24 hours after first _E. coli_ exposure, obtain freshly laid eggs by moving worms to a new _E. coli_\-seeded plate (of the same dsRNA expression). This is called the “24 hr. Capture Plate”.
-- Let the worms lay on the capture plate for 2 hrs – 24 hours depending on their egg-laying rate. Try to capture at least 50 eggs.
-- Move worms to a new plate (of the same dsRNA type) and return to 20 C. Count the eggs on the capture plate.
-
-5. Measure embryonic viability.
-
-<ins> DAY 5 <ins>
-
-- 24 hours after the adult worms were moved off of the capture plate, count the # embryos and # hatched worms.
-- Compare the total numbers with the number embryos counted the day before.
-- If there are discrepancies, look for dead worms on the lip of the plate and try to count those.
-- If counting is challenging, count each plate twice.
-- Tabulate numbers both 1) by hand in the lab notebook and 2) in excel spreadsheet form.
-- Calculate the % viability and % lethality for each strain.
-
-<ins> 48 – hour time point <ins>
-
-- In addition, a 48 hour time point is often useful. Start another capture plate for 48 hours after first _E. coli_ exposure and repeat the embryonic viability calculation.
+    - If the RNAi strain is larvel lethal, then let embryos hatch overnight in M9 and seed onto OP50 plates until they reach the L3 stage. Then wash worms 2 times with M9 and seed onto RNAi plates of interest for about 48 hrs (enough time to develop and lay eggs). 
+      - Alternatively, could just grow in liquid OP50 (waste less plates) until the L3 stage.
+    - If the RNAi strain is not larvel letahl, then seed embryos directly onto RNAi plates.
+- Harvest RNAi treated worms at desired stage for downstream analysis. 
 
 
 ### REFERENCES:
@@ -167,32 +119,3 @@ minimum sterilization times for liquid cycle:
 JoVE Science Education Database. Biology I: yeast, Drosophila and C. elegans. RNAi in C. elegans. JoVE, Cambridge, MA, (2023).
 
 ...
-
----
-
-UPDATES TO THE PROTOCOL:
-
-Hi Erin,
-
-
-The few changes to the original protocol were made from recommendations from the Ahringer lab’s currect protocol. The main differences are some concentrations and choices of antibiotic. The major change is the top spreading of Carb/IPTG; also IPTG is not added to liquid culture.
-
-1.       Grow E.coli in 100 mg/L Carb LB liquid overnight.
-
-2.       Inoculate 6 mL fresh LB-Carb with 40 ul of overnight culture.
-
-3.       Grow fresh LB Carb for 6 hours shaking at 37C
-
-4.       Top spread NGM plates with 100 mg/L Carb and 1 M IPTG. I premix 1:1 solution of our Carb and IPTG stocks then pipette 1ul Carb-IPTG mix per 1 ml medium. Assuming 6 cm plates are 12.5 mL and 10 cm plates at 25 mL total. Spread with the L-shaped glass pipette, with ethanol/flaming in between.
-
-5.       Briefly let the 25-50 uL of topspread Carb-IPTG mix soak in.
-
-6.       Seed plates with 500-1000 ul 6 hour culture.
-
-7.       Allow plates to dry and induce overnight.
-
-8.       Store at 4 degrees.
-
-
-
-Jay
