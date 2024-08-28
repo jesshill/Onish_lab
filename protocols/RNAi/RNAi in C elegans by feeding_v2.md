@@ -108,10 +108,12 @@ minimum sterilization times for liquid cycle:
   - Grow ____________ worms on OP50 plates until they are gravid.
     - Need 1 large plate for each RNAi strain, including controls, so at least a total of 3 large plates (RNAi of interest, POP-1 positive control, L4440 negative control). 
   - Embryo prep worms
-    - If the RNAi strain is larvel lethal, then let embryos hatch overnight in M9 and seed onto OP50 plates until they reach the L3 stage. Then wash worms 2 times with M9 and seed onto RNAi plates of interest for about 48 hrs (enough time to develop and lay eggs). 
+    - If the RNAi strain is **larvel lethal**, then let embryos hatch overnight in M9 and seed onto OP50 plates until they reach the L3 stage. Then wash worms 2 times with M9 and seed onto RNAi plates of interest for about 48 hrs (enough time to develop and lay eggs). 
       - Alternatively, could just grow in liquid OP50 (waste less plates) until the L3 stage.
-    - If the RNAi strain is not larvel letahl, then seed embryos directly onto RNAi plates.
-- Harvest RNAi treated worms at desired stage for downstream analysis. 
+    - If the RNAi strain is **not larvel letahl**, then seed embryos directly onto RNAi plates.
+- Allow worms to grow on RNAi for desired time/reach desired stage. Grow worms at 20C. 
+- Harvest RNAi treated worms for downstream analysis.
+  - Check that your controls worked! 
 
 
 ### REFERENCES:
