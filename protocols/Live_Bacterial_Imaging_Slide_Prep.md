@@ -17,4 +17,5 @@ Author: Andrew Moore
 1. OPTIONAL: Add 750uL of 1% bleach in M9 and incubate for 30 seconds, turning the eppi over in your hand. Immediately spin down @2500g for 1 minute.
 1. OPTIONAL: Immediately remove supernatant and quench bleaching with 1mL M9. 
 1. Wash 3 times with M9, then resuspend in 50uL of 25mM Sodium Azide.
+   - (I have been skipping these and just keeping them in the NaN3)
 1. Prepare slide by pipetting 10uL onto center of slide, covering, and then valaping. 
