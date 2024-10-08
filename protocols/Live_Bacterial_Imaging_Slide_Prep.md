@@ -3,19 +3,24 @@
 
 Date: 03-31-2023
 
-Author: Andrew Moore
+Author: Andrew Moore and modified by Jessica Hill (09-01-2024)
 
 --- 
 
-1. Collect worms from plates into a 15 mL conical tube using M9.
-1. Spin down @2000g for 1 min, remove supernatant and wash in M9 a total of 3 times. On the last wash, resuspend in 5mL of M9. 
-1. Move 1mL into an eppi and spin down @2500g for 1 min.
-   1. NOTE: The amount of M9 resuspended in in step 2 and the amount in step 3 will depend on how many worms you have in your prep. I used 2 small plates to generate this protocol and these steps gave an appropriate concentration of worms on the final slide. 
-1. Remove supernatant and resuspend in 400uL of 25mM Sodium Azide. 
-1. Incubate for 2 minutes then spin down @2500g for 1 minute. 
-   1. NOTE: Sodium Azide generally works very fast. Still, check after the incubation under the dissecting scope to ensure full paralysis. 
-1. OPTIONAL: Add 750uL of 1% bleach in M9 and incubate for 30 seconds, turning the eppi over in your hand. Immediately spin down @2500g for 1 minute.
-1. OPTIONAL: Immediately remove supernatant and quench bleaching with 1mL M9. 
-1. Wash 3 times with M9, then resuspend in 50uL of 25mM Sodium Azide.
-   - (I have been skipping these and just keeping them in the NaN3)
-1. Prepare slide by pipetting 10uL onto center of slide, covering, and then valaping. 
+experimenter: 
+
+experiment notes: 
+
+---
+
+1. Grow worm(s) to desired stage, on bacterial diet(s) of interest. 
+   - Embryo prep desired worm strain, then let embryos hatch overnight.
+   - Plate L1s on bacterial diet of interest and grow for desired time at 25C.
+   - If need to swap to a different diet at some point, plan that into the growth time. 
+2. Collect worms from plates (generally 2 small plates is enough) into a 15 mL conical tube using M9.
+3. Pellet worms (2000g for 1 min) and remove supernatant.
+4. Wash 3 times with M9.
+5. On the last wash, aspirate as much supernatent as possible and then resuspend in ~2 mL of 25mM Sodium Azide. 
+6. Incubate for about ~ 1 min.
+7. Pellet worms (2000g for 1 min) and remove supernatent, leaving ~50 uL or so (this is dependent on how big your worm pellet is).
+8. Prepare your slide by pipetting 8-10 uL of sample onto the center of a microscope slide. Cover with a square (22x22 mm) coverslip, and then seal by valaping the edges. 
