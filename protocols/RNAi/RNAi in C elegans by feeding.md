@@ -24,7 +24,7 @@ RNAi feeding libraries use the _E. coli_ strain HT115 (DE3), which contains an i
 <ins> Carbenicillin stock solution [50 mg/mL]
 - Combine the following reagents into a 15 mL conical tube:
   - 0.5 g Carbenicillin
-  - 10 mL H2O
+  - Bring up to 10 mL with H2O
 - Filter sterilize the solution through a 0.22 um filter.
 - Make 1 mL aliquots.
 - Clearly label, date, and then store at -20C. 
@@ -34,7 +34,7 @@ RNAi feeding libraries use the _E. coli_ strain HT115 (DE3), which contains an i
 <ins> IPTG stock solution [1 M]
 - Combine the following reagents into a 15 mL conical tube:
   - 2.38 g Isopropyl-β-D-thiogalactopyranoside (IPTG)
-  - 10 mL H2O
+  - Bring up to 10 mL with H2O
 - Filter sterilize solution through a 0.22 um filter.
 - Make 1 mL aliquots.
 - Clearly label, date, and then store at -20 C.
