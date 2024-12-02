@@ -30,6 +30,8 @@ For Q5 DNA polymerase, set up the PCR as follows:
 
 To a PCR tube, add 45 uL of PCR mix and 5 uL of gDNA (... ng/uL) for a total reaction volume of 50 uL.
 
+### Run PCR
+
 Add sample tubes to the thermocycler.
 
 Run the PCR with the following thermocycle settings:
