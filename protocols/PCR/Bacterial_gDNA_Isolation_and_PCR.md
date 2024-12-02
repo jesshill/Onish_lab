@@ -12,7 +12,7 @@ Follow kit instructions for cultured cells (which includes bacteria) with implem
 
 ### Set up PCR
 
-For Q5 DNA polymerase, set up the PCR as follows: 
+For Q5 DNA polymerase, set up the PCR as follows (prepare on ice!): 
 
 |Component |1x volume | #x volume | [Final] | Check when added |
 | --- | --- | --- | --- | --- |
@@ -29,6 +29,8 @@ For Q5 DNA polymerase, set up the PCR as follows:
 *Add enzyme last!
 
 To a PCR tube, add 45 uL of PCR mix and 5 uL of gDNA (... ng/uL) for a total reaction volume of 50 uL.
+
+Once all components are added, briefly spin down the sample to collect contents at the bottom of the tube. 
 
 ### Run PCR
 
