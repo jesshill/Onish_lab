@@ -44,3 +44,6 @@ Run the PCR with the following thermocycle settings:
   - repeat for a total of 30X cycles! 
 - 72C 2min 
 - 12C hold 
+
+### Run PCR product on gel to confirm 
+
