@@ -28,7 +28,7 @@ For Q5 DNA polymerase, set up the PCR as follows (prepare on ice!):
 
 *Add enzyme last!
 
-To a PCR tube, add 45 uL of PCR mix and 5 uL of gDNA (... ng/uL) for a total reaction volume of 50 uL.
+To a PCR tube, add 45 uL of PCR mix and 5 uL of gDNA (10 ng/uL) for a total reaction volume of 50 uL.
 
 Once all components are added, briefly spin down the sample to collect contents at the bottom of the tube. 
 
