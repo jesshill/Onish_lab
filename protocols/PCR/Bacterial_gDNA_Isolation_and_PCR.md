@@ -48,7 +48,7 @@ Run the PCR with the following thermocycle settings:
 ### Run PCR product on gel to confirm 
 
 make gel:
-- combine 1 g of agarose gel with 100 mL of TBE buffer in a flask. Then melt in the microwave. This makes a 1% w/v agar gel.
+- combine 1 g of agarose with 100 mL of TBE buffer in a flask. Then melt in the microwave. This makes a 1% w/v agar gel.
 - Add gel stain prior to casting. We are using syber safe green which comes as 10,000X so need to add 10 uL to the 100 mL. Gently swirl then cast the gel.
 
 Prepare sample for gel: 
