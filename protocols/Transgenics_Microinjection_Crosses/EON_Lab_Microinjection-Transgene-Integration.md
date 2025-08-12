@@ -40,7 +40,7 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
    1. DNA Mix: 
       1. Aim for a total of 80 – 90 ng/uL DNA. Higher concentrations of 100 – 150 ng/uL are okay but can lead to needle clogging. 
       1. Adjust plasmid(s) of interest concentration based on desired expression level (i.e., if want high expression then aim for ~30 ng/uL of construct, if want low expression then aim for ~10 – 15 ng/uL).
-        1. Use plasmids from -20 for about a month, then isolate fresh plasmids. 
+        1. Use plasmids from -20C for about a month, then isolate fresh plasmids. 
       1. Add filler DNA (empty vector-Bluescript or L4440, or genomic DNA-sperm) to reach desired total DNA concentration (i.e. 80 – 150 ng/uL) for the mix.
          1. Salmon sperm DNA (15632-011; Invitrogen) 
 2. Load microinjection needles with ~1 uL of DNA using capillary action. Could do up to 4 uL into one needle, but don’t want to do in case the needle clogs. DNA can also evaporate if it takes too long to load. 
@@ -141,6 +141,7 @@ P/N 97-0166-01
 - Recover worms from the slide/oil using either M9 or PBST. Then transfer worms to about 10 uL of same media on an NGM plate. 
 - DNA mix: make fresh, can keep for a couple of days but no more than a week 
 - Plasmid freshness: isolate and keep DNA for a month or so 
+
 
 
 
