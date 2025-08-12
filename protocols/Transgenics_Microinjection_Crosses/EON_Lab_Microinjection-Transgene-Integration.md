@@ -12,7 +12,8 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
   - Pull needles and store
 - Injection pads
   - Make 1% w/v agar pads with Nanopore water. 
-    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top, have the slides with about 3 strips of tape on them to rest the top coverslip on. Then let cool ~5 min and uncover. Dry pads overnight. 
+    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top, have the slides with about 3 strips of tape on them to rest the top coverslip on. Then let cool ~5 min and uncover. Dry pads overnight.
+    - Alternatively, can make 1.5% or 2% pads.
     - Alternatively, can make same day and dry in 37C incubator. 
   - Use the 22x50 glass coverslips (Fisher, cat: 12-548-5E) to mount the agar pad on and to flatten the agar drop. 
 - Injection oil
@@ -140,4 +141,5 @@ P/N 97-0166-01
 - Recover worms from the slide/oil using either M9 or PBST. Then transfer worms to about 10 uL of same media on an NGM plate. 
 - DNA mix: make fresh, can keep for a couple of days but no more than a week 
 - Plasmid freshness: isolate and keep DNA for a month or so 
+
 
