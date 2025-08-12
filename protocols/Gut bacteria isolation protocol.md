@@ -28,8 +28,10 @@
 11. Wash worms 2 times with 1 mL of sterile M9. Pellet (1 min, 2000 g, RT) and remove the supernatant in between washes. **However, after the last wash, aspirate** **and save the supernatant for plating to determine the background level of bacteria.** 
 12. Resuspend sample in 200 uL of sterile M9 for mortar/pestle lysing. 
 13. Lyse worms with a sterilized pestle in the eppi tube. Perform stroke/twists for about 2-3 min. Check the sample under the dissecting scope after 2 min and see if worms are broken up enough.  
-14. Plate 100 uL of worm lysate and supernatant onto appropriate plates and spread. Culture plates at the appropriate temperature (i.e. 20C or 37C) and count CFUs the next day (may need to incubate for another day). Also image the plates in the gel imager for CFU counting. 
-15. Count plates with between 30 – 300 colonies. Otherwise, plates are Too Few To Count (TFTC) or Too Many To Count (TMTC).  
+14. Plate 100 uL of **worm lysate** and **supernatant** onto appropriate plates (selection and non-selection) and spread. Culture plates at the appropriate temperature (i.e. 20C or 37C) and count CFUs the next day (may need to incubate for another day). Also image the plates in the gel imager for CFU counting.
+  - For background supernatent, plate on non-selection plate.
+  - For worm lysate, plate on non-selection and selection plates.
+15. Count plates with between 30 – 300 colonies. Otherwise, plates are Too Few To Count (TFTC) or Too Many To Count (TMTC).
 
 ### References:
 - CeMbio - The Caenorhabditis elegans Microbiome Resource. Philipp Dirksen,\*,1 Adrien Assié,†,1 Johannes Zimmermann,‡ Fan Zhang,† Adina-Malin Tietje,\* Sarah Arnaud Marsh,§ Marie-Anne Félix,§ Michael Shapira,\*\* Christoph Kaleta,‡ Hinrich Schulenburg,\*,1,2 and Buck S. Samuel
@@ -39,4 +41,5 @@
 - **A method for high throughput determination of viable bacteria cell counts in 96-well plates. [Ronen Hazan](https://pubmed.ncbi.nlm.nih.gov/?term=Hazan+R&cauthor_id=23148795)** <sup>[1</sup>](https://pubmed.ncbi.nlm.nih.gov/23148795/#affiliation-1 "Department of Surgery, Harvard Medical School and Massachusetts General Hospital, Boston, MA 02114, USA.")</sup>, [Yok-Ai Que](https://pubmed.ncbi.nlm.nih.gov/?term=Que+YA&cauthor_id=23148795), [Damien Maura](https://pubmed.ncbi.nlm.nih.gov/?term=Maura+D&cauthor_id=23148795), [Laurence G Rahme](https://pubmed.ncbi.nlm.nih.gov/?term=Rahme+LG&cauthor_id=23148795)
 
 - <https://www.wormatlas.org/hermaphrodite/introduction/mainframe.htm>
+
 
