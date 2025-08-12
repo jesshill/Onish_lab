@@ -9,10 +9,10 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
 ### **EQUIPMENT**
 
 - Microinjection needles
-  - Pull needles fresh or keep from accumulating dust.
+  - Pull needles and store
 - Injection pads
-  - Make 2% w/v agar pads with Nanopore water. 
-    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top. Then let cool ~5 min and uncover. Dry pads overnight. 
+  - Make 1% w/v agar pads with Nanopore water. 
+    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top, have the slides with about 3 strips of tape on them to rest the top coverslip on. Then let cool ~5 min and uncover. Dry pads overnight. 
     - Alternatively, can make same day and dry in 37C incubator. 
   - Use the 22x50 glass coverslips (Fisher, cat: 12-548-5E) to mount the agar pad on and to flatten the agar drop. 
 - Injection oil
@@ -38,7 +38,8 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
    1. Keep DNA mix in the fridge for further use, but don’t keep/use for more than 1 week. 
    1. DNA Mix: 
       1. Aim for a total of 80 – 90 ng/uL DNA. Higher concentrations of 100 – 150 ng/uL are okay but can lead to needle clogging. 
-      1. Adjust plasmid(s) of interest concentration based on desired expression level (i.e., if want high expression then aim for ~30 ng/uL of construct, if want low expression then aim for ~10 – 15 ng/uL). 
+      1. Adjust plasmid(s) of interest concentration based on desired expression level (i.e., if want high expression then aim for ~30 ng/uL of construct, if want low expression then aim for ~10 – 15 ng/uL).
+        1. Use plasmids from -20 for about a month, then isolate fresh plasmids. 
       1. Add filler DNA (Bluescript or genomic DNA) to reach desired total DNA concentration (i.e. 80 – 150 ng/uL) for the mix.
          1. Salmon sperm DNA (15632-011; Invitrogen) 
 2. Load microinjection needles with ~1 uL of DNA using capillary action. Could do up to 4 uL into one needle, but don’t want to do in case the needle clogs. DNA can also evaporate if it takes too long to load. 
@@ -139,3 +140,4 @@ P/N 97-0166-01
 - Recover worms from the slide/oil using either M9 or PBST. Then transfer worms to about 10 uL of same media on an NGM plate. 
 - DNA mix: make fresh, can keep for a couple of days but no more than a week 
 - Plasmid freshness: isolate and keep DNA for a month or so 
+
