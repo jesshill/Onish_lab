@@ -1,6 +1,6 @@
 ## ﻿***C. elegans* Microinjection Protocol**
 
-Date: 08-03-2023
+Date: 08-03-2023 modified on 08-12-2025
 
 Author: Jessica Hill (adapted from literature and the Hoerndli lab)
 
@@ -141,6 +141,7 @@ P/N 97-0166-01
 - Recover worms from the slide/oil using either M9 or PBST. Then transfer worms to about 10 uL of same media on an NGM plate. 
 - DNA mix: make fresh, can keep for a couple of days but no more than a week 
 - Plasmid freshness: isolate and keep DNA for a month or so 
+
 
 
 
