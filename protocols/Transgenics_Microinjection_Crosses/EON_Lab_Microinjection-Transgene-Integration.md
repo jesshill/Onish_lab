@@ -9,10 +9,10 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
 ### **EQUIPMENT**
 
 - Microinjection needles
-  - Pull needles and store
+  - Pull desired needles and store safely
 - Injection pads
   - Make 1% w/v agar pads with Nanopore water. 
-    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top, have the slides with about 3 strips of tape on them to rest the top coverslip on. Then let cool ~5 min and uncover. Dry pads overnight.
+    - Heat in microwave. Dispense while hot using Pasteur Pipette. Technique is to use 1 drop per coverslip and let another coverslip drop on top, have the slides with ~3 strips of tape on them to rest the top coverslip on. Then let cool ~5 min and uncover. Dry pads overnight.
     - Alternatively, can make 1.5% or 2% pads.
     - Alternatively, can make same day and dry in 37C incubator. 
   - Use the 22x50 glass coverslips (Fisher, cat: 12-548-5E) to mount the agar pad on and to flatten the agar drop. 
@@ -24,12 +24,13 @@ Author: Jessica Hill (adapted from literature and the Hoerndli lab)
   - Want worms to be late L4 to YA stage. Want about 1 – 3 or 1 – 5 embryos present in the worm. 
   - Wormbook: Well fed, young to middle aged (> 1 day old) gravid hermaphrodites with a full but single row of eggs. 
 - NGM/OP50 plates
-  - Want 1 per injected worm. 
+  - Want 1 per injected worm, or can use 1 plate and move worms later. 
 - Microinjection needle loading pipettes 
-  - Use a P2 pipette to load the microinjection needle. 
+  - Use a P2 pipette to load the microinjection needle.
+  - Alternativley, use a gel loading tip to load the microinjection needles (works way better!).
 - DNA for injection (either plasmid or linear fragments)
   - For isolation of plasmids, use the PureLink HQ Mini Plasmid DNA Purification Kit (Invitrogen; K2100-01). The optional wash step in this protocol is NOT optional.
-    - Isolated plasmids should be kept/used for about 1 month in -20C. Then need to be renewed. 
+    - Isolated plasmids should be kept/used for about 1 month and stored in -20C. Then need to be renewed. 
 
 ### **PROTOCOL**
 
@@ -141,6 +142,7 @@ P/N 97-0166-01
 - Recover worms from the slide/oil using either M9 or PBST. Then transfer worms to about 10 uL of same media on an NGM plate. 
 - DNA mix: make fresh, can keep for a couple of days but no more than a week 
 - Plasmid freshness: isolate and keep DNA for a month or so 
+
 
 
 
