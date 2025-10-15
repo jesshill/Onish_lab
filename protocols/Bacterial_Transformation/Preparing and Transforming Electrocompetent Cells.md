@@ -25,15 +25,22 @@
 1. Label microcentrifuge tubes for samples (you will need 2 tubes per sample).
 
 ### Preparation of electrocompetent cells:
-1. Grow 10 mL overnight culture.
+1. Grow 10 mL overnight culture in 0.1% Tween 20 and 8 ug/mL PMBN (polymyxin B nonapeptide) to help permeablize the bacterial cell walls and prevent biofilm formation.
+2. Take the OD600 reading of each sample and record it in the table below. In order to prevent arcing, calculate the total resuspension volume (TRV) of 300mM sucrose you will need to add to your sample in step 7 with this formula: (resuspension volume) = 875(OD600 reading) + 15. Units are in uL. 
 1. Pellet sample (3000 g, 10 min, RT) and aspirate supernatent down to 1 mL. 
 1. Pipette mix and distribute 1 mL of culture into a sterile microcentrifuge tube. 
 1. Centrifuge at 16,000g @ RT for 2 mins. 
 1. Remove supernatant and resuspend in 1 mL of 300 mM sucrose. Pipette mix to resuspend sample. 
    1. Repeat sucrose wash 1 time, for a total of 2 washes. 
-1. After second wash, remove supernatant and resuspend cells in desired volume of sucrose (50 uL per shock). You want the final volume equal to:
+1. After second wash, remove supernatant and resuspend cells according to the resuspension volumes you calculated earlier in step 2. Depending on your starting OD600, you may not want to use your entire sample in order to avoid overfilling the microcentrifuge tube (adjust as you see fit). Keep in mind that each electroporation shock will use 50 ul of your sample.
 
-V=50 uL * number of shocks
+| Sample Name | OD600 Reading | Total Resuspension Volume (TRV)| 
+|-------------|---------------|--------------------------------|
+|-------------|---------------|--------------------------------|
+|-------------|---------------|--------------------------------|
+|-------------|---------------|--------------------------------|
+|-------------|---------------|--------------------------------|
+
 
 ### Transformation of Cells through Electroporation:
 1. To 1 mm (0.1 cm) gap-width cuvettes add:
@@ -50,3 +57,4 @@ V=50 uL * number of shocks
 1. Plate sample on selection plate (i.e., LB Gen) using plate spread method. 
 
 ### NOTES ON THE PROCESS AND OUTCOMES:
+
