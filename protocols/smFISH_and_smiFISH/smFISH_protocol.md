@@ -23,7 +23,7 @@ Adapted by: Jessica Hill on 12-26-2023
 - Make up 3 mL for each sample to be hybridized. Combine reagents into a nuclease free tube and vortex to mix. 
   - 200 uL --> x3 --> 600 uL Wash Buffer A (Biosearch Technologies; Cat#: SMF-WA1-60) 
   - 0.7 mL --> x3 --> 2.1 mL DEPC water
-  - 100 uL --> x3 --> 300 uL Deionized Formamide 
+  - 100 uL --> x3 --> 300 uL Deionized Formamide (the Deionized Formamide should be stored in -20C and thawed fresh for use!)
 
 *In fluorescence in situ hybridization (FISH), the addition of formamide to aqueous buffers solutions of DNA enables key procedural steps—such as the prehybridization denaturation, the reannealing step and the post-hybridization stringency washes—to be carried out at lower, less harsh temperatures without compromising the overall efficiency and specificity of the hybridization.
 
@@ -160,3 +160,4 @@ Dustin Updike
 Arjun Raj
 
 Nikolay Tsanov, Aubin Samacoits, Racha Chouaib, Abdel-Meneem Traboulsi, Thierry Gostan, Christian Weber, Christophe Zimmer, Kazem Zibara, Thomas Walter, Marion Peter, Edouard Bertrand, Florian Mueller; smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability, *Nucleic Acids Research*, Volume 44, Issue 22, 15 December 2016, Pages e165, <https://doi.org/10.1093/nar/gkw784>
+
