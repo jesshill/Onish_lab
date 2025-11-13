@@ -157,7 +157,8 @@ Stellaris. <https://biosearchassets.blob.core.windows.net/assets/bti_custom_stel
 
 Dustin Updike
 
-Arjun Raj
+Arjun Raj - https://sites.google.com/site/singlemoleculernafish/faq
 
 Nikolay Tsanov, Aubin Samacoits, Racha Chouaib, Abdel-Meneem Traboulsi, Thierry Gostan, Christian Weber, Christophe Zimmer, Kazem Zibara, Thomas Walter, Marion Peter, Edouard Bertrand, Florian Mueller; smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability, *Nucleic Acids Research*, Volume 44, Issue 22, 15 December 2016, Pages e165, <https://doi.org/10.1093/nar/gkw784>
+
 
