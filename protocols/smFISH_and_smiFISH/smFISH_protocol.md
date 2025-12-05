@@ -101,7 +101,7 @@ Adapted by: Jessica Hill on 12-26-2023
 - Prepare 110 uL of hybridization solution for sample. 
 - Prepare a 1:20 dilution of the 25 uM smFISH probe in DEPC water. Final concentration of the probe will now be 1.25 uM. 
 
-*We purchase smFISH probes at 5 nmol and then dilute them to 25 uM in 10 mM Tris (pH 8.0) when they arrive.
+*We purchase smFISH probes at 5 nmol and then dilute them to 25 uM in TE buffer (10 mM Tris-HCl, 1 mM EDTA, pH 8.0) when they arrive.
 
 - Add 2 uL of diluted smFISH probe to hybridization solution. Vortex well, it is viscous.
   - If probing for more than 1 transcript, just add the additional 2 uL of probe to the hybridization solution. 
@@ -160,5 +160,6 @@ Dustin Updike
 Arjun Raj - https://sites.google.com/site/singlemoleculernafish/faq
 
 Nikolay Tsanov, Aubin Samacoits, Racha Chouaib, Abdel-Meneem Traboulsi, Thierry Gostan, Christian Weber, Christophe Zimmer, Kazem Zibara, Thomas Walter, Marion Peter, Edouard Bertrand, Florian Mueller; smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability, *Nucleic Acids Research*, Volume 44, Issue 22, 15 December 2016, Pages e165, <https://doi.org/10.1093/nar/gkw784>
+
 
 
