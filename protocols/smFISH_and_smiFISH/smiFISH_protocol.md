@@ -63,11 +63,11 @@ Adapted by: Jessica Hill on 12-26-2023
 **smiFISH Probe Preparation**
 - Primary Probes
   - Oligos are delivered in 96-well plates diluted in IDTE buffer (pH 8.0) to 100 uM
-  - Prepare equimolar mixture of primary probes and dilute in 10 mM Tris (pH 8.0) made with DEPC water until you reach a concentration of 0.833 uM per probe.  
+  - Prepare equimolar mixture of primary probes and dilute in TE buffer (10 mM Tris, 1 mM EDTA, pH 8.0) made with DEPC water until you reach a concentration of 0.833 uM per probe.  
     - Use the smiFISH dilution calculator to make the equimolar mix. 
 
 - FLAP Preparation
-  - FLAPS are delivered lyophilized. Resuspend FLAP probes in TE buffer (10 mM Tris, 1 mM EDTA (pH 8.0)) to a final concentration of 50 uM. 
+  - FLAPS are delivered lyophilized. Resuspend FLAP probes in TE buffer (10 mM Tris, 1 mM EDTA, pH 8.0) to a final concentration of 50 uM. 
   - Make 3 uL aliquots and store at -20C in the dark.
 
 - Pre anneal smiFISH and FLAP probes
@@ -177,5 +177,6 @@ Arjun Raj - https://sites.google.com/site/singlemoleculernafish/faq
 Nikolay Tsanov, Aubin Samacoits, Racha Chouaib, Abdel-Meneem Traboulsi, Thierry Gostan, Christian Weber, Christophe Zimmer, Kazem Zibara, Thomas Walter, Marion Peter, Edouard Bertrand, Florian Mueller; smiFISH and FISH-quant – a flexible single RNA detection approach with super-resolution capability, *Nucleic Acids Research*, Volume 44, Issue 22, 15 December 2016, Pages e165, <https://doi.org/10.1093/nar/gkw784>
 
 Oligostan: Nikolay Tsanov N, Samacoits A, Chouaib R, Traboulsi AM, Gostan T, Weber C, Zimmer C, Zibara K, Walter T, Marion P, Bertrand E, Mueller F. smiFISH and FISH-quant - a flexible single RNA detection approach with super-resolution capability. Nucleic Acids Research. (https://github.com/jesshill/Onish_lab/assets/41451575/1160f999-933b-47a4-b04b-7d3ae2d6c7fa)
+
 
 
