@@ -83,6 +83,16 @@ Adapted by: Jessica Hill on 12-26-2023
 
 *You can make up in advance but keep only for one week. If making in advance, rather than the day of, store annealed probes in the freezer protected from light.
 
+
+**NEBuffer 3.1 recipe (1X Buffer Components)**
+- 100 mM NaCl
+- 50 mM Tris-HCl
+- 10 mM MgCl2
+- 100 µg/ml BSA
+- pH 7.9@25°C
+
+- Product Notes: the pH of 10X NEBuffer 3.1 is between pH 7.8 and 8.0.
+
 --- 
 
 ### PROTOCOL
