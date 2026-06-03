@@ -88,10 +88,8 @@ Adapted by: Jessica Hill on 12-26-2023
 - 100 mM NaCl
 - 50 mM Tris-HCl
 - 10 mM MgCl2
-- 100 µg/ml BSA
+- 100 µg/ml BSA or recombinant Albumin
 - pH 7.9@25°C
-
-- Product Notes: the pH of 10X NEBuffer 3.1 is between pH 7.8 and 8.0.
 
 --- 
 
