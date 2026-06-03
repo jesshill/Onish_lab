@@ -136,7 +136,7 @@ Adapted by: Jessica Hill on 12-26-2023
 - Next day, add 1 mL of Wash Buffer A directly to the hybridized sample. 
 - Incubate at 37°C for 30 min with shaking (450 rpm). 
 - Centrifuge sample (2000 x g for 1 min) and aspirate supernatant.
-- Add 1 mL of Wash Buffer A + 2 uL of 5 mg/mL DAPI solution to sample.
+- Add 1 mL of Wash Buffer A + 1 uL of 5 mg/mL DAPI solution to sample.
 - Incubate at 37°C for 30 min with shaking (450 rpm).
 - Centrifuge sample (2000 x g for 1 min) and aspirate supernatant.
 - Add 1 mL of Wash Buffer B to sample and vortex. Incubate for 5 min at 37°C with shaking (450 rpm).
