@@ -46,7 +46,7 @@ Adapted by: Jessica Hill on 12-26-2023
 - Original Mounting Medium (5 mL)
   - 2.5 mL of 100% glycerol
   - 25 mg of N-propyl gallate\*
-  - 100 uL of 1M Tris (pH 8.0)
+  - 100 uL of 1M Tris base (pH 8.0)
   - 2.4 mL of DEPC H<sub>2</sub>0
 - Updated Mounting Medium (3 mL)
   - 2.5 mL of 100% glycerol
