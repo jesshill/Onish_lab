@@ -51,7 +51,7 @@ Adapted by: Jessica Hill on 12-26-2023
 - Updated Mounting Medium (3 mL)
   - 2.5 mL of 100% glycerol
   - 100 mg of N-propyl gallate\*
-  - 400 uL of 1M Tris (pH 8.0)
+  - 400 uL of 1M Tris base (pH 8.0)
 
 *Add N-propyl gallate last
 - Vortex until completely dissolved.
